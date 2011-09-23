@@ -15387,3 +15387,22 @@ java.lang.NullPointerException
 2011-09-22 18:50:42 [INFO] Stopping server
 2011-09-22 18:50:42 [INFO] Saving chunks
 2011-09-22 18:50:43 [INFO] Saving chunks
+2011-09-23 07:53:47 [INFO] Starting minecraft server version Beta 1.8.1
+2011-09-23 07:53:47 [INFO] Loading properties
+2011-09-23 07:53:47 [INFO] Starting Minecraft server on *:5050
+2011-09-23 07:53:47 [INFO] Preparing level "world"
+2011-09-23 07:53:47 [INFO] Default game type: 0
+2011-09-23 07:53:47 [INFO] Preparing start region for level 0
+2011-09-23 07:53:48 [INFO] Preparing start region for level 1
+2011-09-23 07:53:48 [INFO] Preparing spawn area: 36%
+2011-09-23 07:53:49 [INFO] Done (1481897000ns)! For help, type "help" or "?"
+2011-09-23 08:53:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-23 08:54:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-23 09:03:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-23 09:04:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-23 09:04:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-23 09:05:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-23 14:29:21 [INFO] CONSOLE: Stopping the server..
+2011-09-23 14:29:21 [INFO] Stopping server
+2011-09-23 14:29:21 [INFO] Saving chunks
+2011-09-23 14:29:21 [INFO] Saving chunks
