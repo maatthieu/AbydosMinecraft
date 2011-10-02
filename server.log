@@ -15406,3 +15406,335 @@ java.lang.NullPointerException
 2011-09-23 14:29:21 [INFO] Stopping server
 2011-09-23 14:29:21 [INFO] Saving chunks
 2011-09-23 14:29:21 [INFO] Saving chunks
+2011-09-26 07:31:37 [INFO] Starting minecraft server version Beta 1.9 Prerelease
+2011-09-26 07:31:38 [INFO] Loading properties
+2011-09-26 07:31:38 [INFO] Starting Minecraft server on *:5050
+2011-09-26 07:31:38 [INFO] Preparing level "world"
+2011-09-26 07:31:38 [INFO] Default game type: 0
+2011-09-26 07:31:38 [INFO] Preparing start region for level 0
+2011-09-26 07:31:38 [INFO] Preparing start region for level 1
+2011-09-26 07:31:39 [INFO] Preparing spawn area: 52%
+2011-09-26 07:31:39 [INFO] Done (1354453000ns)! For help, type "help" or "?"
+2011-09-26 08:30:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-26 13:26:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-26 19:30:56 [INFO] Disconnecting Dietzer [/93.6.35.246:52293]: Outdated client!
+2011-09-26 19:34:35 [INFO] Disconnecting maatthieu [/127.0.0.1:51404]: Outdated client!
+2011-09-26 19:36:34 [INFO] Dietzer [/93.6.35.246:52416] logged in with entity id 101 at (-1460.5218415174077, 114.0, 58.52684235527116)
+2011-09-26 19:36:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-26 19:36:47 [INFO] maatthieu [/127.0.0.1:51577] logged in with entity id 240 at (1190.5, 64.0, -63.5)
+2011-09-26 19:36:53 [INFO] maatthieu issued server command: list
+2011-09-26 19:36:58 [INFO] <maatthieu> t ou?
+2011-09-26 19:37:31 [INFO] <Dietzer> Ca a marché, je le voit en ouvrant l inventaire ^^ t'es ou ?!
+2011-09-26 19:37:41 [INFO] <maatthieu> loin derriere captiale
+2011-09-26 19:37:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-26 19:37:51 [INFO] <Dietzer> Sur Osfer
+2011-09-26 19:38:06 [INFO] <maatthieu> non au sud
+2011-09-26 19:38:10 [INFO] <maatthieu> genre 700m
+2011-09-26 19:38:34 [INFO] <Dietzer> Rejoinds moi a Capital, je passe par le Nether
+2011-09-26 19:38:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-26 19:38:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-26 19:39:02 [INFO] <maatthieu> oki j'arriv
+2011-09-26 19:40:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-26 19:40:15 [INFO] <Dietzer> Je suis arrivé
+2011-09-26 19:40:24 [INFO] <maatthieu> prend les tunnels du sud
+2011-09-26 19:41:23 [INFO] <Dietzer> T'en ai ou ?!
+2011-09-26 19:41:56 [INFO] <Dietzer> Ok
+2011-09-26 19:41:59 [INFO] <maatthieu> loin
+2011-09-26 19:42:06 [INFO] maatthieu lost connection: disconnect.quitting
+2011-09-26 19:42:55 [INFO] Dietzer lost connection: disconnect.quitting
+2011-09-26 19:42:59 [INFO] Dietzer [/93.6.35.246:52432] logged in with entity id 13799 at (254.738124740037, 50.0, 20.243479583156322)
+2011-09-26 19:43:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-26 19:44:29 [INFO] /127.0.0.1:51607 lost connection
+2011-09-26 19:44:32 [INFO] maatthieu [/127.0.0.1:51610] logged in with entity id 16066 at (693.9417791989034, 82.0, 50.7432934145211)
+2011-09-26 19:44:47 [INFO] <maatthieu> 694
+2011-09-26 19:45:13 [INFO] <Dietzer> T'es a combien en X
+2011-09-26 19:45:25 [INFO] <Dietzer> J'en suis a 525
+2011-09-26 19:45:40 [INFO] <maatthieu> je suis la
+2011-09-26 19:45:42 [INFO] <maatthieu> t
+2011-09-26 19:45:46 [INFO] <maatthieu> 523
+2011-09-26 19:46:04 [INFO] <maatthieu> wao
+2011-09-26 19:46:10 [INFO] <maatthieu> une fifile
+2011-09-26 19:46:14 [INFO] <Dietzer> tu ne connais pas je suppose
+2011-09-26 19:46:17 [INFO] <Dietzer> ...
+2011-09-26 19:46:17 [INFO] <maatthieu> non
+2011-09-26 19:46:34 [INFO] <maatthieu> adieu
+2011-09-26 19:46:35 [INFO] <Dietzer> Neku Sakuraba, le HERO de The world ends with you
+2011-09-26 19:46:42 [INFO] <maatthieu> oki
+2011-09-26 19:46:45 [INFO] <maatthieu> je vais manger ++
+2011-09-26 19:46:45 [INFO] <Dietzer> Bon je deco on mange ++
+2011-09-26 19:46:47 [INFO] Dietzer lost connection: disconnect.quitting
+2011-09-26 19:46:48 [INFO] <maatthieu> ^^
+2011-09-26 19:46:50 [INFO] maatthieu lost connection: disconnect.quitting
+2011-09-26 19:46:58 [INFO] CONSOLE: Stopping the server..
+2011-09-26 19:46:58 [INFO] Stopping server
+2011-09-26 19:46:58 [INFO] Saving chunks
+2011-09-26 19:46:58 [INFO] Saving chunks
+2011-09-27 07:30:10 [INFO] Starting minecraft server version Beta 1.9 Prerelease
+2011-09-27 07:30:10 [INFO] Loading properties
+2011-09-27 07:30:11 [INFO] Starting Minecraft server on *:5050
+2011-09-27 07:30:11 [INFO] Preparing level "world"
+2011-09-27 07:30:11 [INFO] Default game type: 0
+2011-09-27 07:30:11 [INFO] Preparing start region for level 0
+2011-09-27 07:30:11 [INFO] Preparing start region for level 1
+2011-09-27 07:30:12 [INFO] Preparing spawn area: 40%
+2011-09-27 07:30:12 [INFO] Done (1348436000ns)! For help, type "help" or "?"
+2011-09-27 11:03:57 [INFO] Dietzer [/93.6.35.246:62646] logged in with entity id 145 at (516.0831819621651, 77.0, 19.406703762979127)
+2011-09-27 11:06:24 [INFO] Dietzer lost connection: disconnect.quitting
+2011-09-27 11:06:37 [INFO] Dietzer [/93.6.35.246:62652] logged in with entity id 1486 at (272.3307603461929, 60.0, 18.30000001192093)
+2011-09-27 11:09:31 [INFO] Dietzer lost connection: disconnect.quitting
+2011-09-27 11:09:34 [INFO] Dietzer [/93.6.35.246:62662] logged in with entity id 7138 at (18.569906830157386, 55.0, 22.964793986480252)
+2011-09-27 11:11:54 [INFO] Dietzer lost connection: disconnect.quitting
+2011-09-27 14:08:18 [INFO] Dietzer [/93.6.35.246:49410] logged in with entity id 10120 at (-1505.7601232702245, 113.0, 42.96573856739596)
+2011-09-27 14:09:23 [INFO] Dietzer lost connection: disconnect.quitting
+2011-09-27 15:32:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-27 15:38:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-27 17:56:44 [INFO] Dietzer [/93.6.35.246:53034] logged in with entity id 11058 at (-1509.4147063974633, 113.0, 55.89250685201435)
+2011-09-27 17:57:32 [INFO] Dietzer lost connection: disconnect.overflow
+2011-09-27 17:57:40 [INFO] Dietzer [/93.6.35.246:53040] logged in with entity id 11457 at (-210.41147108332083, 107.0, 53.908093195322245)
+2011-09-27 17:58:26 [INFO] Dietzer lost connection: disconnect.overflow
+2011-09-27 17:58:32 [INFO] Dietzer [/93.6.35.246:53047] logged in with entity id 11744 at (-288.94161290862394, 116.0, 65.31698698507765)
+2011-09-27 17:59:41 [INFO] Dietzer lost connection: disconnect.quitting
+2011-09-27 17:59:46 [INFO] Dietzer [/93.6.35.246:53051] logged in with entity id 11980 at (-302.0278303662376, 117.0, 53.10557088561447)
+2011-09-27 18:10:53 [INFO] maatthieu [/127.0.0.1:52719] logged in with entity id 15549 at (518.5713220256699, 56.0, 19.833565208112535)
+2011-09-27 18:11:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-27 18:12:41 [INFO] <Dietzer> Je reprends des force et je retourne explorer le Nether, j'espere y trouver un dnojon
+2011-09-27 18:13:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-27 18:14:20 [INFO] <maatthieu> ^^
+2011-09-27 18:14:32 [INFO] <maatthieu> le serveur ne rame pas?
+2011-09-27 18:15:07 [INFO] <Dietzer> Non ça va
+2011-09-27 18:15:17 [INFO] <maatthieu> pre release cette semaine avec la reparation d'item
+2011-09-27 18:15:24 [INFO] Dietzer lost connection: disconnect.overflow
+2011-09-27 18:15:48 [INFO] Dietzer [/93.6.35.246:53112] logged in with entity id 23879 at (-161.62224493550562, 88.76636799395752, -33.63488431584409)
+2011-09-27 18:16:41 [INFO] Dietzer lost connection: disconnect.overflow
+2011-09-27 18:16:48 [INFO] Dietzer [/93.6.35.246:53115] logged in with entity id 26488 at (-140.6867970858789, 85.0, -80.95857469108503)
+2011-09-27 18:19:38 [INFO] <Dietzer> 124 poudres lumineuses, ça va ^^
+2011-09-27 18:23:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-27 18:23:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-27 18:26:48 [INFO] maatthieu issued server command: list
+2011-09-27 18:26:54 [INFO] <maatthieu> ca va
+2011-09-27 18:26:58 [INFO] <maatthieu> tjs pas de donjon?
+2011-09-27 18:27:08 [INFO] <Dietzer> Non
+2011-09-27 18:27:17 [INFO] <Dietzer> Mais j'ai vu un gros slime de lave
+2011-09-27 18:27:21 [INFO] <maatthieu> cool
+2011-09-27 18:27:32 [INFO] <maatthieu> il pleut...
+2011-09-27 18:27:36 [INFO] <Dietzer> Je sais
+2011-09-27 18:27:56 [INFO] <maatthieu> prochain chateau souterrain pas de probleme de meteo comme ca :p
+2011-09-27 18:28:03 [INFO] <Dietzer> ^^
+2011-09-27 18:29:43 [INFO] <Dietzer> Et moi je n'ai toujours pas de bestiole dans mon parc
+2011-09-27 18:29:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-27 18:30:38 [INFO] <maatthieu> c chiant le non saut auto
+2011-09-27 18:31:03 [INFO] <Dietzer> C'est clair
+2011-09-27 18:31:10 [INFO] <maatthieu> au final t y fait pas gaffe
+2011-09-27 18:31:15 [INFO] <Dietzer> Ca va m'obliger a faire des escaliers
+2011-09-27 18:31:21 [INFO] <maatthieu> lol
+2011-09-27 18:31:44 [INFO] <Dietzer> Je retourne dans le Nether, il fait plus chaud
+2011-09-27 18:31:54 [INFO] <maatthieu> oki ^^
+2011-09-27 18:34:08 [INFO] maatthieu lost connection: disconnect.quitting
+2011-09-27 18:34:13 [INFO] maatthieu [/127.0.0.1:52869] logged in with entity id 48853 at (22.28125, 56.0, -3.4375)
+2011-09-27 18:34:24 [INFO] <maatthieu> je me suis retrouve bloqué
+2011-09-27 18:34:29 [INFO] <Dietzer> Arf
+2011-09-27 18:39:42 [INFO] <Dietzer> T'es où là ?!
+2011-09-27 18:39:52 [INFO] <maatthieu> c bon plus bloqué
+2011-09-27 18:39:58 [INFO] <Dietzer> ...
+2011-09-27 18:40:07 [INFO] <maatthieu> capitale nouvelle ligne de chemin de fer entre la gare et Centraälis
+2011-09-27 18:40:32 [INFO] <Dietzer> Ok, je me rapproche de chez toi, je vais explorer Osfer de ce coté
+2011-09-27 18:41:53 [INFO] maatthieu lost connection: disconnect.quitting
+2011-09-27 18:43:08 [INFO] Dietzer lost connection: disconnect.quitting
+2011-09-27 18:43:12 [INFO] Dietzer [/93.6.35.246:53154] logged in with entity id 54887 at (111.73219035221928, 90.0, 28.114726115766135)
+2011-09-27 18:43:37 [INFO] Dietzer lost connection: disconnect.overflow
+2011-09-27 18:43:43 [INFO] Dietzer [/93.6.35.246:53157] logged in with entity id 54990 at (123.84084580777461, 86.0, 65.50894582539983)
+2011-09-27 18:44:24 [INFO] Dietzer lost connection: disconnect.overflow
+2011-09-27 21:11:07 [INFO] CONSOLE: Stopping the server..
+2011-09-27 21:11:07 [INFO] Stopping server
+2011-09-27 21:11:07 [INFO] Saving chunks
+2011-09-27 21:11:07 [INFO] Saving chunks
+2011-09-28 07:35:34 [INFO] Starting minecraft server version Beta 1.9 Prerelease
+2011-09-28 07:35:34 [INFO] Loading properties
+2011-09-28 07:35:34 [INFO] Starting Minecraft server on *:5050
+2011-09-28 07:35:34 [INFO] Preparing level "world"
+2011-09-28 07:35:34 [INFO] Default game type: 0
+2011-09-28 07:35:34 [INFO] Preparing start region for level 0
+2011-09-28 07:35:34 [INFO] Preparing start region for level 1
+2011-09-28 07:35:35 [INFO] Done (873934000ns)! For help, type "help" or "?"
+2011-09-28 18:05:58 [INFO] maatthieu [/127.0.0.1:50774] logged in with entity id 223 at (-4.09375, 51.0, -3.71875)
+2011-09-28 18:06:14 [INFO] maatthieu lost connection: disconnect.quitting
+2011-09-28 18:06:50 [INFO] maatthieu [/127.0.0.1:50789] logged in with entity id 829 at (-11.543104635424536, 61.0, 0.2601387564421054)
+2011-09-28 18:06:55 [INFO] maatthieu lost connection: disconnect.quitting
+2011-09-28 18:07:34 [INFO] maatthieu [/127.0.0.1:50800] logged in with entity id 972 at (-13.210635861840773, 61.0, 1.6672000295500684)
+2011-09-28 18:07:42 [INFO] maatthieu lost connection: disconnect.quitting
+2011-09-28 18:08:07 [INFO] Dietzer [/93.6.35.246:53917] logged in with entity id 1216 at (100.94277899555108, 85.0, 112.24557897092824)
+2011-09-28 18:08:31 [INFO] Unknown console command. Type "help" for help.
+2011-09-28 18:08:33 [INFO] To run the server without a gui, start it like this:
+2011-09-28 18:08:33 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-09-28 18:08:33 [INFO] Console commands:
+2011-09-28 18:08:33 [INFO]    help  or  ?               shows this message
+2011-09-28 18:08:33 [INFO]    kick <player>             removes a player from the server
+2011-09-28 18:08:33 [INFO]    ban <player>              bans a player from the server
+2011-09-28 18:08:33 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-09-28 18:08:33 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-09-28 18:08:33 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-09-28 18:08:33 [INFO]    op <player>               turns a player into an op
+2011-09-28 18:08:33 [INFO]    deop <player>             removes op status from a player
+2011-09-28 18:08:33 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-09-28 18:08:33 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-09-28 18:08:33 [INFO]    tell <player> <message>   sends a private message to a player
+2011-09-28 18:08:33 [INFO]    stop                      gracefully stops the server
+2011-09-28 18:08:33 [INFO]    save-all                  forces a server-wide level save
+2011-09-28 18:08:33 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-09-28 18:08:33 [INFO]    save-on                   re-enables terrain saving
+2011-09-28 18:08:33 [INFO]    list                      lists all currently connected players
+2011-09-28 18:08:33 [INFO]    say <message>             broadcasts a message to all players
+2011-09-28 18:08:33 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2011-09-28 18:08:33 [INFO]    gamemode <player> <mode>  sets player's game mode (0 or 1)
+2011-09-28 18:08:38 [INFO] Can't find user maatthieu. No kick.
+2011-09-28 18:08:52 [INFO] maatthieu [/127.0.0.1:50808] logged in with entity id 1368 at (-3.170559654133659, 61.0, -1.6837385534111835)
+2011-09-28 18:08:53 [INFO] CONSOLE: Kicking maatthieu
+2011-09-28 18:09:02 [INFO] maatthieu [/127.0.0.1:50814] logged in with entity id 1598 at (-3.170559654133659, 61.0, -1.6837385534111835)
+2011-09-28 18:09:32 [INFO] <maatthieu> mm en kickant ca marche pas
+2011-09-28 18:09:41 [INFO] <Dietzer> Ca a pas marcher
+2011-09-28 18:09:55 [INFO] <maatthieu> non
+2011-09-28 18:10:00 [INFO] <maatthieu> j'aurais du faire un tp...
+2011-09-28 18:10:04 [INFO] <Dietzer> Fais un warp sur moi, quand je serais de retour
+2011-09-28 18:10:29 [INFO] User maatthieu and Dietzer are in different dimensions. No tp.
+2011-09-28 18:10:44 [INFO] <maatthieu> je peux pas me tp sur toi tant que tu es dans le nether
+2011-09-28 18:10:58 [INFO] <Dietzer> C'est pas plus mal, c'est la merde la
+2011-09-28 18:11:03 [INFO] <Dietzer> Je ne pense pas m'en sortir
+2011-09-28 18:11:33 [INFO] <maatthieu> bon ben meurs :p
+2011-09-28 18:11:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-28 18:12:03 [INFO] <Dietzer> PUTAIN je suis vivant, je meurt de faim mais je suis vivant
+2011-09-28 18:12:11 [INFO] <maatthieu> lol
+2011-09-28 18:12:22 [INFO] <Dietzer> Je te tue 2 3 cochons
+2011-09-28 18:14:06 [INFO] <maatthieu> t perdu dans le nether?
+2011-09-28 18:14:11 [INFO] <Dietzer> Euh t'avais remarquer que ton parc devenait noir
+2011-09-28 18:14:48 [INFO] <Dietzer> L'eau a l'exterieur aussi, c'est marrant ça se transforme en marais
+2011-09-28 18:15:15 [INFO] <maatthieu> le quartier agricole dans Capitale est a moitié un marais depuis la 1.9
+2011-09-28 18:15:32 [INFO] <Dietzer> Ok
+2011-09-28 18:15:49 [INFO] <Dietzer> Vivement l'officiel qu'on fasse notre nouvelle map
+2011-09-28 18:15:55 [INFO] <maatthieu> vi
+2011-09-28 18:16:39 [INFO] <Dietzer> Ah ah 3 cotellettes, t'en ai ou au fait la ?!
+2011-09-28 18:16:43 [INFO] <maatthieu> y a des bugs de generation de map affolant
+2011-09-28 18:16:50 [INFO] <maatthieu> dans un village
+2011-09-28 18:16:52 [INFO] <Dietzer> ^^
+2011-09-28 18:17:05 [INFO] <Dietzer> Serieux, ou ça, donne les coordonnees
+2011-09-28 18:17:17 [INFO] <maatthieu> t
+2011-09-28 18:17:24 [INFO] <maatthieu> x998
+2011-09-28 18:17:27 [INFO] <maatthieu> z 170
+2011-09-28 18:17:45 [INFO] <Dietzer> Ok
+2011-09-28 18:18:14 [INFO] <Dietzer> Tu vas pouvoir revenir ou tu y reste un moment ?!
+2011-09-28 18:18:23 [INFO] <maatthieu> je vais me tp sur toi
+2011-09-28 18:18:31 [INFO] <Dietzer> Ok, ben tu peux quand tu veux
+2011-09-28 18:18:50 [INFO] CONSOLE: Teleporting maatthieu to Dietzer.
+2011-09-28 18:18:56 [INFO] <maatthieu> s
+2011-09-28 18:19:06 [INFO] <Dietzer> Ca n'a pas l'air d'avoir marcher
+2011-09-28 18:19:11 [INFO] <maatthieu> ca bug chez moi
+2011-09-28 18:19:23 [INFO] <maatthieu> c bon
+2011-09-28 18:19:30 [INFO] <maatthieu> ah c chez moi :p
+2011-09-28 18:19:34 [INFO] <Dietzer> Euh t'as garder le meme skin
+2011-09-28 18:19:40 [INFO] <maatthieu> oui g oublié de changer :p
+2011-09-28 18:19:46 [INFO] <Dietzer> ...
+2011-09-28 18:19:57 [INFO] <Dietzer> T'aurais pas 6 batons sur toi ?!
+2011-09-28 18:20:07 [INFO] <maatthieu> dans l'eau
+2011-09-28 18:20:27 [INFO] <Dietzer> De quoi dans l'eau ?!
+2011-09-28 18:22:33 [INFO] <maatthieu> tu peux dodo
+2011-09-28 18:22:39 [INFO] <maatthieu> mes affaires sont dans l'eau
+2011-09-28 18:23:00 [INFO] <maatthieu> la
+2011-09-28 18:23:07 [INFO] <maatthieu> ^^
+2011-09-28 18:23:10 [INFO] <Dietzer> ^^
+2011-09-28 18:23:17 [INFO] <maatthieu> utile en fait
+2011-09-28 18:23:25 [INFO] <Dietzer> Tres
+2011-09-28 18:23:55 [INFO] <maatthieu> elles ont du disparaitre je les retrouve plus
+2011-09-28 18:25:07 [INFO] <Dietzer> T'avais des trucs importants ?!
+2011-09-28 18:25:15 [INFO] <maatthieu> je sais plus
+2011-09-28 18:25:23 [INFO] <Dietzer> Alosr pas grave
+2011-09-28 18:25:33 [INFO] <maatthieu> ouais
+2011-09-28 18:25:58 [INFO] <Dietzer> Je retourne sur Osfer, trop dangereux ici
+2011-09-28 18:26:03 [INFO] <maatthieu> ^^
+2011-09-28 18:29:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-28 18:29:12 [INFO] <Dietzer> Et voilà, arrivé
+2011-09-28 18:29:22 [INFO] <maatthieu> Express Nether au servic
+2011-09-28 18:29:44 [INFO] <maatthieu> puree plus de pierre
+2011-09-28 18:32:07 [INFO] <maatthieu> j y go ++
+2011-09-28 18:32:59 [INFO] <Dietzer> ++
+2011-09-28 18:36:37 [INFO] maatthieu lost connection: disconnect.quitting
+2011-09-28 18:41:25 [INFO] Dietzer lost connection: disconnect.quitting
+2011-09-28 19:32:57 [INFO] CONSOLE: Stopping the server..
+2011-09-28 19:32:57 [INFO] Stopping server
+2011-09-28 19:32:57 [INFO] Saving chunks
+2011-09-28 19:32:57 [INFO] Saving chunks
+2011-09-29 07:15:51 [INFO] Starting minecraft server version Beta 1.9 Prerelease
+2011-09-29 07:15:51 [INFO] Loading properties
+2011-09-29 07:15:51 [INFO] Starting Minecraft server on *:5050
+2011-09-29 07:15:51 [INFO] Preparing level "world"
+2011-09-29 07:15:51 [INFO] Default game type: 0
+2011-09-29 07:15:51 [INFO] Preparing start region for level 0
+2011-09-29 07:15:51 [INFO] Preparing start region for level 1
+2011-09-29 07:15:52 [INFO] Preparing spawn area: 28%
+2011-09-29 07:15:52 [INFO] Done (1449983000ns)! For help, type "help" or "?"
+2011-09-29 10:42:49 [INFO] Dietzer [/93.6.35.246:53463] logged in with entity id 142 at (-1466.233904246364, 114.0, 58.05719348514062)
+2011-09-29 10:43:29 [INFO] Dietzer lost connection: disconnect.quitting
+2011-09-29 14:13:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-29 15:25:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-29 16:24:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-29 17:13:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-29 20:44:28 [INFO] CONSOLE: Stopping the server..
+2011-09-29 20:44:28 [INFO] Stopping server
+2011-09-29 20:44:28 [INFO] Saving chunks
+2011-09-29 20:44:28 [INFO] Saving chunks
+2011-09-29 20:48:40 [INFO] Starting minecraft server version Beta 1.9 Prerelease
+2011-09-29 20:48:40 [INFO] Loading properties
+2011-09-29 20:48:40 [INFO] Starting Minecraft server on *:5050
+2011-09-29 20:48:40 [INFO] Preparing level "world"
+2011-09-29 20:48:40 [INFO] Default game type: 0
+2011-09-29 20:48:40 [INFO] Preparing start region for level 0
+2011-09-29 20:48:40 [INFO] Preparing start region for level 1
+2011-09-29 20:48:41 [INFO] Done (723908000ns)! For help, type "help" or "?"
+2011-09-29 20:49:27 [INFO] maatthieu [/127.0.0.1:51723] logged in with entity id 94 at (-12.21875, 51.0, 39.5625)
+2011-09-29 20:49:43 [INFO] maatthieu lost connection: disconnect.quitting
+2011-09-29 20:49:59 [INFO] CONSOLE: Stopping the server..
+2011-09-29 20:49:59 [INFO] Stopping server
+2011-09-29 20:49:59 [INFO] Saving chunks
+2011-09-29 20:49:59 [INFO] Saving chunks
+2011-09-29 20:53:03 [INFO] Starting minecraft server version Beta 1.9 Prerelease 2
+2011-09-29 20:53:03 [INFO] Loading properties
+2011-09-29 20:53:03 [INFO] Starting Minecraft server on *:5050
+2011-09-29 20:53:03 [INFO] Preparing level "world"
+2011-09-29 20:53:03 [INFO] Default game type: 0
+2011-09-29 20:53:03 [INFO] Preparing start region for level 0
+2011-09-29 20:53:03 [INFO] Preparing start region for level 1
+2011-09-29 20:53:03 [INFO] Done (698637000ns)! For help, type "help" or "?"
+2011-09-29 20:53:21 [INFO] maatthieu [/127.0.0.1:51743] logged in with entity id 163 at (-7.070455597756919, 51.0, 42.70269852867566)
+2011-09-29 20:54:17 [INFO] maatthieu lost connection: disconnect.quitting
+2011-09-29 20:54:25 [INFO] CONSOLE: Stopping the server..
+2011-09-29 20:54:25 [INFO] Stopping server
+2011-09-29 20:54:25 [INFO] Saving chunks
+2011-09-29 20:54:25 [INFO] Saving chunks
+2011-09-30 08:23:29 [INFO] Starting minecraft server version Beta 1.9 Prerelease 2
+2011-09-30 08:23:29 [INFO] Loading properties
+2011-09-30 08:23:29 [INFO] Starting Minecraft server on *:5050
+2011-09-30 08:23:29 [INFO] Preparing level "world"
+2011-09-30 08:23:29 [INFO] Default game type: 0
+2011-09-30 08:23:29 [INFO] Preparing start region for level 0
+2011-09-30 08:23:29 [INFO] Preparing start region for level 1
+2011-09-30 08:23:29 [INFO] Done (796088000ns)! For help, type "help" or "?"
+2011-09-30 09:30:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-30 16:42:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-09-30 19:28:32 [INFO] Unknown console command. Type "help" for help.
+2011-09-30 19:28:35 [INFO] CONSOLE: Stopping the server..
+2011-09-30 19:28:35 [INFO] Stopping server
+2011-09-30 19:28:35 [INFO] Saving chunks
+2011-09-30 19:28:35 [INFO] Saving chunks
+2011-10-02 12:08:27 [INFO] Starting minecraft server version Beta 1.9 Prerelease 2
+2011-10-02 12:08:27 [INFO] Loading properties
+2011-10-02 12:08:27 [INFO] Starting Minecraft server on *:5050
+2011-10-02 12:08:27 [INFO] Preparing level "world"
+2011-10-02 12:08:27 [INFO] Default game type: 0
+2011-10-02 12:08:27 [INFO] Preparing start region for level 0
+2011-10-02 12:08:28 [INFO] Preparing start region for level 1
+2011-10-02 12:08:28 [INFO] Preparing spawn area: 28%
+2011-10-02 12:08:29 [INFO] Done (1517476000ns)! For help, type "help" or "?"
+2011-10-02 12:18:18 [INFO] Dietzer [/93.6.35.246:51631] logged in with entity id 141 at (-1495.5743040389784, 114.0, 43.620503558503124)
+2011-10-02 12:26:50 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-02 14:59:55 [INFO] CONSOLE: Stopping the server..
+2011-10-02 14:59:55 [INFO] Stopping server
+2011-10-02 14:59:55 [INFO] Saving chunks
+2011-10-02 14:59:55 [INFO] Saving chunks
