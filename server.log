@@ -15738,3 +15738,634 @@ java.lang.NullPointerException
 2011-10-02 14:59:55 [INFO] Stopping server
 2011-10-02 14:59:55 [INFO] Saving chunks
 2011-10-02 14:59:55 [INFO] Saving chunks
+2011-10-03 08:13:57 [INFO] Starting minecraft server version Beta 1.9 Prerelease 2
+2011-10-03 08:13:57 [INFO] Loading properties
+2011-10-03 08:13:57 [INFO] Starting Minecraft server on *:5050
+2011-10-03 08:13:57 [INFO] Preparing level "world"
+2011-10-03 08:13:57 [INFO] Default game type: 0
+2011-10-03 08:13:58 [INFO] Preparing start region for level 0
+2011-10-03 08:13:59 [INFO] Preparing spawn area: 93%
+2011-10-03 08:13:59 [INFO] Preparing start region for level 1
+2011-10-03 08:14:00 [INFO] Preparing spawn area: 69%
+2011-10-03 08:14:00 [INFO] Done (2250693000ns)! For help, type "help" or "?"
+2011-10-03 12:21:22 [INFO] CONSOLE: Stopping the server..
+2011-10-03 12:21:22 [INFO] Stopping server
+2011-10-03 12:21:22 [INFO] Saving chunks
+2011-10-03 12:21:22 [INFO] Saving chunks
+2011-10-08 15:38:56 [INFO] Starting minecraft server version Beta 1.9 Prerelease 2
+2011-10-08 15:38:56 [INFO] Loading properties
+2011-10-08 15:38:56 [INFO] Starting Minecraft server on *:5050
+2011-10-08 15:38:56 [INFO] Preparing level "SkyBlock1.0"
+2011-10-08 15:38:56 [INFO] Default game type: 0
+2011-10-08 15:38:56 [INFO] Preparing start region for level 0
+2011-10-08 15:38:56 [INFO] Preparing start region for level 1
+2011-10-08 15:38:57 [INFO] Preparing spawn area: 8%
+2011-10-08 15:38:58 [INFO] Preparing spawn area: 40%
+2011-10-08 15:38:59 [INFO] Preparing spawn area: 65%
+2011-10-08 15:39:00 [INFO] Preparing spawn area: 81%
+2011-10-08 15:39:01 [INFO] Done (4895646000ns)! For help, type "help" or "?"
+2011-10-08 15:39:03 [INFO] CONSOLE: Stopping the server..
+2011-10-08 15:39:03 [INFO] Stopping server
+2011-10-08 15:39:03 [INFO] Saving chunks
+2011-10-08 15:39:03 [INFO] Saving chunks
+2011-10-08 15:41:49 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-08 15:41:49 [INFO] Loading properties
+2011-10-08 15:41:49 [INFO] Starting Minecraft server on *:5050
+2011-10-08 15:41:49 [INFO] Preparing level "SkyBlock1.0"
+2011-10-08 15:41:49 [INFO] Default game type: 0
+2011-10-08 15:41:49 [INFO] Preparing start region for level 0
+2011-10-08 15:41:49 [INFO] Preparing start region for level 1
+2011-10-08 15:41:50 [INFO] Preparing spawn area: 12%
+2011-10-08 15:41:51 [INFO] Preparing spawn area: 44%
+2011-10-08 15:41:52 [INFO] Preparing spawn area: 65%
+2011-10-08 15:41:53 [INFO] Preparing spawn area: 81%
+2011-10-08 15:41:54 [INFO] Preparing start region for level 2
+2011-10-08 15:41:54 [INFO] Preparing spawn area: 57%
+2011-10-08 15:41:54 [INFO] Done (5280168000ns)! For help, type "help" or "?"
+2011-10-08 15:41:57 [INFO] CONSOLE: Stopping the server..
+2011-10-08 15:41:57 [INFO] Stopping server
+2011-10-08 15:41:57 [INFO] Saving chunks
+2011-10-08 15:41:57 [INFO] Saving chunks
+2011-10-08 15:41:57 [INFO] Saving chunks
+2011-10-08 15:43:53 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-08 15:43:53 [INFO] Loading properties
+2011-10-08 15:43:53 [INFO] Starting Minecraft server on *:5050
+2011-10-08 15:43:53 [INFO] Preparing level "SkyBlock1.0"
+2011-10-08 15:43:53 [INFO] Default game type: 0
+2011-10-08 15:43:54 [INFO] Preparing start region for level 0
+2011-10-08 15:43:54 [INFO] Preparing start region for level 1
+2011-10-08 15:43:55 [INFO] Preparing spawn area: 8%
+2011-10-08 15:43:56 [INFO] Preparing spawn area: 36%
+2011-10-08 15:43:57 [INFO] Preparing spawn area: 57%
+2011-10-08 15:43:58 [INFO] Preparing spawn area: 77%
+2011-10-08 15:43:59 [INFO] Preparing spawn area: 93%
+2011-10-08 15:43:59 [INFO] Preparing start region for level 2
+2011-10-08 15:43:59 [INFO] Done (5713267000ns)! For help, type "help" or "?"
+2011-10-08 15:44:05 [INFO] maatthieu [/127.0.0.1:50290] logged in with entity id 0 at (-2.5, 0.6200000047683716, 9.5)
+2011-10-08 15:44:10 [WARNING] maatthieu was kicked for floating too long!
+2011-10-08 15:44:19 [INFO] maatthieu [/127.0.0.1:50313] logged in with entity id 1 at (-2.5, -155.91286010685727, 9.5)
+2011-10-08 15:44:24 [WARNING] maatthieu was kicked for floating too long!
+2011-10-08 15:44:41 [INFO] /127.0.0.1:50316 lost connection
+2011-10-08 15:44:43 [INFO] maatthieu [/127.0.0.1:50319] logged in with entity id 2 at (-2.5, -334.1108881518283, 9.5)
+2011-10-08 15:44:48 [WARNING] maatthieu was kicked for floating too long!
+2011-10-08 15:44:48 [WARNING] maatthieu was kicked for floating too long!
+2011-10-08 15:45:00 [INFO] maatthieu [/127.0.0.1:50325] logged in with entity id 4 at (3.5, -91.46516030907698, 4.5)
+2011-10-08 15:45:04 [WARNING] maatthieu was kicked for floating too long!
+2011-10-08 15:45:15 [INFO] Dietzer [/93.6.35.221:53530] logged in with entity id 5 at (1.5, 67.62000000476837, -3.5)
+2011-10-08 15:45:19 [WARNING] Dietzer was kicked for floating too long!
+2011-10-08 15:45:19 [WARNING] Dietzer was kicked for floating too long!
+2011-10-08 15:45:24 [INFO] CONSOLE: Stopping the server..
+2011-10-08 15:45:24 [INFO] Stopping server
+2011-10-08 15:45:24 [INFO] Saving chunks
+2011-10-08 15:45:24 [INFO] Saving chunks
+2011-10-08 15:45:24 [INFO] Saving chunks
+2011-10-08 15:45:33 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-08 15:45:33 [INFO] Loading properties
+2011-10-08 15:45:33 [INFO] Starting Minecraft server on *:5050
+2011-10-08 15:45:33 [INFO] Preparing level "SkyBlock1.0"
+2011-10-08 15:45:33 [INFO] Default game type: 0
+2011-10-08 15:45:33 [INFO] Preparing start region for level 0
+2011-10-08 15:45:34 [INFO] Preparing start region for level 1
+2011-10-08 15:45:34 [INFO] Preparing spawn area: 32%
+2011-10-08 15:45:35 [INFO] Preparing spawn area: 52%
+2011-10-08 15:45:36 [INFO] Preparing spawn area: 69%
+2011-10-08 15:45:37 [INFO] Preparing spawn area: 85%
+2011-10-08 15:45:38 [INFO] Preparing start region for level 2
+2011-10-08 15:45:38 [INFO] Preparing spawn area: 53%
+2011-10-08 15:45:38 [INFO] Done (5204697000ns)! For help, type "help" or "?"
+2011-10-08 15:45:39 [INFO] /93.6.35.221:53534 lost connection
+2011-10-08 15:45:47 [INFO] maatthieu [/127.0.0.1:50337] logged in with entity id 0 at (3.5, -266.7320681784724, 4.5)
+2011-10-08 15:46:04 [WARNING] maatthieu was kicked for floating too long!
+2011-10-08 15:46:18 [INFO] CONSOLE: Stopping the server..
+2011-10-08 15:46:18 [INFO] Stopping server
+2011-10-08 15:46:18 [INFO] Saving chunks
+2011-10-08 15:46:18 [INFO] Saving chunks
+2011-10-08 15:46:18 [INFO] Saving chunks
+2011-10-08 15:46:37 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-08 15:46:37 [INFO] Loading properties
+2011-10-08 15:46:37 [INFO] Starting Minecraft server on *:5050
+2011-10-08 15:46:37 [INFO] Preparing level "SkyBlock1.0"
+2011-10-08 15:46:37 [INFO] Default game type: 0
+2011-10-08 15:46:38 [INFO] Preparing start region for level 0
+2011-10-08 15:46:38 [INFO] Preparing start region for level 1
+2011-10-08 15:46:39 [INFO] Preparing spawn area: 40%
+2011-10-08 15:46:40 [INFO] Preparing spawn area: 61%
+2011-10-08 15:46:41 [INFO] Preparing spawn area: 81%
+2011-10-08 15:46:42 [INFO] Preparing spawn area: 97%
+2011-10-08 15:46:42 [INFO] Preparing start region for level 2
+2011-10-08 15:46:42 [INFO] Done (4588380000ns)! For help, type "help" or "?"
+2011-10-08 15:46:47 [INFO] Dietzer [/93.6.35.221:53537] logged in with entity id 0 at (1.5, -91.90748677318146, -3.5)
+2011-10-08 15:46:49 [INFO] maatthieu [/127.0.0.1:50350] logged in with entity id 1 at (2.5, 0.3863679987258911, -5.5)
+2011-10-08 15:48:12 [INFO] Dietzer [/93.6.35.221:55535] logged in with entity id 13 at (-3.5, -273.6205907758349, -3.5)
+2011-10-08 15:48:18 [INFO] Dietzer issued server command: fly
+2011-10-08 15:48:18 [INFO] Unknown console command. Type "help" for help.
+2011-10-08 15:48:21 [INFO] CONSOLE: Stopping the server..
+2011-10-08 15:48:21 [INFO] Stopping server
+2011-10-08 15:48:21 [INFO] Saving chunks
+2011-10-08 15:48:21 [INFO] Saving chunks
+2011-10-08 15:48:21 [INFO] Saving chunks
+2011-10-08 15:49:44 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-08 15:49:44 [INFO] Loading properties
+2011-10-08 15:49:44 [INFO] Starting Minecraft server on *:5050
+2011-10-08 15:49:44 [INFO] Preparing level "SkyBlock1.0"
+2011-10-08 15:49:44 [INFO] Default game type: 1
+2011-10-08 15:49:44 [INFO] Preparing start region for level 0
+2011-10-08 15:49:44 [INFO] Preparing start region for level 1
+2011-10-08 15:49:45 [INFO] Preparing spawn area: 52%
+2011-10-08 15:49:46 [INFO] Preparing spawn area: 69%
+2011-10-08 15:49:47 [INFO] Preparing spawn area: 85%
+2011-10-08 15:49:48 [INFO] Preparing start region for level 2
+2011-10-08 15:49:48 [INFO] Preparing spawn area: 97%
+2011-10-08 15:49:48 [INFO] Done (4148089000ns)! For help, type "help" or "?"
+2011-10-08 15:49:53 [INFO] /127.0.0.1:51595 lost connection
+2011-10-08 15:49:55 [INFO] maatthieu [/127.0.0.1:51598] logged in with entity id 0 at (-1.5, -284.00571171232076, -9.5)
+2011-10-08 15:50:14 [INFO] Dietzer [/93.6.35.221:55549] logged in with entity id 4 at (-5.5, -6.93954486475967, -8.5)
+2011-10-08 15:50:49 [INFO] Dietzer issued server command: fly
+2011-10-08 15:50:49 [INFO] Unknown console command. Type "help" for help.
+2011-10-08 15:50:56 [INFO] Dietzer issued server command: god
+2011-10-08 15:50:56 [INFO] Unknown console command. Type "help" for help.
+2011-10-08 15:51:01 [INFO] Dietzer [/93.6.35.221:55559] logged in with entity id 9 at (7.5, -278.3953069850739, -8.5)
+2011-10-08 15:51:06 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-08 15:53:08 [INFO] Dietzer [/93.6.35.221:55596] logged in with entity id 11 at (-8.5, -133.07420659206528, -0.5)
+2011-10-08 15:53:15 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-08 15:54:02 [INFO] CONSOLE: Stopping the server..
+2011-10-08 15:54:02 [INFO] Stopping server
+2011-10-08 15:54:02 [INFO] Saving chunks
+2011-10-08 15:54:03 [INFO] Saving chunks
+2011-10-08 15:54:03 [INFO] Saving chunks
+2011-10-08 15:59:09 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-08 15:59:09 [INFO] Loading properties
+2011-10-08 15:59:09 [INFO] Starting Minecraft server on *:5050
+2011-10-08 15:59:09 [INFO] Preparing level "SkyBlock1.0"
+2011-10-08 15:59:09 [INFO] Default game type: 1
+2011-10-08 15:59:09 [INFO] Preparing start region for level 0
+2011-10-08 15:59:10 [INFO] Preparing start region for level 1
+2011-10-08 15:59:10 [INFO] Preparing start region for level 2
+2011-10-08 15:59:10 [INFO] Preparing spawn area: 97%
+2011-10-08 15:59:10 [INFO] Done (1076808000ns)! For help, type "help" or "?"
+2011-10-08 15:59:10 [INFO] /93.6.35.221:55696 lost connection
+2011-10-08 15:59:16 [INFO] CONSOLE: Stopping the server..
+2011-10-08 15:59:16 [INFO] Stopping server
+2011-10-08 15:59:16 [INFO] Saving chunks
+2011-10-08 15:59:16 [INFO] Saving chunks
+2011-10-08 15:59:16 [INFO] Saving chunks
+2011-10-08 15:59:18 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-08 15:59:18 [INFO] Loading properties
+2011-10-08 15:59:18 [INFO] Starting Minecraft server on *:5050
+2011-10-08 15:59:18 [INFO] Preparing level "SkyBlock1.0"
+2011-10-08 15:59:18 [INFO] Default game type: 1
+2011-10-08 15:59:18 [INFO] Preparing start region for level 0
+2011-10-08 15:59:19 [INFO] Preparing start region for level 1
+2011-10-08 15:59:19 [INFO] Preparing start region for level 2
+2011-10-08 15:59:19 [INFO] Preparing spawn area: 97%
+2011-10-08 15:59:19 [INFO] Done (1068469000ns)! For help, type "help" or "?"
+2011-10-08 15:59:34 [INFO] maatthieu [/127.0.0.1:51785] logged in with entity id 0 at (-6.5, 0.6200000047683716, 2.5)
+2011-10-08 15:59:45 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-08 16:00:05 [INFO] Dietzer [/93.6.35.221:55699] logged in with entity id 2 at (8.5, 0.6200000047683716, 4.5)
+2011-10-08 16:02:18 [INFO] maatthieu [/127.0.0.1:51884] logged in with entity id 7 at (-3.5, -54.1875, -6.5)
+2011-10-08 16:02:54 [INFO] maatthieu issued server command: list
+2011-10-08 16:03:09 [INFO] maatthieu issued server command: tp maatthieu Dietzer
+2011-10-08 16:03:09 [INFO] maatthieu: Teleporting maatthieu to Dietzer.
+2011-10-08 16:03:11 [INFO] <Dietzer> T'es ou ?!
+2011-10-08 16:03:15 [INFO] <maatthieu> oui
+2011-10-08 16:03:24 [INFO] <Dietzer> Sympas le skin de Vincent
+2011-10-08 16:03:27 [INFO] <maatthieu> vi
+2011-10-08 16:03:35 [INFO] <Dietzer> Bon on deco et tu remet en normal
+2011-10-08 16:03:35 [INFO] <maatthieu> deco je passe en survie
+2011-10-08 16:03:40 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-08 16:03:42 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-08 16:03:46 [INFO] CONSOLE: Stopping the server..
+2011-10-08 16:03:46 [INFO] Stopping server
+2011-10-08 16:03:46 [INFO] Saving chunks
+2011-10-08 16:03:46 [INFO] Saving chunks
+2011-10-08 16:03:46 [INFO] Saving chunks
+2011-10-08 16:04:16 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-08 16:04:16 [INFO] Loading properties
+2011-10-08 16:04:16 [INFO] Starting Minecraft server on *:5050
+2011-10-08 16:04:16 [INFO] Preparing level "SkyBlock1.0"
+2011-10-08 16:04:16 [INFO] Default game type: 0
+2011-10-08 16:04:16 [INFO] Preparing start region for level 0
+2011-10-08 16:04:16 [INFO] Preparing start region for level 1
+2011-10-08 16:04:17 [INFO] Preparing start region for level 2
+2011-10-08 16:04:17 [INFO] Preparing spawn area: 32%
+2011-10-08 16:04:17 [INFO] Done (1257408000ns)! For help, type "help" or "?"
+2011-10-08 16:04:22 [INFO] maatthieu [/127.0.0.1:51975] logged in with entity id 0 at (0.9955692954910181, 66.0, 0.3454109869303679)
+2011-10-08 16:04:29 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-08 16:04:33 [INFO] CONSOLE: Stopping the server..
+2011-10-08 16:04:33 [INFO] Stopping server
+2011-10-08 16:04:33 [INFO] Saving chunks
+2011-10-08 16:04:33 [INFO] Saving chunks
+2011-10-08 16:04:33 [INFO] Saving chunks
+2011-10-08 16:06:00 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-08 16:06:00 [INFO] Loading properties
+2011-10-08 16:06:00 [INFO] Starting Minecraft server on *:5050
+2011-10-08 16:06:00 [INFO] Preparing level "SkyBlock1.0"
+2011-10-08 16:06:00 [INFO] Default game type: 0
+2011-10-08 16:06:00 [INFO] Preparing start region for level 0
+2011-10-08 16:06:00 [INFO] Preparing start region for level 1
+2011-10-08 16:06:01 [INFO] Preparing start region for level 2
+2011-10-08 16:06:01 [INFO] Preparing spawn area: 28%
+2011-10-08 16:06:01 [INFO] Done (1267848000ns)! For help, type "help" or "?"
+2011-10-08 16:06:08 [INFO] maatthieu [/127.0.0.1:51993] logged in with entity id 0 at (0.995569295491018, 66.0, 0.34541098693036787)
+2011-10-08 16:06:14 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-08 16:06:24 [INFO] CONSOLE: Stopping the server..
+2011-10-08 16:06:24 [INFO] Stopping server
+2011-10-08 16:06:24 [INFO] Saving chunks
+2011-10-08 16:06:24 [INFO] Saving chunks
+2011-10-08 16:06:24 [INFO] Saving chunks
+2011-10-08 16:06:33 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-08 16:06:33 [INFO] Loading properties
+2011-10-08 16:06:33 [WARNING] server.properties does not exist
+2011-10-08 16:06:33 [INFO] Generating new properties file
+2011-10-08 16:06:33 [INFO] Starting Minecraft server on *:25565
+2011-10-08 16:06:33 [INFO] Preparing level "world"
+2011-10-08 16:06:33 [INFO] Default game type: 0
+2011-10-08 16:06:34 [INFO] Preparing start region for level 0
+2011-10-08 16:06:34 [INFO] Preparing start region for level 1
+2011-10-08 16:06:35 [INFO] Preparing spawn area: 28%
+2011-10-08 16:06:35 [INFO] Preparing start region for level 2
+2011-10-08 16:06:35 [INFO] Done (1826106000ns)! For help, type "help" or "?"
+2011-10-08 16:06:38 [INFO] CONSOLE: Stopping the server..
+2011-10-08 16:06:38 [INFO] Stopping server
+2011-10-08 16:06:38 [INFO] Saving chunks
+2011-10-08 16:06:38 [INFO] Saving chunks
+2011-10-08 16:06:38 [INFO] Saving chunks
+2011-10-08 16:07:08 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-08 16:07:08 [INFO] Loading properties
+2011-10-08 16:07:08 [INFO] Starting Minecraft server on *:5050
+2011-10-08 16:07:08 [INFO] Preparing level "SkyBlock1.0"
+2011-10-08 16:07:08 [INFO] Default game type: 0
+2011-10-08 16:07:08 [INFO] Preparing start region for level 0
+2011-10-08 16:07:09 [INFO] Preparing start region for level 1
+2011-10-08 16:07:09 [INFO] Preparing start region for level 2
+2011-10-08 16:07:09 [INFO] Preparing spawn area: 28%
+2011-10-08 16:07:09 [INFO] Done (1263060000ns)! For help, type "help" or "?"
+2011-10-08 16:07:14 [INFO] /127.0.0.1:52001 lost connection
+2011-10-08 16:07:16 [INFO] maatthieu [/127.0.0.1:52004] logged in with entity id 0 at (0.995569295491018, 66.0, 0.34541098693036787)
+2011-10-08 16:07:40 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-08 16:07:43 [INFO] CONSOLE: Stopping the server..
+2011-10-08 16:07:43 [INFO] Stopping server
+2011-10-08 16:07:43 [INFO] Saving chunks
+2011-10-08 16:07:43 [INFO] Saving chunks
+2011-10-08 16:07:43 [INFO] Saving chunks
+2011-10-08 16:07:45 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-08 16:07:45 [INFO] Loading properties
+2011-10-08 16:07:45 [INFO] Starting Minecraft server on *:5050
+2011-10-08 16:07:45 [INFO] Preparing level "SkyBlock1.0"
+2011-10-08 16:07:45 [INFO] Default game type: 0
+2011-10-08 16:07:46 [INFO] Preparing start region for level 0
+2011-10-08 16:07:46 [INFO] Preparing start region for level 1
+2011-10-08 16:07:46 [INFO] Preparing start region for level 2
+2011-10-08 16:07:47 [INFO] Preparing spawn area: 44%
+2011-10-08 16:07:47 [INFO] Done (1216178000ns)! For help, type "help" or "?"
+2011-10-08 16:07:53 [INFO] maatthieu [/127.0.0.1:52012] logged in with entity id 0 at (0.96875, 66.0, 0.34375)
+2011-10-08 16:07:59 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-08 16:08:12 [INFO] CONSOLE: Stopping the server..
+2011-10-08 16:08:12 [INFO] Stopping server
+2011-10-08 16:08:12 [INFO] Saving chunks
+2011-10-08 16:08:12 [INFO] Saving chunks
+2011-10-08 16:08:12 [INFO] Saving chunks
+2011-10-08 16:09:25 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-08 16:09:25 [INFO] Loading properties
+2011-10-08 16:09:25 [INFO] Starting Minecraft server on *:5050
+2011-10-08 16:09:25 [INFO] Preparing level "SkyBlock1.0"
+2011-10-08 16:09:25 [INFO] Default game type: 0
+2011-10-08 16:09:25 [INFO] Preparing start region for level 0
+2011-10-08 16:09:25 [INFO] Preparing start region for level 1
+2011-10-08 16:09:25 [INFO] Preparing start region for level 2
+2011-10-08 16:09:26 [INFO] Done (1064910000ns)! For help, type "help" or "?"
+2011-10-08 16:09:35 [INFO] Dietzer [/93.6.35.221:55730] logged in with entity id 0 at (0.11293459238335168, 66.0, -0.059962116012758124)
+2011-10-08 16:09:42 [INFO] maatthieu [/127.0.0.1:52056] logged in with entity id 1 at (0.96875, 66.0, 0.34375)
+2011-10-08 16:09:59 [INFO] <Dietzer> Ben c'est bon, qu'est-ce que tu raconte ?!
+2011-10-08 16:10:03 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-08 16:10:16 [INFO] maatthieu [/127.0.0.1:52065] logged in with entity id 2 at (0.5, 0.6200000047683716, -0.5)
+2011-10-08 16:10:20 [WARNING] maatthieu was kicked for floating too long!
+2011-10-08 16:10:23 [INFO] /127.0.0.1:52068 lost connection
+2011-10-08 16:10:25 [INFO] maatthieu [/127.0.0.1:52071] logged in with entity id 3 at (0.5, -155.91474944688034, -0.5)
+2011-10-08 16:10:29 [WARNING] maatthieu was kicked for floating too long!
+2011-10-08 16:10:33 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-08 16:11:34 [INFO] Dietzer [/93.6.35.221:55735] logged in with entity id 4 at (0.5341954430212347, 66.0, 0.6999999880790709)
+2011-10-08 16:12:02 [INFO] maatthieu [/127.0.0.1:52078] logged in with entity id 5 at (0.5, -329.0189038772599, -0.5)
+2011-10-08 16:12:03 [INFO] Dietzer issued server command: tp maatthieu Dietzer
+2011-10-08 16:12:03 [INFO] Dietzer: Teleporting maatthieu to Dietzer.
+2011-10-08 16:12:06 [WARNING] maatthieu was kicked for floating too long!
+2011-10-08 16:12:44 [INFO] maatthieu [/127.0.0.1:52084] logged in with entity id 7 at (9.5, -99.65396400127781, 4.5)
+2011-10-08 16:12:45 [INFO] CONSOLE: Teleporting maatthieu to Dietzer.
+2011-10-08 16:12:46 [INFO] Dietzer issued server command: tp maatthieu Dietzer
+2011-10-08 16:12:46 [INFO] Dietzer: Teleporting maatthieu to Dietzer.
+2011-10-08 16:12:51 [INFO] <maatthieu> c bon
+2011-10-08 16:13:01 [INFO] <maatthieu> alors tu deco et on refait pareil avec toi
+2011-10-08 16:13:05 [INFO] <maatthieu> ^^
+2011-10-08 16:13:12 [INFO] <Dietzer> Bon et comment on passe en mode normal ?!
+2011-10-08 16:13:23 [INFO] <Dietzer> Ok
+2011-10-08 16:13:24 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-08 16:14:26 [INFO] Dietzer [/93.6.35.221:55757] logged in with entity id 8 at (-7.5, 0.6200000047683716, -1.5)
+2011-10-08 16:14:27 [INFO] CONSOLE: Teleporting Dietzer to maatthieu.
+2011-10-08 16:14:34 [INFO] <Dietzer> Voilà
+2011-10-08 16:14:37 [INFO] <maatthieu> oui enfin
+2011-10-08 16:14:43 [INFO] <maatthieu> et on a le soleil
+2011-10-08 16:14:43 [INFO] <Dietzer> Bon laisse moi faire le début
+2011-10-08 16:14:57 [INFO] <maatthieu> ok
+2011-10-08 16:16:14 [INFO] <Dietzer> Retourne en haut
+2011-10-08 16:17:02 [INFO] <maatthieu> super artisanale
+2011-10-08 16:17:16 [INFO] <Dietzer> ^^
+2011-10-08 16:17:21 [INFO] <maatthieu> g un bloc de bois
+2011-10-08 16:17:31 [INFO] <Dietzer> Lance le moi stp
+2011-10-08 16:17:45 [INFO] <maatthieu> euh plutot dans le coffre
+2011-10-08 16:18:22 [INFO] <Dietzer> Meuh non tu vises bien
+2011-10-08 16:18:29 [INFO] <maatthieu> avec la lave :D
+2011-10-08 16:18:40 [INFO] <maatthieu> c été presque ca
+2011-10-08 16:18:43 [INFO] <Dietzer> Ben voil à^^
+2011-10-08 16:18:59 [INFO] <maatthieu> wao
+2011-10-08 16:20:42 [INFO] <maatthieu> tu veux que je fasse les pierres et toi le reste
+2011-10-08 16:20:49 [INFO] <maatthieu> midi
+2011-10-08 16:20:55 [INFO] <Dietzer> Nan juste 2s et le debut sera bon
+2011-10-08 16:22:27 [INFO] <Dietzer> On attend que ça cuis un peu
+2011-10-08 16:22:39 [INFO] <maatthieu> ta combien de pierre
+2011-10-08 16:22:45 [INFO] <Dietzer> 16
+2011-10-08 16:23:01 [INFO] <maatthieu> ca va
+2011-10-08 16:23:18 [INFO] <maatthieu> tu te fais du rappel au dessus du neant
+2011-10-08 16:23:20 [INFO] <Dietzer> Oui, je place les pierres en dessous pour recuperer toute la terre plus tard
+2011-10-08 16:23:24 [INFO] <Dietzer> ^^
+2011-10-08 16:23:41 [INFO] <maatthieu> pk des pierres lisses
+2011-10-08 16:23:45 [INFO] <maatthieu> ca eput attendre
+2011-10-08 16:23:56 [INFO] <Dietzer> Pasque c'est plus propre ^^ et puis je suis perfectionniste
+2011-10-08 16:24:07 [INFO] <maatthieu> ouais mais le bois est limité encore
+2011-10-08 16:24:24 [INFO] <Dietzer> Ne t'inquiete pas pour ça, la map je l'ai faite 15 fois
+2011-10-08 16:25:16 [INFO] <Dietzer> Tadaa
+2011-10-08 16:25:26 [INFO] <maatthieu> y a eu koi
+2011-10-08 16:25:30 [INFO] <Dietzer> In lit
+2011-10-08 16:25:30 [INFO] <maatthieu> oh un lit
+2011-10-08 16:25:51 [INFO] <maatthieu> y avait de la laine?
+2011-10-08 16:26:01 [INFO] <maatthieu> oh un arbre
+2011-10-08 16:26:01 [INFO] <Dietzer> Non mais 12 ficelles
+2011-10-08 16:26:23 [INFO] <Dietzer> Je reduit l'os en poudre pour avoir 3 angrais
+2011-10-08 16:26:46 [INFO] <maatthieu> pour l'arbre?
+2011-10-08 16:26:47 [INFO] <Dietzer> Hé hé c'est qui l'expert Osférien
+2011-10-08 16:26:53 [INFO] <Dietzer> Oui
+2011-10-08 16:27:04 [INFO] <maatthieu> ouais et l'os ca vien aussi des mobs ^^
+2011-10-08 16:28:46 [INFO] <Dietzer> T'as combien de sapinettes ?!
+2011-10-08 16:28:49 [INFO] <maatthieu> g 2
+2011-10-08 16:28:52 [INFO] <Dietzer> Ok
+2011-10-08 16:29:38 [INFO] <Dietzer> Ensuite on va faire la ferme a pasteque pour la bouffe
+2011-10-08 16:29:43 [INFO] <maatthieu> ouais
+2011-10-08 16:29:53 [INFO] <maatthieu> je mine pendant ce temps
+2011-10-08 16:30:14 [INFO] <maatthieu> y a sapinette sur ta droite en haut
+2011-10-08 16:30:17 [INFO] <Dietzer> Ok je fini encore quelque bloque pour faire le tour, qu'on puisse bouger
+2011-10-08 16:30:21 [INFO] <maatthieu> oki
+2011-10-08 16:30:26 [INFO] <maatthieu> ca fait chasse d'eau
+2011-10-08 16:30:27 [INFO] <Dietzer> Merci
+2011-10-08 16:30:30 [INFO] <Dietzer> ...
+2011-10-08 16:32:15 [INFO] <Dietzer> Apres on pourra faire une double forge
+2011-10-08 16:32:26 [INFO] <maatthieu> ouais
+2011-10-08 16:32:32 [INFO] <Dietzer> Mais pour le moment on laisse comme ça
+2011-10-08 16:32:43 [INFO] <maatthieu> ta bouché pour monter ok
+2011-10-08 16:33:06 [INFO] <Dietzer> Oui, mais enleve si tu veux mais ne jete pas le bloque, la terre c'est precieux
+2011-10-08 16:33:14 [INFO] <maatthieu> le jeu de golf nes est super
+2011-10-08 16:33:22 [INFO] <Dietzer> ^^
+2011-10-08 16:33:31 [INFO] <maatthieu> je peux avoir l'outikl pour minter
+2011-10-08 16:33:36 [INFO] <maatthieu> la pioche
+2011-10-08 16:33:43 [INFO] <maatthieu> le nom me revenait pas
+2011-10-08 16:33:54 [INFO] <Dietzer> ...
+2011-10-08 16:34:07 [INFO] <Dietzer> attention je descends
+2011-10-08 16:34:11 [INFO] <maatthieu> celui
+2011-10-08 16:34:24 [INFO] <maatthieu> celui de game boy (jeu de golf) est sa copie
+2011-10-08 16:34:33 [INFO] <maatthieu> je l'avait etant petit
+2011-10-08 16:34:51 [INFO] <maatthieu> y a combien de bedrock?
+2011-10-08 16:34:57 [INFO] <Dietzer> 1
+2011-10-08 16:35:11 [INFO] <maatthieu> glisse pas avec l'eau ^^
+2011-10-08 16:35:20 [INFO] <Dietzer> Je suis sur le lit c'est bon
+2011-10-08 16:35:43 [INFO] <maatthieu> t'attend kelkechose?
+2011-10-08 16:35:49 [INFO] <Dietzer> J'aurais besoin de l'acces à la forge
+2011-10-08 16:36:05 [INFO] <maatthieu> je l'ai
+2011-10-08 16:36:08 [INFO] <Dietzer> Ouf
+2011-10-08 16:36:20 [INFO] <maatthieu> saute
+2011-10-08 16:36:37 [INFO] <maatthieu> wao
+2011-10-08 16:37:09 [INFO] <Dietzer> T'as combien de pierres ?!
+2011-10-08 16:37:12 [INFO] <maatthieu> 7
+2011-10-08 16:37:16 [INFO] <Dietzer> Ok
+2011-10-08 16:37:18 [INFO] <maatthieu> j'y retourne?
+2011-10-08 16:37:30 [INFO] <Dietzer> Euh 2s je m'en erprends un peu
+2011-10-08 16:37:35 [INFO] <maatthieu> oki
+2011-10-08 16:39:34 [INFO] <maatthieu> oh
+2011-10-08 16:39:44 [INFO] <Dietzer> Bordel, ma sapinette
+2011-10-08 16:39:54 [INFO] <maatthieu> elle a disparu?
+2011-10-08 16:40:03 [INFO] <maatthieu> je predn des blos
+2011-10-08 16:40:06 [INFO] <Dietzer> Ben oui, bon on ne plante rien pour le moment
+2011-10-08 16:40:10 [INFO] <Dietzer> Vas y
+2011-10-08 16:40:24 [INFO] <maatthieu> g 2 sapinettes et toi combien de bois?
+2011-10-08 16:40:37 [INFO] <Dietzer> 2 sapinettes et 5 bois
+2011-10-08 16:42:20 [INFO] <Dietzer> Arrete toi un moment
+2011-10-08 16:42:29 [INFO] <maatthieu> 31
+2011-10-08 16:43:09 [INFO] <Dietzer> Voilà
+2011-10-08 16:43:35 [INFO] <Dietzer> Tu peux reprendre au fait
+2011-10-08 16:43:53 [INFO] <maatthieu> elle est presque morte au faite
+2011-10-08 16:44:02 [INFO] <Dietzer> De qui ?!
+2011-10-08 16:44:06 [INFO] <maatthieu> pioche
+2011-10-08 16:44:19 [INFO] <Dietzer> J'en ai une autre de pierre ne t'inquiete pas
+2011-10-08 16:45:02 [INFO] <Dietzer> Si au moins il pouvait s arreter de neiger
+2011-10-08 16:45:16 [INFO] <maatthieu> le bloc au dessus de la sapinette ne suffit pas?
+2011-10-08 16:45:36 [INFO] <maatthieu> 46 de cobble et plus de pioche
+2011-10-08 16:45:39 [INFO] <Dietzer> Pas assez haut puis pas utile pour le moment, t'as combien de pierres ?!
+2011-10-08 16:45:48 [INFO] <maatthieu> 46
+2011-10-08 16:46:10 [INFO] <maatthieu> excellent je te vois les mettre
+2011-10-08 16:46:15 [INFO] <Dietzer> ^^
+2011-10-08 16:46:28 [INFO] <Dietzer> Mets tes pierres je vais e, prendre
+2011-10-08 16:46:32 [INFO] <maatthieu> c bon
+2011-10-08 16:46:54 [INFO] <Dietzer> Je vais commencer la ferme
+2011-10-08 16:46:57 [INFO] <maatthieu> oki
+2011-10-08 16:47:05 [INFO] <maatthieu> plante apres la neige
+2011-10-08 16:47:16 [INFO] <Dietzer> Je ferais un petit toit
+2011-10-08 16:48:25 [INFO] <maatthieu> putin ca neige
+2011-10-08 16:49:31 [INFO] <maatthieu> sympa la nouvelle vue en 3eme personne
+2011-10-08 16:50:20 [INFO] <maatthieu> full screen en 1ere personne ca fait grand
+2011-10-08 16:50:25 [INFO] <Dietzer> Oui
+2011-10-08 16:53:26 [INFO] <Dietzer> Désolé
+2011-10-08 16:53:29 [INFO] <maatthieu> c rien
+2011-10-08 16:54:16 [INFO] <Dietzer> Il a interet a ne plus neiger bientot sinon c'est mort
+2011-10-08 16:54:45 [INFO] <maatthieu> ah
+2011-10-08 16:54:46 [INFO] <Dietzer> Yes
+2011-10-08 16:55:32 [INFO] <maatthieu> g l'inertie c koi l'option
+2011-10-08 16:55:41 [INFO] <Dietzer> Je ne sais pas
+2011-10-08 16:58:26 [WARNING] maatthieu was kicked for floating too long!
+2011-10-08 16:58:33 [INFO] /192.168.66.1:52333 lost connection
+2011-10-08 16:58:35 [INFO] maatthieu [/127.0.0.1:52335] logged in with entity id 263 at (0.7711901924332547, -106.15145216550798, -6.7950201417188225)
+2011-10-08 16:58:39 [WARNING] maatthieu was kicked for floating too long!
+2011-10-08 16:59:32 [INFO] maatthieu [/127.0.0.1:52342] logged in with entity id 264 at (0.7553514737286835, -279.4642357157401, -6.279796997658765)
+2011-10-08 16:59:35 [INFO] Can't find user Dietzer[A[B. No tp.
+2011-10-08 16:59:42 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-08 16:59:56 [INFO] maatthieu [/127.0.0.1:52357] logged in with entity id 266 at (0.7553514737286835, -451.94234203038343, -6.279796997658765)
+2011-10-08 16:59:57 [INFO] CONSOLE: Teleporting maatthieu to Dietzer.
+2011-10-08 17:00:04 [WARNING] maatthieu was kicked for floating too long!
+2011-10-08 17:00:28 [INFO] maatthieu [/127.0.0.1:52365] logged in with entity id 268 at (6.484029246676786, -90.91482416626138, -4.985175133300718)
+2011-10-08 17:00:30 [INFO] CONSOLE: Teleporting maatthieu to Dietzer.
+2011-10-08 17:00:45 [INFO] <Dietzer> Je te vois en double ...
+2011-10-08 17:01:07 [INFO] <Dietzer> Je te vois sur le lit en train de regarder les nuages
+2011-10-08 17:02:02 [INFO] <maatthieu> c bon la
+2011-10-08 17:02:08 [INFO] <maatthieu> je suis a cote de l'atelier
+2011-10-08 17:04:04 [INFO] maatthieu issued server command: list
+2011-10-08 17:04:07 [INFO] <Dietzer> T'as vu l'image que je t'ai envoye ?!
+2011-10-08 17:04:19 [INFO] <maatthieu> putin j'arrive pas a enlever le mode bouré&
+2011-10-08 17:04:23 [INFO] <maatthieu> non g pas vu l'ilmage
+2011-10-08 17:04:24 [INFO] <Dietzer> ...
+2011-10-08 17:04:37 [INFO] <Dietzer> Il ne me reste plus qu'une cuisse de poulet
+2011-10-08 17:05:03 [INFO] <Dietzer> Faut vite que le melon prenne
+2011-10-08 17:05:20 [INFO] <Dietzer> Et je n'ai plus d'engrai
+2011-10-08 17:05:27 [INFO] <maatthieu> ah
+2011-10-08 17:08:36 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-08 17:08:38 [INFO] Dietzer [/93.6.35.221:55871] logged in with entity id 270 at (1.127065250849004, 63.0, -1.3996749463959501)
+2011-10-08 17:08:48 [INFO] <Dietzer> Voilà, je ne te vois plus en double
+2011-10-08 17:10:35 [INFO] <maatthieu> putin
+2011-10-08 17:11:32 [INFO] <Dietzer> Quoi ?!
+2011-10-08 17:12:57 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-08 17:13:01 [INFO] maatthieu [/127.0.0.1:52825] logged in with entity id 271 at (2.15625, 64.0, -4.3125)
+2011-10-08 17:13:07 [INFO] <maatthieu> g deco par erreur
+2011-10-08 17:14:15 [INFO] <Dietzer> ...
+2011-10-08 17:14:29 [INFO] <Dietzer> Tu peux pas faire pousser les arbres par erreur ?!
+2011-10-08 17:14:58 [INFO] <Dietzer> Zut plus de cuisse de poulet
+2011-10-08 17:15:07 [INFO] <Dietzer> Putain mais tu vas grossir
+2011-10-08 17:15:37 [INFO] <Dietzer> Par contre une fois qu'il a pousser y a pas besoin de le replanter et il
+2011-10-08 17:15:43 [INFO] <Dietzer> en produit plus regulierement
+2011-10-08 17:15:56 [INFO] <maatthieu> oki
+2011-10-08 17:16:06 [INFO] <Dietzer> Tiens ça s'arrete a 5 coeur, alors c'est a cause du hardcore qu'il me restait qu'1/2
+2011-10-08 17:16:27 [INFO] <maatthieu> g pas perdu de la faim depuis le debut
+2011-10-08 17:17:08 [INFO] <Dietzer> ...
+2011-10-08 17:17:18 [INFO] <Dietzer> Tu me diras t'es mort aussi
+2011-10-08 17:19:08 [INFO] <Dietzer> Remarque c'est pas con, je met tout dans le coffr eet je saute
+2011-10-08 17:20:40 [INFO] <maatthieu> ^^
+2011-10-08 17:20:57 [INFO] <maatthieu> desole mais je peux plus jouer et j'arrive pas a l'enlever c nul
+2011-10-08 17:22:32 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-08 17:22:33 [INFO] /127.0.0.1:52942 lost connection
+2011-10-08 17:22:35 [INFO] maatthieu [/127.0.0.1:52946] logged in with entity id 272 at (2.28125, 67.0, 0.0625)
+2011-10-08 17:23:13 [INFO] <Dietzer> A enlever quoi ?!
+2011-10-08 17:32:47 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-08 17:33:21 [INFO] maatthieu [/127.0.0.1:53125] logged in with entity id 280 at (1.75, 66.0, -0.65625)
+2011-10-08 17:33:25 [INFO] <maatthieu> YES
+2011-10-08 17:33:32 [INFO] <maatthieu> fallait quitter le jeu en fait...
+2011-10-08 17:33:46 [INFO] <maatthieu> ca a pousser
+2011-10-08 17:34:02 [INFO] <Dietzer> Oui ça ne devrait pas tarder
+2011-10-08 17:34:18 [INFO] <Dietzer> Mais même les arbres poussent quand tu deco ^
+2011-10-08 17:34:51 [INFO] <maatthieu> ta voulu prendre un bain de lave
+2011-10-08 17:34:53 [INFO] <Dietzer> Hé hé, il me reste 1/2 coeur
+2011-10-08 17:35:03 [INFO] <maatthieu> euh l'arbre
+2011-10-08 17:35:06 [INFO] <Dietzer> J'ai voulu couper l'arbre avant qu'il ne crame
+2011-10-08 17:35:38 [INFO] <Dietzer> J'ai mal
+2011-10-08 17:35:56 [INFO] <maatthieu> tu veux faire koi?
+2011-10-08 17:37:02 [INFO] <Dietzer> J'attends d'avoir du bois
+2011-10-08 17:37:13 [INFO] <Dietzer> Et du melon surtout
+2011-10-08 17:37:15 [INFO] <maatthieu> ta plus iren mm pas une pioche
+2011-10-08 17:37:29 [INFO] <Dietzer> Si il me reste une pioche, tu veux piocher ?!
+2011-10-08 17:37:33 [INFO] <maatthieu> ouais
+2011-10-08 17:37:40 [INFO] <Dietzer> T'as des cube de bois ?!
+2011-10-08 17:37:43 [INFO] <maatthieu> non
+2011-10-08 17:38:00 [INFO] <Dietzer> C'est dans le coffre
+2011-10-08 17:38:42 [INFO] <Dietzer> Des que le 1er melon pousse et que j'ai assez de bois j'attaque la forge definitive
+2011-10-08 17:39:04 [INFO] <maatthieu> tu veux lever le toit au dessus du melon
+2011-10-08 17:39:19 [INFO] <Dietzer> Non c'est bon, c'est plus que suffisant
+2011-10-08 17:39:29 [INFO] <maatthieu> pk c lent alors
+2011-10-08 17:39:38 [INFO] <Dietzer> Ben je ne sais pas
+2011-10-08 17:39:44 [INFO] <Dietzer> Fait trop froid
+2011-10-08 17:41:09 [INFO] <maatthieu> 32 de cobblestone
+2011-10-08 17:41:17 [INFO] <Dietzer> Ben ça va tu chaume pas
+2011-10-08 17:45:15 [INFO] <Dietzer> C'est dommage que je ne puisse pas te tuer pour recuperer les os.
+2011-10-08 17:45:32 [INFO] <maatthieu> lol
+2011-10-08 17:46:04 [INFO] <Dietzer> Tu dors je déco, ça ira plus vite deja
+2011-10-08 17:46:34 [INFO] <maatthieu> oki
+2011-10-08 17:46:37 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-08 17:46:42 [INFO] Dietzer [/93.6.35.221:56096] logged in with entity id 324 at (3.28125, 63.0, -4.75)
+2011-10-08 17:47:18 [INFO] <maatthieu> il est jaune?
+2011-10-08 17:47:29 [INFO] <Dietzer> Oui il va bientot murir
+2011-10-08 17:48:54 [INFO] <maatthieu> plus de sapinette?
+2011-10-08 17:49:31 [INFO] <Dietzer> Mais si
+2011-10-08 17:49:45 [INFO] <Dietzer> Viens voir
+2011-10-08 17:50:04 [INFO] <maatthieu> ah
+2011-10-08 17:50:23 [INFO] <maatthieu> les affaires reprennent
+2011-10-08 17:50:27 [INFO] <Dietzer> Je consomme de suite
+2011-10-08 17:50:50 [INFO] <Dietzer> Maintenant ça va pousser plus vite
+2011-10-08 17:51:43 [INFO] <maatthieu> ah un joli arbre
+2011-10-08 17:51:52 [INFO] <maatthieu> un bo
+2011-10-08 17:52:12 [INFO] <Dietzer> Tu vois, faut pas desesêrer
+2011-10-08 17:53:00 [INFO] <maatthieu> je fai une pioche
+2011-10-08 17:53:12 [INFO] <Dietzer> Ok fait la en pierre
+2011-10-08 17:54:02 [INFO] <Dietzer> Yeah je recupere des coeurs
+2011-10-08 17:54:10 [INFO] <Dietzer> Je fais du charbon moi
+2011-10-08 17:54:13 [INFO] <maatthieu> tres bien
+2011-10-08 17:54:49 [INFO] <Dietzer> Voila je suis plein je stock du melon, tu vois que ça va vite
+2011-10-08 17:55:01 [INFO] <maatthieu> ouais
+2011-10-08 17:55:04 [INFO] <maatthieu> d'un coup
+2011-10-08 17:55:19 [INFO] <Dietzer> Stop
+2011-10-08 17:55:22 [INFO] <maatthieu> oki
+2011-10-08 17:55:30 [INFO] <Dietzer> Trop tard, bye bye la sapinette
+2011-10-08 17:56:03 [INFO] <maatthieu> tu amenages la forge
+2011-10-08 17:56:07 [INFO] <maatthieu> rationnaliser le dirt
+2011-10-08 17:56:14 [INFO] <Dietzer> Ouais je vais m'en occupé
+2011-10-08 17:56:19 [INFO] <Dietzer> Oui
+2011-10-08 17:57:31 [INFO] <maatthieu> 64 de pierre lisse
+2011-10-08 17:57:34 [INFO] <maatthieu> c la fete
+2011-10-08 17:57:35 [INFO] <Dietzer> Hé hé
+2011-10-08 17:57:47 [INFO] <maatthieu> t'agrandit la zone?
+2011-10-08 17:57:47 [INFO] <Dietzer> Faudra penser à faire un gateau ^^
+2011-10-08 17:57:53 [INFO] <Dietzer> Oui pour la forge
+2011-10-08 17:58:06 [INFO] <Dietzer> T'as replanter une sapinette ?!
+2011-10-08 17:58:10 [INFO] <maatthieu> oui
+2011-10-08 17:58:12 [INFO] <maatthieu> nion
+2011-10-08 17:58:14 [INFO] <Dietzer> Génial
+2011-10-08 17:58:17 [INFO] <maatthieu> mais j'allais le faire
+2011-10-08 17:58:39 [INFO] <maatthieu> la?
+2011-10-08 17:58:50 [INFO] <Dietzer> Oui
+2011-10-08 17:59:06 [INFO] <maatthieu> j ete pas sur s'il fallait de l herbe sur le dirt
+2011-10-08 17:59:29 [INFO] <Dietzer> Pas obliger mais j'ai garder de l'herbe dans le coin de la plantation
+2011-10-08 18:00:18 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-08 18:00:21 [INFO] Dietzer [/93.6.35.221:56126] logged in with entity id 416 at (0.944486329076436, 63.0, -1.6999999880790724)
+2011-10-08 18:00:38 [INFO] <Dietzer> Roh ça me gave je vois le coffre tout le temps ouvert
+2011-10-08 18:00:53 [INFO] <maatthieu> idem
+2011-10-08 18:03:29 [INFO] <Dietzer> Te noyes pas ^^
+2011-10-08 18:05:02 [INFO] <maatthieu> 40 en plis
+2011-10-08 18:05:15 [INFO] <Dietzer> Ca va plus vite avec une forge ^^
+2011-10-08 18:06:05 [INFO] <maatthieu> je commence a perdre de la failm
+2011-10-08 18:06:08 [INFO] <maatthieu> 2
+2011-10-08 18:06:16 [INFO] <Dietzer> Prends des melons
+2011-10-08 18:06:32 [INFO] <maatthieu> ca donne combien?
+2011-10-08 18:06:35 [INFO] <Dietzer> 1
+2011-10-08 18:08:44 [INFO] <Dietzer> Je deco 2s je veux tester un truc avant de l'appliquer
+2011-10-08 18:08:54 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-08 18:18:01 [INFO] Dietzer [/93.6.35.221:56158] logged in with entity id 521 at (1.691599848068937, 63.0, -1.8589382687168325)
+2011-10-08 18:18:07 [INFO] <maatthieu> nikel je sors du lit
+2011-10-08 18:18:11 [INFO] <Dietzer> ^^
+2011-10-08 18:18:25 [INFO] <maatthieu> g posé de la pierre lisse pour du confort
+2011-10-08 18:18:34 [INFO] <Dietzer> Ou ça ?!
+2011-10-08 18:18:53 [INFO] <maatthieu> autour de l'ilot central
+2011-10-08 18:19:04 [INFO] <Dietzer> Ah oui pas de soucis
+2011-10-08 18:19:06 [INFO] <maatthieu> arbre
+2011-10-08 18:19:35 [INFO] <maatthieu> on opeut mieux recup le vois
+2011-10-08 18:19:36 [INFO] <maatthieu> bois
+2011-10-08 18:19:50 [INFO] <maatthieu> c pas assez encore :p
+2011-10-08 18:20:26 [INFO] <Dietzer> Ben non
+2011-10-08 18:21:47 [INFO] <maatthieu> melon ^^
+2011-10-08 18:22:22 [INFO] <maatthieu> parodn
+2011-10-08 18:28:03 [INFO] <Dietzer> Plus de bois
+2011-10-08 18:28:23 [INFO] <maatthieu> cad?
+2011-10-08 18:28:37 [INFO] <maatthieu> tu vois grand
+2011-10-08 18:29:04 [INFO] <Dietzer> Je prevois grand, mais je ne prends que ce que j'ai besoin pour la forge
+2011-10-08 18:29:57 [INFO] <Dietzer> Ne ratisse pas la terre, je veux que l'herbe s etende
+2011-10-08 18:30:02 [INFO] <maatthieu> pardon
+2011-10-08 18:30:23 [INFO] <maatthieu> tu veux que je quitte et du dors
+2011-10-08 18:30:33 [INFO] <Dietzer> Commme tu veux, ou l inverse
+2011-10-08 18:30:41 [INFO] <maatthieu> quitt
+2011-10-08 18:30:44 [INFO] <Dietzer> Ok
+2011-10-08 18:30:46 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-08 18:30:49 [INFO] Dietzer [/93.6.35.221:56171] logged in with entity id 672 at (-0.78125, 64.0, -4.0625)
+2011-10-08 18:34:04 [INFO] <Dietzer> Je serais toi je me pousserais, car si l'arbre pousse
+2011-10-08 18:34:36 [INFO] <maatthieu> oki
+2011-10-08 18:34:41 [INFO] <maatthieu> justement j'attend
+2011-10-08 18:34:48 [INFO] <Dietzer> ^^
+2011-10-08 18:38:13 [INFO] <Dietzer> Bon je quitte, je vais me remettre un peu sur Digimon
+2011-10-08 18:38:21 [INFO] <maatthieu> oki
+2011-10-08 18:38:23 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-08 18:46:07 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-08 20:12:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-10-08 21:33:42 [INFO] CONSOLE: Stopping the server..
+2011-10-08 21:33:42 [INFO] Stopping server
+2011-10-08 21:33:42 [INFO] Saving chunks
+2011-10-08 21:33:43 [INFO] Saving chunks
+2011-10-08 21:33:43 [INFO] Saving chunks
