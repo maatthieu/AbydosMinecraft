@@ -16369,3 +16369,273 @@ java.lang.NullPointerException
 2011-10-08 21:33:42 [INFO] Saving chunks
 2011-10-08 21:33:43 [INFO] Saving chunks
 2011-10-08 21:33:43 [INFO] Saving chunks
+2011-10-11 10:44:14 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-11 10:44:14 [INFO] Loading properties
+2011-10-11 10:44:14 [INFO] Starting Minecraft server on *:5050
+2011-10-11 10:44:14 [INFO] Preparing level "SkyBlock1.0"
+2011-10-11 10:44:14 [INFO] Default game type: 0
+2011-10-11 10:44:14 [INFO] Preparing start region for level 0
+2011-10-11 10:44:15 [INFO] Preparing spawn area: 4%
+2011-10-11 10:44:16 [INFO] Preparing spawn area: 24%
+2011-10-11 10:44:17 [INFO] Preparing spawn area: 36%
+2011-10-11 10:44:18 [INFO] Preparing spawn area: 48%
+2011-10-11 10:44:19 [INFO] Preparing spawn area: 65%
+2011-10-11 10:44:20 [INFO] Preparing spawn area: 77%
+2011-10-11 10:44:21 [INFO] Preparing spawn area: 81%
+2011-10-11 10:44:22 [INFO] Preparing start region for level 1
+2011-10-11 10:44:22 [INFO] Preparing spawn area: 12%
+2011-10-11 10:44:23 [INFO] Preparing spawn area: 52%
+2011-10-11 10:44:24 [INFO] Preparing spawn area: 85%
+2011-10-11 10:44:25 [INFO] Preparing start region for level 2
+2011-10-11 10:44:25 [INFO] Done (11381806000ns)! For help, type "help" or "?"
+2011-10-11 10:54:38 [INFO] Dietzer [/93.6.35.221:52992] logged in with entity id 0 at (-1.9037755709591537, 64.0, -3.6433781163791124)
+2011-10-11 11:22:07 [INFO] Dietzer lost connection: disconnect.genericReason
+2011-10-11 11:29:18 [INFO] maatthieu [/127.0.0.1:49906] logged in with entity id 396 at (-0.5, 63.0, -4.5)
+2011-10-11 11:29:26 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-11 11:30:28 [INFO] /127.0.0.1:49912 lost connection
+2011-10-11 11:30:31 [INFO] maatthieu [/127.0.0.1:49915] logged in with entity id 406 at (3.8530094945277646, 63.0, -5.300000011920929)
+2011-10-11 11:31:10 [INFO] maatthieu issued server command: tp Dietzer maatthieu
+2011-10-11 11:31:57 [INFO] maatthieu issued server command: tp Dietzer maatthieu
+2011-10-11 11:32:10 [INFO] maatthieu issued server command: tp Dietzer maatthieu
+2011-10-11 11:32:31 [INFO] Dietzer [/93.6.35.221:53711] logged in with entity id 450 at (-1.78125, -2.8125, -8.40625)
+2011-10-11 11:32:31 [INFO] maatthieu issued server command: tp Dietzer maatthieu
+2011-10-11 11:32:31 [INFO] maatthieu: Teleporting Dietzer to maatthieu.
+2011-10-11 11:32:38 [INFO] <Dietzer> Ouf merci
+2011-10-11 11:32:41 [INFO] <maatthieu> ^^
+2011-10-11 11:32:57 [INFO] <maatthieu> bon je dois y aller
+2011-10-11 11:33:01 [INFO] <Dietzer> Voilà, reposer le seau
+2011-10-11 11:33:03 [INFO] <maatthieu> pardon
+2011-10-11 11:33:08 [INFO] <maatthieu> g merdé
+2011-10-11 11:33:10 [INFO] <Dietzer> Ok
+2011-10-11 11:33:22 [INFO] <maatthieu> ++
+2011-10-11 11:33:24 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-11 11:33:24 [INFO] <Dietzer> ++
+2011-10-11 11:47:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-10-11 11:52:20 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-11 12:52:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-10-11 12:53:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-10-11 12:53:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-10-11 13:15:48 [INFO] Dietzer [/93.6.35.221:53901] logged in with entity id 771 at (0.15336599832435882, 63.0, -1.3911021011182625)
+2011-10-11 13:16:28 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:16:28 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:16:33 [INFO] Dietzer [/93.6.35.221:53908] logged in with entity id 788 at (-5.094444312960373, -107.21082960336939, 20.831260305550074)
+2011-10-11 13:16:37 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:16:43 [INFO] Dietzer [/93.6.35.221:53912] logged in with entity id 792 at (-5.094444312960373, -283.67598741519635, 20.831260305550074)
+2011-10-11 13:16:48 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:16:48 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:16:52 [INFO] Dietzer [/93.6.35.221:53915] logged in with entity id 794 at (2.759846120054098, -46.89707543368469, 6.009486855053905)
+2011-10-11 13:16:56 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:16:56 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:16:56 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:17:01 [INFO] Dietzer [/93.6.35.221:53918] logged in with entity id 795 at (2.759846120054098, -224.67632436123725, 6.009486855053905)
+2011-10-11 13:17:05 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:17:08 [INFO] Dietzer [/93.6.35.221:53921] logged in with entity id 796 at (2.759846120054098, -399.55980993200217, 6.009486855053905)
+2011-10-11 13:17:13 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:23:24 [INFO] Dietzer [/93.6.35.221:53952] logged in with entity id 798 at (-7.5, -102.13607290218363, -0.5)
+2011-10-11 13:23:28 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:23:32 [INFO] Dietzer [/93.6.35.221:53957] logged in with entity id 803 at (-7.5, -274.7067102204247, -0.5)
+2011-10-11 13:23:37 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:23:43 [INFO] Dietzer [/93.6.35.221:53960] logged in with entity id 806 at (-8.5, -1.4895525419716629, -6.5)
+2011-10-11 13:23:48 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:23:48 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:23:53 [INFO] Dietzer [/93.6.35.221:53963] logged in with entity id 807 at (-8.5, -162.94239002128845, -6.5)
+2011-10-11 13:23:56 [INFO] Dietzer issued server command: warp
+2011-10-11 13:23:56 [INFO] Unknown console command. Type "help" for help.
+2011-10-11 13:23:57 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:23:57 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:24:03 [INFO] Dietzer [/93.6.35.221:53967] logged in with entity id 810 at (-8.5, -342.3205294520221, -6.5)
+2011-10-11 13:24:07 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:24:07 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:24:49 [INFO] Dietzer [/93.6.35.221:54024] logged in with entity id 812 at (-4.5, -107.57114887259425, -0.5)
+2011-10-11 13:24:53 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:25:11 [INFO] Dietzer [/93.6.35.221:54027] logged in with entity id 814 at (-4.5, -277.8512526829067, -0.5)
+2011-10-11 13:25:17 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:25:23 [INFO] Dietzer [/93.6.35.221:54030] logged in with entity id 816 at (7.5, -15.89613385953684, -7.5)
+2011-10-11 13:25:27 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:25:30 [INFO] Dietzer [/93.6.35.221:54033] logged in with entity id 823 at (7.5, -184.89736638066648, -7.5)
+2011-10-11 13:25:35 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:25:35 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:25:39 [INFO] Dietzer [/93.6.35.221:54036] logged in with entity id 825 at (8.5, -19.499412819445062, 7.5)
+2011-10-11 13:25:44 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:25:44 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:26:34 [INFO] Dietzer [/93.6.35.221:54040] logged in with entity id 827 at (8.5, -192.28660904203358, 7.5)
+2011-10-11 13:26:38 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:26:42 [INFO] Dietzer [/93.6.35.221:54043] logged in with entity id 828 at (8.5, -365.8119250739326, 7.5)
+2011-10-11 13:26:47 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:26:50 [INFO] Dietzer [/93.6.35.221:54046] logged in with entity id 830 at (-3.5, -16.89613385953684, 4.5)
+2011-10-11 13:26:55 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:26:59 [INFO] Dietzer [/93.6.35.221:54049] logged in with entity id 831 at (-3.5, -185.89736638066648, 4.5)
+2011-10-11 13:27:03 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 13:27:07 [INFO] Dietzer [/93.6.35.221:54053] logged in with entity id 832 at (-3.5, -359.3839574611487, 4.5)
+2011-10-11 14:06:29 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-11 14:21:50 [INFO] Dietzer [/93.6.35.221:54270] logged in with entity id 1554 at (0.69813459523838, 63.0, -0.9140904133939072)
+2011-10-11 15:11:39 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 15:11:46 [INFO] Dietzer [/93.6.35.221:54394] logged in with entity id 2798 at (-3.224692012000201, -93.51503920494665, -4.34107463511678)
+2011-10-11 15:11:50 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 15:11:50 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 15:11:53 [INFO] Dietzer [/93.6.35.221:54397] logged in with entity id 2806 at (-3.224692012000201, -269.245739008974, -4.34107463511678)
+2011-10-11 16:05:55 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-11 16:59:18 [INFO] maatthieu [/127.0.0.1:51266] logged in with entity id 4261 at (-2.3527157975363973, 64.0, -4.531982178673267)
+2011-10-11 17:09:51 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-11 17:10:24 [INFO] CONSOLE: Stopping the server..
+2011-10-11 17:10:24 [INFO] Stopping server
+2011-10-11 17:10:24 [INFO] Saving chunks
+2011-10-11 17:10:24 [INFO] Saving chunks
+2011-10-11 17:10:24 [INFO] Saving chunks
+2011-10-11 18:26:19 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-11 18:26:19 [INFO] Loading properties
+2011-10-11 18:26:19 [INFO] Starting Minecraft server on *:5050
+2011-10-11 18:26:19 [INFO] Preparing level "SkyBlock1.0"
+2011-10-11 18:26:19 [INFO] Default game type: 0
+2011-10-11 18:26:19 [INFO] Preparing start region for level 0
+2011-10-11 18:26:20 [INFO] Preparing start region for level 1
+2011-10-11 18:26:20 [INFO] Preparing spawn area: 4%
+2011-10-11 18:26:21 [INFO] Preparing start region for level 2
+2011-10-11 18:26:21 [INFO] Done (2094048000ns)! For help, type "help" or "?"
+2011-10-11 18:26:21 [INFO] Unknown console command. Type "help" for help.
+2011-10-11 18:27:23 [INFO] Dietzer [/93.6.35.221:50085] logged in with entity id 0 at (0.59375, 63.0, -1.28125)
+2011-10-11 18:36:52 [INFO] maatthieu [/127.0.0.1:54411] logged in with entity id 258 at (3.0778139450450004, 63.0, 1.1874406399355415)
+2011-10-11 18:37:44 [INFO] <Dietzer> Euh, ça va ?!
+2011-10-11 18:39:10 [INFO] Dietzer lost connection: disconnect.genericReason
+2011-10-11 18:42:00 [INFO] Dietzer [/93.6.35.221:50282] logged in with entity id 389 at (-6.5625, 64.0, -9.3125)
+2011-10-11 18:42:16 [INFO] <maatthieu> je regle un pb de souris
+2011-10-11 18:42:20 [INFO] <Dietzer> Ok
+2011-10-11 18:44:27 [INFO] <maatthieu> tant pis pour la souris
+2011-10-11 18:44:43 [INFO] <Dietzer> Qu'est-ce qui se passe ?!
+2011-10-11 18:44:58 [INFO] <maatthieu> j'ai prete la mienne a Sara
+2011-10-11 18:45:02 [INFO] <Dietzer> ^^
+2011-10-11 18:45:05 [INFO] <maatthieu> et les autres ca vaut rien
+2011-10-11 18:45:15 [INFO] <Dietzer> Pique en 1 au bureau
+2011-10-11 18:46:30 [INFO] <maatthieu> c ici les points de sortie?
+2011-10-11 18:46:44 [INFO] <Dietzer> Oui, y en a 2, pas de bagarre comme ça ^^
+2011-10-11 18:46:49 [INFO] <maatthieu> ^^
+2011-10-11 18:46:54 [INFO] <Dietzer> Déco, je vais au lit
+2011-10-11 18:46:57 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-11 18:47:11 [INFO] /127.0.0.1:54542 lost connection
+2011-10-11 18:47:13 [INFO] maatthieu [/127.0.0.1:54545] logged in with entity id 515 at (-7.617135424158201, 64.0, -3.932181347935944)
+2011-10-11 18:47:26 [INFO] <maatthieu> ca cramouille la bas
+2011-10-11 18:47:32 [INFO] <Dietzer> GrouillAIT
+2011-10-11 18:47:55 [INFO] <maatthieu> ta une pioche pour moi
+2011-10-11 18:48:03 [INFO] <Dietzer> Encore 9 fils et je peux faire un 2ee lit
+2011-10-11 18:48:14 [INFO] <Dietzer> Finie la
+2011-10-11 18:48:14 [INFO] <maatthieu> merci
+2011-10-11 18:49:18 [INFO] <maatthieu> chacun son trou ^^
+2011-10-11 18:49:22 [INFO] <Dietzer> ^^
+2011-10-11 18:50:19 [INFO] <Dietzer> Il ne me reste plus que le toit et la lumière et c'est bon pour la forge
+2011-10-11 18:50:55 [INFO] <Dietzer> D'ailleur je ramene le four et l'atelier ici
+2011-10-11 18:51:05 [INFO] <Dietzer> Ah tu te sert du four
+2011-10-11 18:51:32 [INFO] <Dietzer> 9 fours, ça ira ?!
+2011-10-11 18:52:47 [INFO] <maatthieu> ous
+2011-10-11 18:53:11 [INFO] <maatthieu> tu peux recup le four
+2011-10-11 18:53:15 [INFO] <Dietzer> Ok
+2011-10-11 18:53:25 [INFO] <maatthieu> euh g merde
+2011-10-11 18:53:27 [INFO] <Dietzer> Ah merde j'ai pris tes trucs
+2011-10-11 18:54:48 [INFO] <Dietzer> Tu securises ^^
+2011-10-11 18:54:54 [INFO] <maatthieu> oui
+2011-10-11 18:55:04 [INFO] <maatthieu> je me connais
+2011-10-11 18:55:08 [INFO] <Dietzer> Lol
+2011-10-11 18:59:00 [INFO] <maatthieu> ta pas peur des mobs?
+2011-10-11 18:59:12 [INFO] <Dietzer> Trop loin, ils ne viennent pas
+2011-10-11 18:59:25 [INFO] <Dietzer> Mais je reverais le chemin en pierres lisse et je mettrais des barrieres
+2011-10-11 18:59:41 [INFO] <maatthieu> ^^
+2011-10-11 18:59:55 [INFO] <Dietzer> Tu deco, je dors
+2011-10-11 19:00:03 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-11 19:00:14 [INFO] /127.0.0.1:54567 lost connection
+2011-10-11 19:00:16 [INFO] maatthieu [/127.0.0.1:54570] logged in with entity id 955 at (-5.044419590683673, 64.0, -5.011850877301196)
+2011-10-11 19:02:14 [INFO] <Dietzer> Vivement que j'installe le toit
+2011-10-11 19:02:17 [INFO] <maatthieu> vi
+2011-10-11 19:02:21 [INFO] <maatthieu> le pré apres
+2011-10-11 19:02:38 [INFO] <Dietzer> Oui c'est prvu, et je ferai un mini lac, le poisson c'set mieux
+2011-10-11 19:02:46 [INFO] <maatthieu> ^^
+2011-10-11 19:03:34 [INFO] <Dietzer> T'es dégueux, j't'ai vu faire des bulles dans l'eau
+2011-10-11 19:03:40 [INFO] <maatthieu> ...
+2011-10-11 19:03:43 [INFO] <maatthieu> j'ai faim
+2011-10-11 19:04:06 [INFO] <Dietzer> T'as de quoi faire, enfin si t'aime les melons et la chair de zombi
+2011-10-11 19:04:52 [INFO] <maatthieu> ^^
+2011-10-11 19:08:39 [INFO] <Dietzer> ne plante pas ou met de l'angrais, avec la neige les sapinettes ne tiennent pas
+2011-10-11 19:09:05 [INFO] <Dietzer> Ah ben t'as de la chance
+2011-10-11 19:09:07 [INFO] <maatthieu> direct de l'os
+2011-10-11 19:09:25 [INFO] <Dietzer> Nan tu dois le reduire en poudre, tu met l'os dans ta case de craft
+2011-10-11 19:12:20 [INFO] <maatthieu> a l'attaque!!!
+2011-10-11 19:12:27 [INFO] <Dietzer> NOOOOOOOOOOOOOOON
+2011-10-11 19:12:35 [INFO] <maatthieu> lol
+2011-10-11 19:12:46 [INFO] <Dietzer> Pas tant que y'a pas les barriere
+2011-10-11 19:13:21 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-11 19:13:39 [INFO] maatthieu [/127.0.0.1:54628] logged in with entity id 1350 at (-5.229928269092406, 64.0, -5.320496019564712)
+2011-10-11 19:13:57 [INFO] <maatthieu> ta posé le toit
+2011-10-11 19:14:09 [INFO] <Dietzer> Pas entièrement
+2011-10-11 19:14:14 [INFO] <maatthieu> pendant la nuit :p
+2011-10-11 19:14:43 [INFO] <Dietzer> Plus que la lumière
+2011-10-11 19:16:04 [INFO] <Dietzer> C'est moyen, non ?!
+2011-10-11 19:16:05 [INFO] <maatthieu> c un peu moche ton lustre
+2011-10-11 19:16:11 [INFO] <maatthieu> oui complet :p
+2011-10-11 19:16:15 [INFO] <Dietzer> Oui même moche si tu veux
+2011-10-11 19:16:34 [INFO] <Dietzer> Ben la je sais pas pour le moment
+2011-10-11 19:16:44 [INFO] <maatthieu> ben pas de lustre du tout
+2011-10-11 19:17:10 [INFO] <maatthieu> oui quand mm
+2011-10-11 19:17:28 [INFO] <maatthieu> on fait une auberge aussi ^^
+2011-10-11 19:17:32 [INFO] <maatthieu> en bois par ex
+2011-10-11 19:22:02 [INFO] <maatthieu> enfin une souris
+2011-10-11 19:22:06 [INFO] <Dietzer> ^^
+2011-10-11 19:22:31 [INFO] <Dietzer> Attention, livraison de fours
+2011-10-11 19:22:35 [INFO] <maatthieu> les 32 de pierre lisse sont dans le coffre
+2011-10-11 19:22:41 [INFO] <maatthieu> ah
+2011-10-11 19:22:43 [INFO] <Dietzer> Ok
+2011-10-11 19:23:23 [INFO] <Dietzer> Bon, la forge est fini, je m'occupe du jardin
+2011-10-11 19:23:34 [INFO] <Dietzer> Je prends les pierres du coffres
+2011-10-11 19:23:43 [INFO] <maatthieu> ouais ouais
+2011-10-11 19:25:34 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-11 19:25:38 [INFO] maatthieu [/127.0.0.1:54644] logged in with entity id 1703 at (-9.14185830713436, 64.0, -5.077216352409862)
+2011-10-11 19:26:40 [INFO] <Dietzer> Zut pas de fil
+2011-10-11 19:28:34 [INFO] <maatthieu> je deco ++
+2011-10-11 19:28:37 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-11 19:28:38 [INFO] <Dietzer> Ok ++
+2011-10-11 19:41:54 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-11 19:50:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-10-11 20:24:23 [INFO] CONSOLE: Stopping the server..
+2011-10-11 20:24:23 [INFO] Stopping server
+2011-10-11 20:24:23 [INFO] Saving chunks
+2011-10-11 20:24:23 [INFO] Saving chunks
+2011-10-11 20:24:23 [INFO] Saving chunks
+2011-10-11 21:11:57 [INFO] Starting minecraft server version Beta 1.9 Prerelease 3
+2011-10-11 21:11:57 [INFO] Loading properties
+2011-10-11 21:11:57 [INFO] Starting Minecraft server on *:5050
+2011-10-11 21:11:57 [INFO] Preparing level "SkyBlock1.0"
+2011-10-11 21:11:57 [INFO] Default game type: 0
+2011-10-11 21:11:57 [INFO] Preparing start region for level 0
+2011-10-11 21:11:58 [INFO] Preparing spawn area: 16%
+2011-10-11 21:11:59 [INFO] Preparing spawn area: 28%
+2011-10-11 21:12:00 [INFO] Preparing spawn area: 52%
+2011-10-11 21:12:01 [INFO] Preparing start region for level 1
+2011-10-11 21:12:02 [INFO] Preparing spawn area: 3%
+2011-10-11 21:12:02 [INFO] Preparing start region for level 2
+2011-10-11 21:12:02 [INFO] Done (5166630000ns)! For help, type "help" or "?"
+2011-10-11 21:13:00 [INFO] Dietzer [/93.6.35.221:51445] logged in with entity id 0 at (-8.341009665944856, 64.0, -5.53909917993713)
+2011-10-11 21:13:11 [INFO] maatthieu [/127.0.0.1:49399] logged in with entity id 1 at (-3.3000000119209325, 64.0, -4.092374866765873)
+2011-10-11 21:13:30 [INFO] <maatthieu> re
+2011-10-11 21:13:33 [INFO] <Dietzer> Re
+2011-10-11 21:13:42 [INFO] <maatthieu> c pk le bois?
+2011-10-11 21:13:49 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 21:13:49 [WARNING] Dietzer was kicked for floating too long!
+2011-10-11 21:14:23 [INFO] maatthieu issued server command: tp Dietzer maatthieu
+2011-10-11 21:14:44 [INFO] Dietzer [/93.6.35.221:51452] logged in with entity id 22 at (13.321325994656679, -127.83810753975652, -11.13361691578801)
+2011-10-11 21:14:45 [INFO] maatthieu issued server command: tp Dietzer maatthieu
+2011-10-11 21:14:45 [INFO] maatthieu: Teleporting Dietzer to maatthieu.
+2011-10-11 21:15:05 [INFO] <maatthieu> c con ca
+2011-10-11 21:15:17 [INFO] <Dietzer> Assez oui
+2011-10-11 21:15:18 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-11 21:15:22 [INFO] Dietzer [/93.6.35.221:51457] logged in with entity id 54 at (-0.6875, 63.0, -3.15625)
+2011-10-11 21:15:28 [INFO] <Dietzer> Voilà
+2011-10-11 21:15:37 [INFO] <Dietzer> Oui donc le bois c'est pour la route
+2011-10-11 21:15:41 [INFO] <maatthieu> ben desole pour la mesaventure
+2011-10-11 21:16:02 [INFO] <Dietzer> Pas grave, j'avais rien d'important sur moi
+2011-10-11 21:18:26 [INFO] <maatthieu> ca fait cabinet
+2011-10-11 21:18:30 [INFO] <Dietzer> ...
+2011-10-11 21:20:34 [INFO] <Dietzer> Bon je déco, ++
+2011-10-11 21:20:35 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-11 21:32:22 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-11 21:33:17 [INFO] CONSOLE: Stopping the server..
+2011-10-11 21:33:17 [INFO] Stopping server
+2011-10-11 21:33:17 [INFO] Saving chunks
+2011-10-11 21:33:17 [INFO] Saving chunks
+2011-10-11 21:33:17 [INFO] Saving chunks
