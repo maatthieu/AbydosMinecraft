@@ -16706,3 +16706,63 @@ java.lang.NullPointerException
 2011-10-13 19:13:46 [INFO] Saving chunks
 2011-10-13 19:13:46 [INFO] Saving chunks
 2011-10-13 19:13:46 [INFO] Saving chunks
+2011-10-13 19:22:28 [INFO] Starting minecraft server version Beta 1.9 Prerelease 4
+2011-10-13 19:22:28 [INFO] Loading properties
+2011-10-13 19:22:28 [INFO] Starting Minecraft server on *:5050
+2011-10-13 19:22:28 [INFO] Preparing level "SkyBlock1.0"
+2011-10-13 19:22:28 [INFO] Default game type: 0
+2011-10-13 19:22:28 [INFO] Preparing start region for level 0
+2011-10-13 19:22:29 [INFO] Preparing start region for level 1
+2011-10-13 19:22:29 [INFO] Preparing spawn area: 69%
+2011-10-13 19:22:29 [INFO] Preparing start region for level 2
+2011-10-13 19:22:30 [INFO] Preparing spawn area: 44%
+2011-10-13 19:22:31 [INFO] Done (3019136000ns)! For help, type "help" or "?"
+2011-10-13 19:22:48 [INFO] maatthieu [/127.0.0.1:54240] logged in with entity id 0 at (1.6827035893458042, 64.0, -1.6999999880790728)
+2011-10-13 19:24:38 [INFO] Dietzer [/93.6.35.221:60634] logged in with entity id 10 at (-7.590832430474507, 64.0, -4.6855614664607135)
+2011-10-13 19:24:52 [INFO] CONSOLE: Teleporting maatthieu to Dietzer.
+2011-10-13 19:25:00 [INFO] <maatthieu> oud
+2011-10-13 19:25:01 [INFO] <Dietzer> T'es vachement au bord
+2011-10-13 19:25:03 [INFO] <maatthieu> ouf
+2011-10-13 19:25:15 [INFO] <maatthieu> oui miracke
+2011-10-13 19:25:42 [INFO] <maatthieu> on fait du bois
+2011-10-13 19:26:21 [INFO] <maatthieu> c clikc droit sur un arbuste avec un os?
+2011-10-13 19:26:34 [INFO] <Dietzer> De la poudre d'os
+2011-10-13 19:26:41 [INFO] <maatthieu> ...
+2011-10-13 19:26:58 [INFO] <Dietzer> JE kiffe les lampadaire à l'entrée de la forge, ça fait colonne vertebrale ^^
+2011-10-13 19:27:06 [INFO] <maatthieu> oui
+2011-10-13 19:27:36 [INFO] <maatthieu> puree rien se passe
+2011-10-13 19:27:49 [INFO] <maatthieu> tu sprint?
+2011-10-13 19:27:59 [INFO] <Dietzer> Ca ne marche pas forcément, surtout si le plafond est bas
+2011-10-13 19:29:40 [INFO] <Dietzer> Ca me choque le soleil rond
+2011-10-13 19:31:06 [INFO] <Dietzer> Zut y a pas d'araignée
+2011-10-13 19:31:18 [INFO] <maatthieu> et comment on fait si ca marche pas la poudre d'os
+2011-10-13 19:31:21 [INFO] Dietzer lost connection: disconnect.genericReason
+2011-10-13 19:50:29 [INFO] maatthieu lost connection: disconnect.quitting
+2011-10-13 21:01:53 [INFO] CONSOLE: Stopping the server..
+2011-10-13 21:01:53 [INFO] Stopping server
+2011-10-13 21:01:53 [INFO] Saving chunks
+2011-10-13 21:01:53 [INFO] Saving chunks
+2011-10-13 21:01:53 [INFO] Saving chunks
+2011-10-14 07:34:13 [INFO] Starting minecraft server version Beta 1.9 Prerelease 4
+2011-10-14 07:34:13 [INFO] Loading properties
+2011-10-14 07:34:13 [INFO] Starting Minecraft server on *:5050
+2011-10-14 07:34:13 [INFO] Preparing level "SkyBlock1.0"
+2011-10-14 07:34:13 [INFO] Default game type: 0
+2011-10-14 07:34:13 [INFO] Preparing start region for level 0
+2011-10-14 07:34:14 [INFO] Preparing start region for level 1
+2011-10-14 07:34:14 [INFO] Preparing spawn area: 56%
+2011-10-14 07:34:14 [INFO] Preparing start region for level 2
+2011-10-14 07:34:15 [INFO] Done (1785669000ns)! For help, type "help" or "?"
+2011-10-14 08:53:30 [INFO] Dietzer [/93.6.35.221:52544] logged in with entity id 0 at (-1.9727288680092019, 64.0, 0.17363417564335548)
+2011-10-14 09:29:45 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-14 14:25:58 [INFO] Dietzer [/93.6.35.221:53952] logged in with entity id 943 at (-4.330997350685101, 64.0, -9.486378511686507)
+2011-10-14 14:27:29 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-14 15:23:55 [INFO] Dietzer [/93.6.35.221:54328] logged in with entity id 990 at (-6.750554695369678, 64.0, -4.176906590279063)
+2011-10-14 15:40:33 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-14 18:59:20 [INFO] Dietzer [/93.6.35.221:55944] logged in with entity id 1393 at (-6.426936352118365, 64.0, -4.572345062358732)
+2011-10-14 19:03:08 [INFO] Dietzer lost connection: disconnect.quitting
+2011-10-14 22:53:50 [INFO] CONSOLE: Stopping the server..
+2011-10-14 22:53:50 [INFO] Stopping server
+2011-10-14 22:53:50 [INFO] Saving chunks
+2011-10-14 22:53:50 [INFO] Saving chunks
+2011-10-14 22:53:50 [INFO] Saving chunks
