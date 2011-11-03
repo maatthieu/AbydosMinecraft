@@ -18632,3 +18632,72 @@ java.lang.NullPointerException
 2011-11-03 20:55:09 [INFO] Saving chunks
 2011-11-03 20:55:09 [INFO] Saving chunks
 2011-11-03 20:55:09 [INFO] Saving chunks
+2011-11-03 21:07:25 [INFO] Starting minecraft server version Beta 1.9 Prerelease 5
+2011-11-03 21:07:25 [INFO] Loading properties
+2011-11-03 21:07:25 [INFO] Starting Minecraft server on *:5050
+2011-11-03 21:07:25 [INFO] Preparing level "world"
+2011-11-03 21:07:25 [INFO] Default game type: 0
+2011-11-03 21:07:25 [INFO] Preparing start region for level 0
+2011-11-03 21:07:26 [INFO] Done (1054065000ns)! For help, type "help" or "?"
+2011-11-03 21:14:33 [INFO] CONSOLE: Stopping the server..
+2011-11-03 21:14:33 [INFO] Stopping server
+2011-11-03 21:14:33 [INFO] Saving chunks
+2011-11-03 21:14:33 [INFO] Saving chunks
+2011-11-03 21:14:33 [INFO] Saving chunks
+2011-11-03 21:14:50 [INFO] Starting minecraft server version Beta 1.9 Prerelease 5
+2011-11-03 21:14:50 [INFO] Loading properties
+2011-11-03 21:14:50 [INFO] Starting Minecraft server on *:5050
+2011-11-03 21:14:50 [INFO] Preparing level "world"
+2011-11-03 21:14:50 [INFO] Default game type: 0
+2011-11-03 21:14:51 [INFO] Preparing start region for level 0
+2011-11-03 21:14:52 [INFO] Done (1101507000ns)! For help, type "help" or "?"
+2011-11-03 21:15:42 [INFO] CONSOLE: Stopping the server..
+2011-11-03 21:15:42 [INFO] Stopping server
+2011-11-03 21:15:42 [INFO] Saving chunks
+2011-11-03 21:15:42 [INFO] Saving chunks
+2011-11-03 21:15:42 [INFO] Saving chunks
+2011-11-03 21:15:54 [INFO] Starting minecraft server version Beta 1.9 Prerelease 5
+2011-11-03 21:15:54 [INFO] Loading properties
+2011-11-03 21:15:54 [INFO] Starting Minecraft server on *:5050
+2011-11-03 21:15:54 [INFO] Preparing level "world"
+2011-11-03 21:15:54 [INFO] Default game type: 0
+2011-11-03 21:15:54 [INFO] Preparing start region for level 0
+2011-11-03 21:15:55 [INFO] Done (1034859000ns)! For help, type "help" or "?"
+2011-11-03 21:16:18 [INFO] CONSOLE: Stopping the server..
+2011-11-03 21:16:18 [INFO] Stopping server
+2011-11-03 21:16:18 [INFO] Saving chunks
+2011-11-03 21:16:19 [INFO] Saving chunks
+2011-11-03 21:16:19 [INFO] Saving chunks
+2011-11-03 21:16:36 [INFO] Starting minecraft server version Beta 1.9 Prerelease 5
+2011-11-03 21:16:36 [INFO] Loading properties
+2011-11-03 21:16:36 [INFO] Starting Minecraft server on *:5050
+2011-11-03 21:16:36 [INFO] Preparing level "world"
+2011-11-03 21:16:36 [INFO] Default game type: 0
+2011-11-03 21:16:36 [INFO] Preparing start region for level 0
+2011-11-03 21:16:37 [INFO] Done (912907000ns)! For help, type "help" or "?"
+2011-11-03 21:18:44 [INFO] CONSOLE: Stopping the server..
+2011-11-03 21:18:44 [INFO] Stopping server
+2011-11-03 21:18:44 [INFO] Saving chunks
+2011-11-03 21:18:45 [INFO] Saving chunks
+2011-11-03 21:18:45 [INFO] Saving chunks
+2011-11-03 21:19:03 [INFO] Starting minecraft server version Beta 1.9 Prerelease 5
+2011-11-03 21:19:03 [INFO] Loading properties
+2011-11-03 21:19:03 [INFO] Starting Minecraft server on *:5051
+2011-11-03 21:19:03 [INFO] Preparing level "world"
+2011-11-03 21:19:03 [INFO] Default game type: 0
+2011-11-03 21:19:03 [INFO] Preparing start region for level 0
+2011-11-03 21:19:04 [INFO] Done (864767000ns)! For help, type "help" or "?"
+2011-11-03 21:21:17 [INFO] CONSOLE: Stopping the server..
+2011-11-03 21:21:17 [INFO] Stopping server
+2011-11-03 21:21:17 [INFO] Saving chunks
+2011-11-03 21:21:17 [INFO] Saving chunks
+2011-11-03 21:21:17 [INFO] Saving chunks
+2011-11-03 21:21:30 [INFO] Starting minecraft server version Beta 1.9 Prerelease 5
+2011-11-03 21:21:30 [INFO] Loading properties
+2011-11-03 21:21:30 [INFO] Starting Minecraft server on *:5050
+2011-11-03 21:21:30 [INFO] Preparing level "world"
+2011-11-03 21:21:30 [INFO] Default game type: 0
+2011-11-03 21:21:30 [INFO] Preparing start region for level 0
+2011-11-03 21:21:30 [INFO] Done (853873000ns)! For help, type "help" or "?"
+2011-11-03 21:35:47 [INFO] maatthieu [/192.168.66.1:54524] logged in with entity id 224 at (21.412044348424136, 49.0, -77.69999998807909)
+2011-11-03 22:27:05 [INFO] maatthieu lost connection: disconnect.quitting
