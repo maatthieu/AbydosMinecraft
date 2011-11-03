@@ -18701,3 +18701,8 @@ java.lang.NullPointerException
 2011-11-03 21:21:30 [INFO] Done (853873000ns)! For help, type "help" or "?"
 2011-11-03 21:35:47 [INFO] maatthieu [/192.168.66.1:54524] logged in with entity id 224 at (21.412044348424136, 49.0, -77.69999998807909)
 2011-11-03 22:27:05 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-03 22:38:02 [INFO] CONSOLE: Stopping the server..
+2011-11-03 22:38:02 [INFO] Stopping server
+2011-11-03 22:38:02 [INFO] Saving chunks
+2011-11-03 22:38:02 [INFO] Saving chunks
+2011-11-03 22:38:02 [INFO] Saving chunks
