@@ -18706,3 +18706,35 @@ java.lang.NullPointerException
 2011-11-03 22:38:02 [INFO] Saving chunks
 2011-11-03 22:38:02 [INFO] Saving chunks
 2011-11-03 22:38:02 [INFO] Saving chunks
+2011-11-04 07:24:25 [INFO] Starting minecraft server version Beta 1.9 Prerelease 5
+2011-11-04 07:24:25 [INFO] Loading properties
+2011-11-04 07:24:25 [INFO] Starting Minecraft server on *:5050
+2011-11-04 07:24:25 [INFO] Preparing level "world"
+2011-11-04 07:24:25 [INFO] Default game type: 0
+2011-11-04 07:24:25 [INFO] Preparing start region for level 0
+2011-11-04 07:24:26 [INFO] Done (1069510000ns)! For help, type "help" or "?"
+2011-11-04 07:50:55 [INFO] Dietzer [/86.73.174.208:50098] logged in with entity id 216 at (-46.25027815953143, 108.0, 9.98948362131392)
+2011-11-04 08:23:09 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-04 14:35:27 [INFO] Dietzer [/86.73.174.208:49357] logged in with entity id 14160 at (-31.80297996624421, 100.0, 26.580298784962835)
+2011-11-04 14:50:04 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-04 16:04:25 [INFO] Dietzer [/86.73.174.208:53554] logged in with entity id 20779 at (-15.421827759350816, 100.0, 21.776303823491215)
+2011-11-04 16:23:53 [WARNING] Dietzer moved wrongly!
+2011-11-04 16:23:57 [WARNING] Dietzer moved wrongly!
+2011-11-04 19:02:25 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-05 08:41:14 [INFO] Dietzer [/86.73.174.208:50151] logged in with entity id 81179 at (-2.454051358488081, 63.0, 5.4955803167842685)
+2011-11-05 08:41:22 [INFO] Dietzer lost connection: disconnect.genericReason
+2011-11-05 09:17:53 [INFO] Dietzer [/86.73.174.208:50447] logged in with entity id 81303 at (-2.454051358488081, 63.0, 5.4955803167842685)
+2011-11-05 09:19:05 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-05 13:22:41 [INFO] Dietzer [/86.73.174.208:51601] logged in with entity id 82580 at (-15.395881679078837, 100.0, 23.370235898069158)
+2011-11-05 13:31:10 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-06 08:54:13 [INFO] Dietzer [/86.73.174.208:50185] logged in with entity id 89610 at (-15.165206738608866, 5.0, -73.61754064619444)
+2011-11-06 09:25:54 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-06 10:09:56 [INFO] Dietzer [/86.73.174.208:50247] logged in with entity id 101355 at (-29.386066817656634, 63.0, 14.494018029124174)
+2011-11-06 11:04:03 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-06 12:31:29 [INFO] Dietzer [/86.73.174.208:50677] logged in with entity id 129923 at (-8.730049532548684, 63.0, -2.659420537442733)
+2011-11-06 12:35:58 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-06 23:43:30 [INFO] CONSOLE: Stopping the server..
+2011-11-06 23:43:30 [INFO] Stopping server
+2011-11-06 23:43:30 [INFO] Saving chunks
+2011-11-06 23:43:30 [INFO] Saving chunks
+2011-11-06 23:43:30 [INFO] Saving chunks
