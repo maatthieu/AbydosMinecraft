@@ -18867,3 +18867,200 @@ java.lang.NullPointerException
 2011-11-08 23:11:22 [INFO] Saving chunks
 2011-11-08 23:11:22 [INFO] Saving chunks
 2011-11-08 23:11:22 [INFO] Saving chunks
+2011-11-09 07:44:25 [INFO] Starting minecraft server version Beta 1.9 Prerelease 5
+2011-11-09 07:44:25 [INFO] Loading properties
+2011-11-09 07:44:25 [INFO] Starting Minecraft server on *:5050
+2011-11-09 07:44:25 [INFO] Preparing level "world"
+2011-11-09 07:44:25 [INFO] Default game type: 0
+2011-11-09 07:44:25 [INFO] Preparing start region for level 0
+2011-11-09 07:44:26 [INFO] Preparing spawn area: 73%
+2011-11-09 07:44:26 [INFO] Done (1417660000ns)! For help, type "help" or "?"
+2011-11-09 08:09:00 [INFO] Dietzer [/86.73.174.208:50900] logged in with entity id 207 at (-37.82452185859393, 100.0, 13.433078988090916)
+2011-11-09 08:25:01 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-09 09:16:53 [INFO] Dietzer [/86.73.174.208:50993] logged in with entity id 7932 at (-0.5458163208090925, 99.0, 18.678435600983093)
+2011-11-09 09:17:47 [INFO] maatthieu [/92.245.150.2:1738] logged in with entity id 8687 at (21.494691796882538, 49.0, -76.21273110178386)
+2011-11-09 09:18:04 [INFO] <Dietzer> TP toi
+2011-11-09 09:18:10 [INFO] maatthieu issued server command: tp maatthieu Dietzer
+2011-11-09 09:18:10 [INFO] maatthieu: Teleporting maatthieu to Dietzer.
+2011-11-09 09:18:14 [INFO] <maatthieu> ta raison
+2011-11-09 09:18:20 [INFO] <Dietzer> Ne bouge plus
+2011-11-09 09:18:27 [INFO] <maatthieu> ouais je vois ca
+2011-11-09 09:18:40 [INFO] <Dietzer> T'es pret ?!
+2011-11-09 09:18:43 [INFO] <maatthieu> oui
+2011-11-09 09:19:01 [INFO] <Dietzer> T'as vu les oeufs ?!
+2011-11-09 09:19:15 [INFO] <maatthieu> y en a un qui a shoote une poule
+2011-11-09 09:19:20 [INFO] <Dietzer> ^^
+2011-11-09 09:19:29 [INFO] <maatthieu> tu peux recommencer?
+2011-11-09 09:19:49 [INFO] <Dietzer> Vas das la salle de controle, tu trouveras, fais un tir que je voie
+2011-11-09 09:20:28 [INFO] <maatthieu> t pret?
+2011-11-09 09:20:31 [INFO] <Dietzer> Oui
+2011-11-09 09:20:59 [INFO] <Dietzer> Ca n'en a pas creer un seul :(
+2011-11-09 09:21:11 [INFO] <maatthieu> quand tu les jette a la main ca marche?
+2011-11-09 09:21:21 [INFO] <Dietzer> Aussi, mais c'est moins drole ^^
+2011-11-09 09:22:18 [INFO] <Dietzer> 2 salves et rien
+2011-11-09 09:22:33 [INFO] <maatthieu> il va sortir?
+2011-11-09 09:22:41 [INFO] <Dietzer> Non, trop haut
+2011-11-09 09:22:45 [INFO] <maatthieu> ca essaye de s'enfuir ^
+2011-11-09 09:22:51 [INFO] <Dietzer> Pui si il sort il sait que je le tue
+2011-11-09 09:22:53 [INFO] <maatthieu> un oeuf
+2011-11-09 09:23:14 [INFO] <Dietzer> Y'en a plus que 2 dans chaque distributeur
+2011-11-09 09:23:48 [INFO] <Dietzer> Tiens il ne pleut pas ici
+2011-11-09 09:23:48 [INFO] <maatthieu> puree la pluie
+2011-11-09 09:23:56 [INFO] <Dietzer> Xcelent
+2011-11-09 09:24:11 [INFO] <Dietzer> On doit etre sur le biome desert
+2011-11-09 09:24:11 [INFO] <maatthieu> pile sur le biome maria
+2011-11-09 09:24:21 [INFO] <maatthieu> oui
+2011-11-09 09:27:02 [INFO] <Dietzer> :D
+2011-11-09 09:27:03 [INFO] <maatthieu> hé
+2011-11-09 09:27:12 [INFO] <maatthieu> g pas halucin
+2011-11-09 09:27:30 [INFO] <Dietzer> Et encore j'ai pas frapper pour te pousser :)
+2011-11-09 09:27:56 [INFO] <maatthieu> oui sinon t'aurais reussi
+2011-11-09 09:28:09 [INFO] <maatthieu> y a de l'eau en bas mais je tente pas quand mm
+2011-11-09 09:28:21 [INFO] <Dietzer> Si c'est sans risque, je le fais regulierement
+2011-11-09 09:28:27 [INFO] <maatthieu> oki
+2011-11-09 09:29:20 [INFO] <maatthieu> je deco
+2011-11-09 09:29:23 [INFO] <Dietzer> Ok ++
+2011-11-09 09:29:25 [INFO] <maatthieu> amuse toi bien
+2011-11-09 09:29:27 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-09 09:30:03 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-09 16:50:42 [INFO] Dietzer [/86.73.174.208:54108] logged in with entity id 17930 at (1.0998339680804126, 100.0, 32.12339219287992)
+2011-11-09 17:43:52 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-09 17:43:58 [INFO] Dietzer [/86.73.174.208:54560] logged in with entity id 41399 at (-26.468357172299314, 100.0, 26.72196909305952)
+2011-11-09 18:03:19 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-09 18:05:48 [INFO] maatthieu [/92.245.150.2:1231] logged in with entity id 48093 at (-7.9375, 100.0, 27.6875)
+2011-11-09 18:09:13 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-09 18:56:12 [INFO] maatthieu [/192.168.66.1:49351] logged in with entity id 49531 at (-13.925000011920929, 100.0, 30.97392469031939)
+2011-11-09 18:58:35 [INFO] Dietzer [/86.73.174.208:50388] logged in with entity id 51584 at (-38.866091695219566, 100.0, 27.55565714860494)
+2011-11-09 18:58:37 [INFO] <Dietzer> Re
+2011-11-09 18:58:39 [INFO] <maatthieu> re
+2011-11-09 18:58:43 [INFO] <maatthieu> ca tonne di donc
+2011-11-09 18:58:46 [INFO] <Dietzer> ^^
+2011-11-09 18:58:49 [INFO] <maatthieu> ouh la la
+2011-11-09 19:03:28 [INFO] <Dietzer> T'es ou la ?!
+2011-11-09 19:03:33 [INFO] <maatthieu> premiere tour
+2011-11-09 19:03:36 [INFO] <Dietzer> Ok
+2011-11-09 19:03:43 [INFO] <maatthieu> pk?
+2011-11-09 19:03:56 [INFO] <Dietzer> Non j'avais besoin d'un coup de main pour 2s
+2011-11-09 19:04:04 [INFO] <maatthieu> tjs besoin?
+2011-11-09 19:04:07 [INFO] <Dietzer> C'est bon
+2011-11-09 19:04:18 [INFO] <maatthieu> oki
+2011-11-09 19:04:37 [INFO] <Dietzer> Elle devient de plus en plus sombre mon arene
+2011-11-09 19:04:47 [INFO] <maatthieu> manque de lumiere?
+2011-11-09 19:05:00 [INFO] <Dietzer> Oui et non, c'est fait expres
+2011-11-09 19:08:03 [INFO] <maatthieu> tu fais koi?
+2011-11-09 19:08:09 [INFO] <maatthieu> ta des pb de mobs?
+2011-11-09 19:08:29 [INFO] <Dietzer> Non c'etait pour tester les nouvelles lumieres de l'arene justement, mais c'est bon
+2011-11-09 19:16:49 [INFO] <Dietzer> T'as été dans le Nether ?!
+2011-11-09 19:19:09 [INFO] <maatthieu> non
+2011-11-09 19:19:12 [INFO] <maatthieu> j y pense
+2011-11-09 19:19:44 [INFO] <Dietzer> Equipe toi au moins d'une épée, et si tu veux l'ensorceler n'hesite pas a monter
+2011-11-09 19:20:32 [INFO] <maatthieu> c avec koi l'ensorcellage?
+2011-11-09 19:20:49 [INFO] <Dietzer> Dans la salle en obsidian, au milier des livres
+2011-11-09 19:21:03 [INFO] <maatthieu> ouais mais faut donner un item?
+2011-11-09 19:21:18 [INFO] <Dietzer> Ben l'objet a enchanter
+2011-11-09 19:22:37 [INFO] <maatthieu> tour à 8 etage + RDC
+2011-11-09 19:22:49 [INFO] <Dietzer> Combien de cubes chaque étage ?!
+2011-11-09 19:23:04 [INFO] <maatthieu> 8x8 et 6 en hauteur
+2011-11-09 19:23:12 [INFO] <Dietzer> Ok
+2011-11-09 19:23:54 [INFO] <Dietzer> Et 6 diamands
+2011-11-09 19:24:19 [INFO] <maatthieu> cool
+2011-11-09 19:25:29 [INFO] <maatthieu> t en bas?
+2011-11-09 19:25:33 [INFO] <Dietzer> Oui
+2011-11-09 19:25:41 [INFO] <maatthieu> j sui en hait :p
+2011-11-09 19:25:43 [INFO] <maatthieu> haut
+2011-11-09 19:25:47 [INFO] <Dietzer> ^^
+2011-11-09 19:30:43 [INFO] <Dietzer> 4 diamands de plus, ce qui fait 10
+2011-11-09 19:31:47 [INFO] <maatthieu> et bnen
+2011-11-09 19:37:09 [WARNING] Dietzer moved wrongly!
+2011-11-09 19:42:25 [INFO] <Dietzer> Et on dit bonjour à Lily, la dernière née
+2011-11-09 19:42:37 [INFO] <maatthieu> c pour moi?
+2011-11-09 19:42:43 [INFO] <Dietzer> Non pour ma poule
+2011-11-09 19:42:51 [INFO] <maatthieu> tu lui donnes un nom?
+2011-11-09 19:43:04 [INFO] <Dietzer> Oui, elle est plus mignonne que les autres
+2011-11-09 19:43:12 [INFO] <maatthieu> ^^
+2011-11-09 19:45:10 [INFO] <Dietzer> Bon je vais manger, jete un coup d'oeil au Nether quand même, ++
+2011-11-09 19:45:12 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-09 19:55:55 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-09 21:50:14 [INFO] maatthieu [/192.168.66.1:50693] logged in with entity id 75970 at (-0.6999999880790615, 98.0, -58.69999998807905)
+2011-11-09 22:49:16 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-09 22:57:34 [INFO] CONSOLE: Stopping the server..
+2011-11-09 22:57:34 [INFO] Stopping server
+2011-11-09 22:57:34 [INFO] Saving chunks
+2011-11-09 22:57:35 [INFO] Saving chunks
+2011-11-09 22:57:35 [INFO] Saving chunks
+2011-11-09 22:57:38 [INFO] Starting minecraft server version Beta 1.9 Prerelease 5
+2011-11-09 22:57:38 [INFO] Loading properties
+2011-11-09 22:57:38 [INFO] Starting Minecraft server on *:5050
+2011-11-09 22:57:38 [INFO] Preparing level "world"
+2011-11-09 22:57:38 [INFO] Default game type: 0
+2011-11-09 22:57:38 [INFO] Preparing start region for level 0
+2011-11-09 22:57:39 [INFO] Preparing spawn area: 97%
+2011-11-09 22:57:39 [INFO] Done (1172757000ns)! For help, type "help" or "?"
+2011-11-10 07:40:36 [INFO] Starting minecraft server version Beta 1.9 Prerelease 5
+2011-11-10 07:40:36 [INFO] Loading properties
+2011-11-10 07:40:36 [INFO] Starting Minecraft server on *:5050
+2011-11-10 07:40:36 [INFO] Preparing level "world"
+2011-11-10 07:40:36 [INFO] Default game type: 0
+2011-11-10 07:40:36 [INFO] Preparing start region for level 0
+2011-11-10 07:40:37 [INFO] Preparing spawn area: 81%
+2011-11-10 07:40:37 [INFO] Done (1295250000ns)! For help, type "help" or "?"
+2011-11-10 08:36:06 [INFO] Dietzer [/86.73.174.208:50334] logged in with entity id 242 at (-13.71875, 100.0, 26.625)
+2011-11-10 09:01:11 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-10 13:13:15 [INFO] maatthieu [/92.245.150.2:1239] logged in with entity id 11807 at (-2.394604818085786, 105.0, -55.021001467911994)
+2011-11-10 13:37:50 [INFO] Dietzer [/86.73.174.208:51250] logged in with entity id 21615 at (-31.068145938372865, 100.0, 21.561690249394275)
+2011-11-10 13:37:53 [INFO] <Dietzer> Hello
+2011-11-10 13:37:56 [INFO] <maatthieu> hello
+2011-11-10 13:38:01 [INFO] <Dietzer> Ca bosse dur ^^
+2011-11-10 13:38:32 [INFO] <maatthieu> ouaipe g fait une verriere ^
+2011-11-10 13:38:38 [INFO] <Dietzer> Cool ma ferme a champignon fonctionne
+2011-11-10 13:38:52 [INFO] <maatthieu> je te vois
+2011-11-10 13:39:11 [INFO] <Dietzer> HUUUUUUUUUUUUUUUUUUUUUU!
+2011-11-10 13:39:27 [INFO] <maatthieu> tu me vois
+2011-11-10 13:39:28 [INFO] <maatthieu> ?
+2011-11-10 13:39:31 [INFO] <Dietzer> Oui
+2011-11-10 13:39:56 [INFO] <maatthieu> g utilité les plaques de verres ^^ c plus economique
+2011-11-10 13:39:59 [INFO] <Dietzer> Tiens on ne peut enchanter les objets qu'une seule foi
+2011-11-10 13:40:08 [INFO] <Dietzer> Mouais
+2011-11-10 13:40:21 [INFO] <maatthieu> ils sont plus lumineux
+2011-11-10 13:40:29 [INFO] <Dietzer> Tu crois
+2011-11-10 13:40:40 [INFO] <maatthieu> ouais j'en avais cote cote les 2 types de verre
+2011-11-10 13:41:58 [INFO] Dietzer issued server command: TP Dietzer maatthieu
+2011-11-10 13:41:58 [INFO] Dietzer: Teleporting Dietzer to maatthieu.
+2011-11-10 13:42:08 [INFO] <maatthieu> encore
+2011-11-10 13:42:38 [INFO] <Dietzer> D'ici je peux voir ma maison ^^
+2011-11-10 13:42:46 [INFO] <maatthieu> ^^
+2011-11-10 13:42:55 [INFO] <Dietzer> Et tu vas en faire quoi de tout ces etages ?!
+2011-11-10 13:42:57 [INFO] <maatthieu> ici y aura des poules au moins au debut
+2011-11-10 13:44:45 [INFO] <Dietzer> T'as une super vue en tout cas
+2011-11-10 13:44:54 [INFO] <maatthieu> t tt en haut?
+2011-11-10 13:45:03 [INFO] <Dietzer> J y etais, la je suis tout en bas
+2011-11-10 13:45:13 [INFO] <maatthieu> la vue est differente en bas :p
+2011-11-10 13:45:20 [INFO] <Dietzer> ^^
+2011-11-10 13:47:04 [INFO] <maatthieu> pas mal
+2011-11-10 13:49:15 [INFO] <Dietzer> 9 slimeballs
+2011-11-10 13:49:26 [INFO] <Dietzer> Je deco ++
+2011-11-10 13:49:27 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-10 13:57:31 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-10 14:04:30 [INFO] maatthieu [/92.245.150.2:1351] logged in with entity id 28870 at (1.34375, 105.0, -58.71875)
+2011-11-10 14:16:11 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-10 15:24:32 [INFO] Dietzer [/86.73.174.208:53197] logged in with entity id 32313 at (6.950602664413193, 5.0, 9.048631343207754)
+2011-11-10 15:42:09 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-10 18:30:31 [INFO] maatthieu [/192.168.66.1:49357] logged in with entity id 42660 at (-1.7013577877333823, 106.0, -54.98780229101857)
+2011-11-10 18:30:40 [INFO] <maatthieu> re
+2011-11-10 18:48:06 [INFO] Dietzer [/86.73.174.208:56212] logged in with entity id 48435 at (-58.09809696229056, 100.0, 4.610245354850538)
+2011-11-10 18:48:10 [INFO] <Dietzer> Re
+2011-11-10 18:48:14 [INFO] <maatthieu> re
+2011-11-10 18:48:36 [INFO] <Dietzer> J'vais dans le Nether, j'ai besoin de glowstone
+2011-11-10 18:48:42 [INFO] <maatthieu> oki
+2011-11-10 18:49:04 [INFO] <maatthieu> 5mn et je te rejoinds
+2011-11-10 18:51:56 [INFO] <Dietzer> Je deco, ++
+2011-11-10 18:51:59 [INFO] <maatthieu> ++
+2011-11-10 18:51:59 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-10 19:27:09 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-10 21:13:03 [INFO] maatthieu [/192.168.66.1:51120] logged in with entity id 57484 at (1.1106061981625523, 98.0, -58.69999998807907)
+2011-11-10 23:20:34 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-10 23:22:19 [INFO] CONSOLE: Stopping the server..
+2011-11-10 23:22:19 [INFO] Stopping server
+2011-11-10 23:22:19 [INFO] Saving chunks
+2011-11-10 23:22:19 [INFO] Saving chunks
+2011-11-10 23:22:19 [INFO] Saving chunks
