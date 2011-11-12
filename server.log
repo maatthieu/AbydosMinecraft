@@ -19064,3 +19064,187 @@ java.lang.NullPointerException
 2011-11-10 23:22:19 [INFO] Saving chunks
 2011-11-10 23:22:19 [INFO] Saving chunks
 2011-11-10 23:22:19 [INFO] Saving chunks
+2011-11-10 23:48:36 [INFO] Starting minecraft server version Beta 1.9 Prerelease 5
+2011-11-10 23:48:36 [INFO] Loading properties
+2011-11-10 23:48:36 [INFO] Starting Minecraft server on *:5050
+2011-11-10 23:48:36 [INFO] Preparing level "world"
+2011-11-10 23:48:36 [INFO] Default game type: 0
+2011-11-10 23:48:36 [INFO] Preparing start region for level 0
+2011-11-10 23:48:37 [INFO] Done (1225516000ns)! For help, type "help" or "?"
+2011-11-10 23:48:42 [INFO] maatthieu [/127.0.0.1:51985] logged in with entity id 179 at (1.546956777541873, 99.0, -55.530781532393014)
+2011-11-10 23:49:22 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-10 23:49:40 [INFO] CONSOLE: Stopping the server..
+2011-11-10 23:49:40 [INFO] Stopping server
+2011-11-10 23:49:40 [INFO] Saving chunks
+2011-11-10 23:49:40 [INFO] Saving chunks
+2011-11-10 23:49:40 [INFO] Saving chunks
+2011-11-11 08:58:28 [INFO] Starting minecraft server version Beta 1.9 Prerelease 5
+2011-11-11 08:58:28 [INFO] Loading properties
+2011-11-11 08:58:28 [INFO] Starting Minecraft server on *:5050
+2011-11-11 08:58:28 [INFO] Preparing level "world"
+2011-11-11 08:58:28 [INFO] Default game type: 0
+2011-11-11 08:58:28 [INFO] Preparing start region for level 0
+2011-11-11 08:58:28 [INFO] Done (733412000ns)! For help, type "help" or "?"
+2011-11-11 09:12:28 [INFO] Dietzer [/86.73.174.208:50612] logged in with entity id 170 at (-15.625, 100.0, 22.78125)
+2011-11-11 10:28:29 [INFO] maatthieu [/127.0.0.1:53348] logged in with entity id 41686 at (2.6122313557526393, 106.0, -57.14166872828099)
+2011-11-11 10:28:35 [INFO] <maatthieu> re
+2011-11-11 10:35:24 [INFO] <Dietzer> Re
+2011-11-11 10:35:33 [INFO] <Dietzer> Désolé, petite absence ^^
+2011-11-11 10:35:41 [INFO] <maatthieu> de rien
+2011-11-11 10:36:10 [INFO] <maatthieu> les fleurs se multiplient?
+2011-11-11 10:36:16 [INFO] <Dietzer> Finalement ma petite exploration n'a rien donné
+2011-11-11 10:36:21 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-11 10:36:34 [INFO] Dietzer [/86.73.174.208:52810] logged in with entity id 45398 at (-29.75, 100.0, 18.375)
+2011-11-11 10:36:44 [INFO] <Dietzer> Je crois que oui pour le sfleurs
+2011-11-11 10:36:54 [INFO] <maatthieu> ca marche pas encore ...
+2011-11-11 10:36:59 [INFO] <Dietzer> De ?!
+2011-11-11 10:37:11 [INFO] <maatthieu> g planté une fleur mais elle est tjs tte seule
+2011-11-11 10:37:23 [INFO] <Dietzer> Arf, je look sur le wiki
+2011-11-11 10:37:31 [INFO] <maatthieu> encore en rad de bois...
+2011-11-11 10:38:32 [INFO] <Dietzer> Elles apparaissent au hasard ou en utilisant la poudre d'os, pour le bois tu peux venir cultiver che
+2011-11-11 10:38:38 [INFO] <Dietzer> z moi si tu replante apres
+2011-11-11 10:38:49 [INFO] <maatthieu> merci
+2011-11-11 10:39:38 [INFO] <Dietzer> Et la t'as de quoi, j'ai eu une bonne recolte ^^
+2011-11-11 10:39:59 [INFO] <maatthieu> g posé une poule et elle est tjs tte seule
+2011-11-11 10:40:11 [INFO] <maatthieu> g eu des oeufs mais pas 2 poulet
+2011-11-11 10:40:13 [INFO] <Dietzer> Normal, faut lancer des oeufs
+2011-11-11 10:40:18 [INFO] <maatthieu> dac
+2011-11-11 10:40:22 [INFO] <Dietzer> C'est 1/8 je crois
+2011-11-11 10:40:24 [INFO] <maatthieu> il eclot pas l'oeug?
+2011-11-11 10:40:30 [INFO] <Dietzer> Nope, il disparait
+2011-11-11 10:51:21 [INFO] <maatthieu> ta vu sur la map il y a nos skins
+2011-11-11 10:51:43 [INFO] <Dietzer> Oui, et moi je viens de tuer assez de pigmen pour 1 lingot d'or ^^
+2011-11-11 10:51:53 [INFO] <maatthieu> trop la classe de manger en descendant les escaliers
+2011-11-11 10:51:58 [INFO] <Dietzer> Lol
+2011-11-11 10:52:46 [INFO] <maatthieu> pour les flers au faite
+2011-11-11 10:53:06 [INFO] <Dietzer> De quoi les fleurs ?!
+2011-11-11 10:53:11 [INFO] <maatthieu> leur pousse
+2011-11-11 10:56:42 [INFO] <Dietzer> je suis en train de creer une troisième salle dans le Nether
+2011-11-11 10:56:52 [INFO] <maatthieu> oki
+2011-11-11 10:57:06 [INFO] <Dietzer> Et j'en ai une 4eme en projet dans ma tete
+2011-11-11 10:57:10 [INFO] <maatthieu> ^^
+2011-11-11 11:04:01 [INFO] <maatthieu> 2 poules et 2 oeufs
+2011-11-11 11:04:04 [INFO] <Dietzer> ^^
+2011-11-11 11:04:35 [INFO] <Dietzer> Moi je viens de recuperer 8 slimeballs
+2011-11-11 11:04:56 [INFO] <maatthieu> cool
+2011-11-11 11:05:05 [INFO] <maatthieu> on va pouvoir faire des super mecanismes
+2011-11-11 11:05:14 [INFO] <Dietzer> Oui
+2011-11-11 11:06:13 [INFO] <maatthieu> je te prends de la canne a sucre
+2011-11-11 11:06:23 [INFO] <Dietzer> Vas, et des cactus aussi si tu veux
+2011-11-11 11:06:33 [INFO] <maatthieu> apres
+2011-11-11 11:07:23 [INFO] <Dietzer> Et 2 diamands
+2011-11-11 11:11:40 [INFO] <maatthieu> putin 1/2 coeur
+2011-11-11 11:11:50 [INFO] <Dietzer> T'as affronter quoi ?!
+2011-11-11 11:12:07 [INFO] <maatthieu> rien ta source de lave
+2011-11-11 11:12:24 [INFO] <Dietzer> T'es pas doué
+2011-11-11 11:12:27 [INFO] <maatthieu> ouais
+2011-11-11 11:12:33 [INFO] <maatthieu> je regardais ma verriere
+2011-11-11 11:12:56 [INFO] <Dietzer> T'es trop narcissique ^^
+2011-11-11 11:13:35 [INFO] <maatthieu> nivo 6
+2011-11-11 11:13:39 [INFO] <Dietzer> Moi aussi
+2011-11-11 11:13:54 [INFO] <maatthieu> merci pour l'eau a cote de la source de lave
+2011-11-11 11:14:01 [INFO] <Dietzer> :D
+2011-11-11 11:15:58 [INFO] <Dietzer> Mais je repense au mod little blocks, c'est vrai que c'est super utile pour les circuit redstone
+2011-11-11 11:16:10 [INFO] <maatthieu> oui
+2011-11-11 11:16:38 [INFO] <Dietzer> Ca serait pas mal qu'il l'inclu
+2011-11-11 11:16:44 [INFO] <maatthieu> ouais
+2011-11-11 11:17:03 [INFO] <maatthieu> pour pas faire un afficheur de 30 blocs de long pour 1 chiffre
+2011-11-11 11:17:12 [INFO] <Dietzer> Voilà
+2011-11-11 11:20:36 [INFO] <maatthieu> 4 poules ^^
+2011-11-11 11:20:51 [INFO] <maatthieu> 5
+2011-11-11 11:20:58 [INFO] <Dietzer> Dans combien de metre carré ?!
+2011-11-11 11:21:15 [INFO] <maatthieu> 50 blocs en surface
+2011-11-11 11:21:30 [INFO] <Dietzer> Bon ça va, j'appelerais pas la SPA
+2011-11-11 11:28:40 [INFO] <maatthieu> tjs dans le nether?
+2011-11-11 11:28:44 [INFO] <Dietzer> Oui
+2011-11-11 11:28:53 [INFO] <maatthieu> besoin de pierre?
+2011-11-11 11:29:14 [INFO] <Dietzer> Il m'en reste 5x64
+2011-11-11 11:36:53 [INFO] <Dietzer> Sont pas cons les pigmen, ils sautent pas dans le vide
+2011-11-11 11:37:06 [INFO] <maatthieu> t'aura pas mon or^^
+2011-11-11 11:39:13 [INFO] <Dietzer> Putain de ghast a la con, je ne l'avais pas vu
+2011-11-11 11:39:20 [INFO] <maatthieu> ah
+2011-11-11 11:40:24 [INFO] <maatthieu> ah ben ils te font la tete
+2011-11-11 11:40:39 [INFO] <Dietzer> J'vais tous les eclater jusqu'au dernier
+2011-11-11 11:42:05 [INFO] <maatthieu> veux tu te de l'aide
+2011-11-11 11:42:09 [INFO] <Dietzer> Punaise mais c'est quoi cettte invasion, j'en avais 3 au cul
+2011-11-11 11:42:11 [INFO] <maatthieu> avec armure et enchantement
+2011-11-11 11:42:23 [INFO] <Dietzer> Nan c'est bon, je les aurait a l'usure
+2011-11-11 11:42:37 [INFO] <Dietzer> Par contre si t'as une epee je suis preneur
+2011-11-11 11:42:53 [INFO] <maatthieu> pas pleine
+2011-11-11 11:43:03 [INFO] <maatthieu> je vais faire le stock dans le nether
+2011-11-11 11:45:50 [INFO] <maatthieu> pas mal les grilles par contre comme prevu ca laisse pas passer l'eau
+2011-11-11 11:46:12 [INFO] <Dietzer> Pourquoi, tu voulais faire des egouts ^^
+2011-11-11 11:46:35 [INFO] <maatthieu> ouais un peu c evacuation de l'eau
+2011-11-11 11:48:46 [INFO] <Dietzer> Plus qu'un
+2011-11-11 11:49:38 [INFO] <Dietzer> 1 ou 2
+2011-11-11 11:51:04 [INFO] <Dietzer> J'ai tout recuperer sauf mon seau
+2011-11-11 11:51:08 [INFO] <maatthieu> ca va
+2011-11-11 12:04:52 [INFO] <Dietzer> Je peux faire des jambieres en or
+2011-11-11 12:05:00 [INFO] <maatthieu> ^^
+2011-11-11 12:05:24 [INFO] <Dietzer> Bon je déco, on va manger ++
+2011-11-11 12:05:27 [INFO] <maatthieu> ++s
+2011-11-11 12:05:29 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-11 12:11:11 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-11 12:17:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-11 12:17:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-11 12:21:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-11 13:33:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-11 13:45:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-11 13:46:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-11 15:15:40 [INFO] /127.0.0.1:54697 lost connection
+2011-11-11 15:16:00 [INFO] maatthieu [/127.0.0.1:54698] logged in with entity id 98178 at (4.375, 115.0, -50.34375)
+2011-11-11 15:16:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-11 15:16:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-11 17:01:08 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-11 17:01:23 [INFO] CONSOLE: Stopping the server..
+2011-11-11 17:01:23 [INFO] Stopping server
+2011-11-11 17:01:23 [INFO] Saving chunks
+2011-11-11 17:01:25 [INFO] Saving chunks
+2011-11-11 17:01:25 [INFO] Saving chunks
+2011-11-11 17:01:30 [INFO] Starting minecraft server version Beta 1.9 Prerelease 5
+2011-11-11 17:01:30 [INFO] Loading properties
+2011-11-11 17:01:30 [INFO] Starting Minecraft server on *:5050
+2011-11-11 17:01:30 [INFO] Preparing level "world"
+2011-11-11 17:01:30 [INFO] Default game type: 0
+2011-11-11 17:01:30 [INFO] Preparing start region for level 0
+2011-11-11 17:01:31 [INFO] Done (646484000ns)! For help, type "help" or "?"
+2011-11-11 18:32:27 [INFO] Dietzer [/86.73.174.208:49495] logged in with entity id 411 at (-25.728205663646612, 100.0, 26.965312011078538)
+2011-11-11 18:33:02 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-11 21:19:53 [INFO] maatthieu [/93.28.195.49:49639] logged in with entity id 1064 at (-30.96875, 100.0, 20.28125)
+2011-11-11 21:37:20 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-12 11:52:29 [INFO] Disconnecting Dietzer [/86.73.174.208:52604]: Outdated server!
+2011-11-12 12:08:41 [INFO] CONSOLE: Stopping the server..
+2011-11-12 12:08:41 [INFO] Stopping server
+2011-11-12 12:08:41 [INFO] Saving chunks
+2011-11-12 12:08:41 [INFO] Saving chunks
+2011-11-12 12:08:41 [INFO] Saving chunks
+2011-11-12 12:10:33 [INFO] Starting minecraft server version Beta 1.9 Prerelease 5
+2011-11-12 12:10:33 [INFO] Loading properties
+2011-11-12 12:10:33 [INFO] Starting Minecraft server on *:5050
+2011-11-12 12:10:33 [INFO] Preparing level "world"
+2011-11-12 12:10:33 [INFO] Default game type: 0
+2011-11-12 12:10:33 [INFO] Preparing start region for level 0
+2011-11-12 12:10:34 [INFO] Done (476563000ns)! For help, type "help" or "?"
+2011-11-12 12:11:40 [INFO] CONSOLE: Stopping the server..
+2011-11-12 12:11:40 [INFO] Stopping server
+2011-11-12 12:11:40 [INFO] Saving chunks
+2011-11-12 12:11:41 [INFO] Saving chunks
+2011-11-12 12:11:41 [INFO] Saving chunks
+2011-11-12 12:12:09 [INFO] Starting minecraft server version Beta 1.9 Prerelease 6
+2011-11-12 12:12:09 [INFO] Loading properties
+2011-11-12 12:12:09 [INFO] Starting Minecraft server on *:5050
+2011-11-12 12:12:10 [INFO] Preparing level "world"
+2011-11-12 12:12:10 [INFO] Default game type: 0
+2011-11-12 12:12:10 [INFO] Preparing start region for level 0
+2011-11-12 12:12:10 [INFO] Done (457191000ns)! For help, type "help" or "?"
+2011-11-12 12:13:03 [INFO] maatthieu [/93.28.195.49:50122] logged in with entity id 204 at (-3.111844855117356, 49.0, -53.470136489627436)
+2011-11-12 12:41:45 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-12 13:10:52 [INFO] Dietzer [/86.73.174.208:52666] logged in with entity id 12969 at (-22.91798375642161, 100.0, 16.965998011541487)
+2011-11-12 13:11:37 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-12 13:24:13 [INFO] Dietzer [/86.73.174.208:52681] logged in with entity id 13763 at (-15.604207622574613, 100.0, 26.049940390856868)
+2011-11-12 13:37:36 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-12 17:45:40 [INFO] CONSOLE: Stopping the server..
+2011-11-12 17:45:40 [INFO] Stopping server
+2011-11-12 17:45:40 [INFO] Saving chunks
+2011-11-12 17:45:40 [INFO] Saving chunks
+2011-11-12 17:45:41 [INFO] Saving chunks
