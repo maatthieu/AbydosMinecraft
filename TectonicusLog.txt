@@ -1,0 +1,57 @@
+ + + + + + + + + + + + + + + + + + + + + + + +
+                  Tectonicus
+   Version: 2.03
+   Build 2503\:2504MP
+   Constructed on September 25 2011 at 2226
+ + + + + + + + + + + + + + + + + + + + + + + +
+Started on Sun Nov 20 18:55:41 CET 2011
+System:
+	OS Name: Mac OS X
+	OS Architecture: x86_64
+	OS Version: 10.7.2
+	Java vendor: Apple Inc.
+	Java version: 1.6.0_29
+	Awt toolkit: apple.awt.CToolkit
+	Headless?: null
+Settings:
+	mode:Gui
+	rasteriser:Lwjgl
+	outputDir:/Users/maatthieu/Source/AbydosMinecraft/.
+	useCache:true
+	cacheDir:/Users/maatthieu/Source/AbydosMinecraft/./Cache
+	minecraftJar:/Users/maatthieu/Library/Application Support/minecraft/bin/minecraft.jar
+	texturePack:none
+	colourDepth:24
+	alphaBits:8
+	numSamples:4
+	tileSize:512
+	numZoomLevels:8
+	portalsInitiallyVisible:true
+	showSpawn:true
+	signsInitiallyVisible:true
+	playersInitiallyVisible:true
+	bedsInitiallyVisible:true
+	spawnInitiallyVisible:true
+	viewsInitiallyVisible:true
+	eraseOutputDir:false
+	extractLwjglNatives:true
+	isVerbose:false
+	forceLoadAwt:false
+	force32BitNatives:false
+	force64BitNatives:false
+	logFile:/Users/maatthieu/Source/AbydosMinecraft/./TectonicusLog.txt
+	outputHtmlName:map.html
+	numDownsampleThreads:4
+	singlePlayerName:Player
+'Unnamed map' map
+	worldDir: /Users/maatthieu/Source/AbydosMinecraft/.
+	dimension: Terra
+	cameraAngle: 45
+	cameraElevation: 45
+	closestZoomSize: 12
+	worldSubset: FullWorldSubset
+	useBiomeColours: false
+	'Unnamed layer' layer
+		renderStyle: Regular
+		lightStyle: Day
+		imageFormat: Png
