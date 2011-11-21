@@ -20296,3 +20296,28 @@ java.lang.NullPointerException
 2011-11-20 22:37:12 [INFO] Saving chunks
 2011-11-20 22:37:13 [INFO] Saving chunks
 2011-11-20 22:37:13 [INFO] Saving chunks
+2011-11-21 07:54:48 [INFO] Starting minecraft server version 1.0.0
+2011-11-21 07:54:48 [INFO] Loading properties
+2011-11-21 07:54:48 [INFO] Starting Minecraft server on *:5050
+2011-11-21 07:54:48 [INFO] Preparing level "world"
+2011-11-21 07:54:48 [INFO] Default game type: 0
+2011-11-21 07:54:48 [INFO] Preparing start region for level 0
+2011-11-21 07:54:49 [INFO] Done (591197000ns)! For help, type "help" or "?"
+2011-11-21 07:56:01 [INFO] /93.6.35.83:50625 lost connection
+2011-11-21 07:56:19 [INFO] /93.6.35.83:50639 lost connection
+2011-11-21 07:56:49 [INFO] Dietzer [/93.6.35.83:50658] logged in with entity id 259 at (-31.80245257308988, 63.0, -81.04504200343523)
+2011-11-21 08:52:27 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-21 09:23:02 [INFO] Dietzer [/93.6.35.83:51768] logged in with entity id 38276 at (-25.297316687241004, 63.0, -78.54873567723638)
+2011-11-21 10:20:13 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-21 10:22:27 [INFO] Dietzer [/93.6.35.83:52405] logged in with entity id 75909 at (-29.682147698702366, 63.0, -80.34793854773898)
+2011-11-21 10:36:29 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-21 16:59:28 [INFO] /93.6.35.83:50327 lost connection
+2011-11-21 16:59:44 [INFO] /93.6.35.83:50336 lost connection
+2011-11-21 16:59:55 [INFO] /93.6.35.83:50344 lost connection
+2011-11-21 17:00:09 [INFO] Dietzer [/93.6.35.83:50352] logged in with entity id 84490 at (-25.046007092186045, 63.0, -80.6228253938128)
+2011-11-21 18:37:42 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-21 22:02:32 [INFO] CONSOLE: Stopping the server..
+2011-11-21 22:02:32 [INFO] Stopping server
+2011-11-21 22:02:32 [INFO] Saving chunks
+2011-11-21 22:02:32 [INFO] Saving chunks
+2011-11-21 22:02:32 [INFO] Saving chunks
