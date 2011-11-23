@@ -20321,3 +20321,278 @@ java.lang.NullPointerException
 2011-11-21 22:02:32 [INFO] Saving chunks
 2011-11-21 22:02:32 [INFO] Saving chunks
 2011-11-21 22:02:32 [INFO] Saving chunks
+2011-11-22 08:06:18 [INFO] Starting minecraft server version 1.0.0
+2011-11-22 08:06:18 [INFO] Loading properties
+2011-11-22 08:06:18 [INFO] Starting Minecraft server on *:5050
+2011-11-22 08:06:18 [INFO] Preparing level "world"
+2011-11-22 08:06:18 [INFO] Default game type: 0
+2011-11-22 08:06:18 [INFO] Preparing start region for level 0
+2011-11-22 08:06:19 [INFO] Done (900202000ns)! For help, type "help" or "?"
+2011-11-22 10:18:45 [INFO] Dietzer [/93.6.35.83:52182] logged in with entity id 1062 at (-32.90625, 63.0, -80.96875)
+2011-11-22 10:47:18 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-22 13:09:09 [INFO] Dietzer [/93.6.35.83:52976] logged in with entity id 21356 at (-30.5, 63.0, -77.5)
+2011-11-22 13:16:32 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-22 15:32:27 [INFO] Dietzer [/93.6.35.83:53390] logged in with entity id 27530 at (-24.625, 63.0, -79.6875)
+2011-11-22 17:36:14 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-22 18:23:29 [INFO] /93.6.35.83:53867 lost connection
+2011-11-22 18:23:42 [INFO] Dietzer [/93.6.35.83:53875] logged in with entity id 121145 at (-19.84375, 63.0, -78.96875)
+2011-11-22 18:29:42 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-22 22:38:10 [INFO] CONSOLE: Stopping the server..
+2011-11-22 22:38:10 [INFO] Stopping server
+2011-11-22 22:38:10 [INFO] Saving chunks
+2011-11-22 22:38:10 [INFO] Saving chunks
+2011-11-22 22:38:10 [INFO] Saving chunks
+2011-11-23 07:52:32 [INFO] Starting minecraft server version 1.0.0
+2011-11-23 07:52:32 [INFO] Loading properties
+2011-11-23 07:52:32 [INFO] Starting Minecraft server on *:5050
+2011-11-23 07:52:32 [INFO] Preparing level "world"
+2011-11-23 07:52:32 [INFO] Default game type: 0
+2011-11-23 07:52:32 [INFO] Preparing start region for level 0
+2011-11-23 07:52:33 [INFO] Done (675838000ns)! For help, type "help" or "?"
+2011-11-23 08:08:13 [INFO] Dietzer [/93.6.35.83:50326] logged in with entity id 320 at (-19.52254147029454, 63.0, -79.00486718956373)
+2011-11-23 09:00:49 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-23 10:52:50 [INFO] /93.6.35.83:53394 lost connection
+2011-11-23 10:53:10 [INFO] /93.6.35.83:53402 lost connection
+2011-11-23 10:53:59 [INFO] /93.6.35.83:53440 lost connection
+2011-11-23 10:54:09 [INFO] /93.6.35.83:53448 lost connection
+2011-11-23 10:54:22 [INFO] Dietzer [/93.6.35.83:53456] logged in with entity id 40791 at (-21.54663766044369, 102.0, -76.89942303649687)
+2011-11-23 10:55:26 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-23 13:45:08 [INFO] /93.6.35.83:53952 lost connection
+2011-11-23 13:45:20 [INFO] Dietzer [/93.6.35.83:53960] logged in with entity id 42039 at (-25.084806915850557, 63.0, -83.3424310625071)
+2011-11-23 14:29:13 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-23 15:32:59 [INFO] /93.6.35.83:57596 lost connection
+2011-11-23 15:33:13 [INFO] /93.6.35.83:57604 lost connection
+2011-11-23 15:33:26 [INFO] Dietzer [/93.6.35.83:57612] logged in with entity id 77171 at (-29.0, 63.0, -79.5625)
+2011-11-23 15:33:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-23 15:43:08 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-23 15:43:12 [INFO] /93.6.35.83:57618 lost connection
+2011-11-23 15:43:27 [INFO] /93.6.35.83:57626 lost connection
+2011-11-23 15:43:42 [INFO] /93.6.35.83:57634 lost connection
+2011-11-23 15:43:53 [INFO] /93.6.35.83:57646 lost connection
+2011-11-23 15:45:13 [INFO] /93.6.35.83:57708 lost connection
+2011-11-23 15:45:24 [INFO] Dietzer [/93.6.35.83:57716] logged in with entity id 86208 at (0.3868144828968125, 64.0, -0.40936433081632767)
+2011-11-23 15:55:55 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-23 17:53:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-23 18:16:24 [INFO] maatthieu [/127.0.0.1:51088] logged in with entity id 94396 at (-29.36714663219142, 63.0, -83.65554885928586)
+2011-11-23 18:16:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-23 18:16:51 [INFO] maatthieu tried command: list
+2011-11-23 18:16:55 [INFO] <maatthieu> list
+2011-11-23 18:16:57 [INFO] maatthieu tried command: list
+2011-11-23 18:17:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-23 18:17:03 [INFO] /93.6.35.83:58084 lost connection
+2011-11-23 18:17:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-23 18:17:16 [INFO] /93.6.35.83:58092 lost connection
+2011-11-23 18:17:33 [INFO] /93.6.35.83:58102 lost connection
+2011-11-23 18:17:49 [INFO] Dietzer [/93.6.35.83:58116] logged in with entity id 95222 at (-24.965699675912205, 63.0, -74.63406664995539)
+2011-11-23 18:17:53 [INFO] <Dietzer> Enfin
+2011-11-23 18:18:05 [INFO] <maatthieu> ah oui ta avancé
+2011-11-23 18:18:10 [INFO] <Dietzer> ^^
+2011-11-23 18:18:19 [INFO] <Dietzer> T'as tester le pont levis ?!
+2011-11-23 18:18:24 [INFO] <maatthieu> ah non
+2011-11-23 18:18:48 [INFO] <maatthieu> sympa la muraill
+2011-11-23 18:19:03 [INFO] <Dietzer> Ca change tout la double demi dalle en pierre ^^
+2011-11-23 18:19:07 [INFO] <maatthieu> ^^
+2011-11-23 18:19:18 [INFO] <Dietzer> Je t'explique pour le pont
+2011-11-23 18:19:24 [INFO] <maatthieu> ca c moche que 2 de haut le passage
+2011-11-23 18:19:27 [INFO] <maatthieu> au moins 3
+2011-11-23 18:19:36 [INFO] <Dietzer> Detail
+2011-11-23 18:19:48 [INFO] <maatthieu> comme les demi pierre sur les murailles
+2011-11-23 18:19:53 [INFO] <Dietzer> :D
+2011-11-23 18:19:53 [INFO] <maatthieu> bon le pont levis
+2011-11-23 18:19:58 [INFO] <Dietzer> La il est lever
+2011-11-23 18:20:08 [INFO] <Dietzer> Ah pu
+2011-11-23 18:20:20 [INFO] <maatthieu> excellent tu le faius que je vois
+2011-11-23 18:20:30 [INFO] <Dietzer> Ya rien d exceptionnel
+2011-11-23 18:20:37 [INFO] <maatthieu> oki vers le bas ^^
+2011-11-23 18:20:47 [INFO] <maatthieu> pas bete avec la lave ca rebouche
+2011-11-23 18:20:53 [INFO] <Dietzer> T'as l'escalier de maintenance a coté si tu veux vior
+2011-11-23 18:21:30 [INFO] <maatthieu> oki super
+2011-11-23 18:21:38 [INFO] <maatthieu> protection ok
+2011-11-23 18:21:46 [INFO] <Dietzer> Le temps qu'on aille dans le Nether^^
+2011-11-23 18:21:53 [INFO] <Dietzer> T'as un briquet ?!
+2011-11-23 18:21:56 [INFO] <maatthieu> on peut rajouter une porte hoizontale pour les porjectiles
+2011-11-23 18:21:57 [INFO] <maatthieu> non
+2011-11-23 18:22:48 [INFO] <Dietzer> Pret ?!
+2011-11-23 18:22:53 [INFO] <maatthieu> 2s
+2011-11-23 18:23:01 [INFO] <maatthieu> go
+2011-11-23 18:23:05 [INFO] <maatthieu> ah lol
+2011-11-23 18:23:11 [INFO] <Dietzer> Je ange 2 3 trucs, je ne prends que le necessaire
+2011-11-23 18:23:17 [INFO] <maatthieu> tu fais bien
+2011-11-23 18:23:33 [INFO] <Dietzer> Pret ?!
+2011-11-23 18:23:37 [INFO] <maatthieu> j'adore la base
+2011-11-23 18:23:39 [INFO] <maatthieu> pre
+2011-11-23 18:23:48 [INFO] <Dietzer> A toi l'honneur
+2011-11-23 18:23:58 [INFO] <Dietzer> Alors ?!
+2011-11-23 18:23:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-23 18:24:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-23 18:24:10 [INFO] <maatthieu> cool
+2011-11-23 18:24:17 [INFO] <maatthieu> ehu nkon
+2011-11-23 18:24:41 [INFO] <maatthieu> c bon
+2011-11-23 18:25:03 [INFO] <maatthieu> ca commencait bien
+2011-11-23 18:25:36 [INFO] <Dietzer> Qu'est-ce qui se passe ?!
+2011-11-23 18:25:44 [INFO] <maatthieu> ben ke gasp
+2011-11-23 18:25:52 [INFO] <Dietzer> Tu l'as eu, c'est bon
+2011-11-23 18:26:45 [INFO] <Dietzer> Reste en dessous
+2011-11-23 18:26:56 [INFO] <maatthieu> oki
+2011-11-23 18:27:39 [INFO] <maatthieu> fui
+2011-11-23 18:29:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-23 18:29:33 [INFO] <maatthieu> je re
+2011-11-23 18:29:43 [INFO] <maatthieu> dans le nether
+2011-11-23 18:29:49 [INFO] <maatthieu> g mis a l'abri la cargaison
+2011-11-23 18:30:41 [INFO] <maatthieu> on y retourne?
+2011-11-23 18:30:51 [INFO] <maatthieu> t a tout recup de ce qui 'y avait par terre?
+2011-11-23 18:30:55 [INFO] <Dietzer> 2s je me refais une pioche
+2011-11-23 18:31:01 [INFO] <Dietzer> Oui j'ai tout pris
+2011-11-23 18:31:04 [INFO] <maatthieu> oki
+2011-11-23 18:31:10 [INFO] <maatthieu> c moin presse alors
+2011-11-23 18:31:29 [INFO] <Dietzer> ^^
+2011-11-23 18:31:36 [INFO] <maatthieu> super la base
+2011-11-23 18:31:41 [INFO] <Dietzer> Merci
+2011-11-23 18:32:22 [INFO] <Dietzer> T'es dans le Nether ?!
+2011-11-23 18:32:27 [INFO] <maatthieu> je descends
+2011-11-23 18:33:06 [INFO] <Dietzer> Je consolidezrais le portail coté Nether, demain
+2011-11-23 18:33:32 [INFO] <maatthieu> je m occupe de lui
+2011-11-23 18:33:44 [INFO] <Dietzer> Ok
+2011-11-23 18:33:48 [INFO] <maatthieu> enfin j essai
+2011-11-23 18:34:47 [INFO] <maatthieu> c bien pas trop de lave ici
+2011-11-23 18:35:44 [INFO] <maatthieu> _28 66 95 plein de glowstoine a prendre
+2011-11-23 18:35:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-23 18:36:08 [INFO] <Dietzer> Je suis sortie, je n'arriev pas a renvoyer les boules de feu des Ghasts
+2011-11-23 18:36:15 [INFO] <Dietzer> Et y en a un devant le portail
+2011-11-23 18:36:19 [INFO] <maatthieu> cool
+2011-11-23 18:36:58 [INFO] <maatthieu> g pas de briquet en plus
+2011-11-23 18:37:10 [INFO] <Dietzer> Pourquoi, le portail est fermé ?!
+2011-11-23 18:37:15 [INFO] <maatthieu> non au cas ou
+2011-11-23 18:37:29 [INFO] <Dietzer> Ok, je reste connecté de toute facon ^^
+2011-11-23 18:37:51 [INFO] <Dietzer> Xcelent je peux passer la nuit uand t'es dans le Nether
+2011-11-23 18:38:31 [INFO] <maatthieu> tu pourrais aller dans le nether me donner les coordonnées de la porte :p
+2011-11-23 18:38:37 [INFO] <Dietzer> :D
+2011-11-23 18:38:53 [INFO] <Dietzer> 2 min
+2011-11-23 18:40:57 [INFO] <maatthieu> je sui bloqué par un gasp
+2011-11-23 18:42:47 [INFO] <maatthieu> tu peux voir?
+2011-11-23 18:45:31 [INFO] <Dietzer> Re
+2011-11-23 18:45:36 [INFO] <maatthieu> re
+2011-11-23 18:45:39 [INFO] <Dietzer> J'arrive
+2011-11-23 18:45:55 [INFO] <Dietzer> Personne ici
+2011-11-23 18:46:01 [INFO] <maatthieu> oki
+2011-11-23 18:46:09 [INFO] <maatthieu> slime de fue
+2011-11-23 18:46:20 [INFO] <Dietzer> -14 81 -14 La porte
+2011-11-23 18:46:38 [INFO] <Dietzer> Ghast en fait
+2011-11-23 18:47:52 [INFO] <maatthieu> oki merco
+2011-11-23 18:48:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-23 18:48:38 [INFO] <Dietzer> Laminer en 2 coups d epee le Ghast
+2011-11-23 18:49:49 [INFO] <Dietzer> Si t'as besoin, TP toi
+2011-11-23 18:49:57 [INFO] <maatthieu> puree pas bete :p
+2011-11-23 18:50:49 [INFO] <maatthieu> on te dire dessus
+2011-11-23 18:50:50 [INFO] <Dietzer> Merde, encore 1
+2011-11-23 18:51:03 [INFO] <maatthieu> je l entends
+2011-11-23 18:51:36 [INFO] <Dietzer> Encore 1 coup et il est mort
+2011-11-23 18:51:48 [INFO] <Dietzer> T'as pas vu de forteresse ?!
+2011-11-23 18:51:59 [INFO] <maatthieu> non g vu un truc maus j'été trop loin
+2011-11-23 18:52:40 [INFO] <Dietzer> Mais c'est impossible de lui renvoyer
+2011-11-23 18:52:54 [INFO] <maatthieu> j'arrive
+2011-11-23 18:54:43 [INFO] <Dietzer> Ah ah y a les plombs qui ont sauter, j'ai detruit un filon de glowstone ^^
+2011-11-23 18:55:06 [INFO] <maatthieu> je suis derriere le portail ^^
+2011-11-23 18:55:19 [INFO] <Dietzer> J'arrive, t'asps vu le Ghast ?!
+2011-11-23 18:55:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-23 18:55:33 [INFO] <maatthieu> si justement
+2011-11-23 18:56:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-23 18:56:13 [INFO] <maatthieu> j y retourne 2s
+2011-11-23 18:56:18 [INFO] <Dietzer> Ok
+2011-11-23 18:58:30 [INFO] <Dietzer> Je me sert du Ghast pour tuer les pigmen :D
+2011-11-23 18:58:58 [INFO] <maatthieu> voila j'amene un atelier et un coffre la bas
+2011-11-23 18:59:05 [INFO] <maatthieu> et t y mettras ton riquet
+2011-11-23 18:59:13 [INFO] <maatthieu> je vais te montrer le chemin que j'ai fais
+2011-11-23 18:59:17 [INFO] <Dietzer> Euh c'est risquer, on fait juste de l'exploration demain, j'installe des murs
+2011-11-23 18:59:25 [INFO] <maatthieu> c sur
+2011-11-23 19:00:16 [INFO] <maatthieu> la
+2011-11-23 19:01:57 [INFO] <maatthieu> la bas au loin
+2011-11-23 19:02:09 [INFO] <maatthieu> strucute carré
+2011-11-23 19:02:42 [INFO] <Dietzer> Peut etre faut verifier
+2011-11-23 19:03:41 [INFO] <maatthieu> si c en est
+2011-11-23 19:04:08 [INFO] <maatthieu> ché pas en fait
+2011-11-23 19:04:19 [INFO] <Dietzer> Moi je dirais non pasque je vois pas
+2011-11-23 19:05:05 [INFO] <maatthieu> je rentre a la base
+2011-11-23 19:05:10 [INFO] <Dietzer> Ok
+2011-11-23 19:07:19 [INFO] <maatthieu> mon sens de l'orientation est merdique
+2011-11-23 19:07:23 [INFO] <Dietzer> Lol
+2011-11-23 19:07:35 [INFO] <Dietzer> Deconne pas je compte sur toi pour me TP
+2011-11-23 19:07:40 [INFO] <maatthieu> :D
+2011-11-23 19:09:53 [INFO] <Dietzer> C'est bon t'es rentre ?!
+2011-11-23 19:12:01 [INFO] <maatthieu> non
+2011-11-23 19:12:14 [INFO] <Dietzer> T'es perdu ?!
+2011-11-23 19:12:31 [INFO] <maatthieu> ouais je suis vers la fin du tunnel masi je le trouve plus
+2011-11-23 19:13:11 [INFO] <Dietzer> Depeche toi de le trouver
+2011-11-23 19:13:48 [INFO] <Dietzer> J'en ai une
+2011-11-23 19:14:19 [INFO] <Dietzer> J'ai mis les coord dans un fichier txt
+2011-11-23 19:15:17 [INFO] <maatthieu> de koi?
+2011-11-23 19:15:22 [INFO] <maatthieu> ta trouvé koi?
+2011-11-23 19:15:22 [INFO] <Dietzer> Une forteresse
+2011-11-23 19:15:26 [INFO] <maatthieu> cool
+2011-11-23 19:15:35 [INFO] <Dietzer> Je me rapproche pour affiner les coordonnées
+2011-11-23 19:16:12 [INFO] <Dietzer> Je suis sur le pont
+2011-11-23 19:17:01 [INFO] <maatthieu> oki
+2011-11-23 19:17:16 [INFO] <Dietzer> TP moi
+2011-11-23 19:18:14 [INFO] <Dietzer> Fais super vite
+2011-11-23 19:19:11 [INFO] <Dietzer> Si tu cherches le portail il est en -14 81 -14
+2011-11-23 19:19:19 [INFO] <maatthieu> ca c bo
+2011-11-23 19:19:50 [INFO] <maatthieu> c bnon je vais retrouver
+2011-11-23 19:20:06 [INFO] <maatthieu> tu peux te tp
+2011-11-23 19:20:10 [INFO] <maatthieu> je peux
+2011-11-23 19:20:15 [INFO] <Dietzer> Oui
+2011-11-23 19:20:33 [INFO] CONSOLE: Teleporting dietzer to maatthieu.
+2011-11-23 19:20:46 [INFO] <Dietzer> Decalle toi je vios rien
+2011-11-23 19:20:49 [INFO] <maatthieu> ca n a pas marchz
+2011-11-23 19:20:50 [INFO] <Dietzer> Voi*
+2011-11-23 19:21:03 [INFO] <Dietzer> Si c'est bon
+2011-11-23 19:21:04 [INFO] <maatthieu> c bon
+2011-11-23 19:21:10 [INFO] <maatthieu> il charge la map s
+2011-11-23 19:21:18 [INFO] <maatthieu> viens
+2011-11-23 19:21:39 [INFO] <Dietzer> Pfoui, je me suis fais attaquer par 2 génie du feu la bas
+2011-11-23 19:21:43 [INFO] <maatthieu> ccol
+2011-11-23 19:22:23 [INFO] <Dietzer> Je retourne à la base
+2011-11-23 19:22:35 [INFO] <maatthieu> oki
+2011-11-23 19:24:07 [INFO] <Dietzer> Je relance le jeu, je ne sais pas pourquoi ca rame a mort
+2011-11-23 19:24:27 [INFO] <maatthieu> la c mieux je pense
+2011-11-23 19:24:30 [INFO] Dietzer lost connection: disconnect.genericReason
+2011-11-23 19:25:44 [INFO] /93.6.35.83:58175 lost connection
+2011-11-23 19:25:55 [INFO] /93.6.35.83:58183 lost connection
+2011-11-23 19:26:16 [INFO] Dietzer [/93.6.35.83:58193] logged in with entity id 125978 at (-18.8125, 63.0, -78.78125)
+2011-11-23 19:27:25 [INFO] <Dietzer> Je retourne dans ma mine, faire le plein de pierre pour consolider le Nether
+2011-11-23 19:27:29 [INFO] <maatthieu> oki
+2011-11-23 19:27:42 [INFO] <Dietzer> J'ai pris les seaux, t'en veux 1 ?!
+2011-11-23 19:27:50 [INFO] <maatthieu> non
+2011-11-23 19:28:18 [INFO] <maatthieu> on dirait que ta mine va se croiser avec mon royaume
+2011-11-23 19:28:23 [INFO] <maatthieu> je vais voir comment ca tombe
+2011-11-23 19:28:44 [INFO] <Dietzer> Ci c'est un soucis, remplis la je ferais une dérivation
+2011-11-23 19:28:54 [INFO] <maatthieu> je pense ps
+2011-11-23 19:29:03 [INFO] <maatthieu> je vois juste que je vais vers ta mine
+2011-11-23 19:29:10 [INFO] <maatthieu> mais au contraire on peut faire un passage
+2011-11-23 19:29:57 [INFO] <maatthieu> je vois ton curseur dans ma mine p^
+2011-11-23 19:30:06 [INFO] <Dietzer> Mon curseur ?!
+2011-11-23 19:30:13 [INFO] <maatthieu> dietzer
+2011-11-23 19:30:17 [INFO] <Dietzer> Ah
+2011-11-23 19:30:42 [INFO] <maatthieu> eh ben voila
+2011-11-23 19:31:13 [INFO] <maatthieu> ah ta bouché :D
+2011-11-23 19:31:23 [INFO] <Dietzer> Bouché quoi ?!
+2011-11-23 19:31:34 [INFO] <maatthieu> je suis tombé dans une gallerie allumé
+2011-11-23 19:31:44 [INFO] <Dietzer> ^^ sous l'eau ?!
+2011-11-23 19:31:49 [INFO] <maatthieu> non
+2011-11-23 19:33:41 [INFO] <maatthieu> tiens lac de lave de chez toi ^^
+2011-11-23 19:33:59 [INFO] <maatthieu> avec plein d'obisdian
+2011-11-23 19:34:44 [INFO] <maatthieu> ta des reserves de lave pour un moment
+2011-11-23 19:34:59 [INFO] <Dietzer> Je me fais aggresser par un slime invisible
+2011-11-23 19:35:27 [INFO] <maatthieu> t ou je suis a l'escalier
+2011-11-23 19:35:32 [INFO] <Dietzer> C'est bon
+2011-11-23 19:37:26 [INFO] <Dietzer> T'es ou ?!
+2011-11-23 19:37:34 [INFO] <maatthieu> je retourne chez moi
+2011-11-23 19:37:38 [INFO] <Dietzer> Ok
+2011-11-23 19:37:48 [INFO] <maatthieu> mais c deja relié mm si c galere
+2011-11-23 19:39:09 [INFO] <Dietzer> Bon je déco, @+
+2011-11-23 19:39:14 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-23 19:46:57 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-23 19:47:37 [INFO] CONSOLE: Stopping the server..
+2011-11-23 19:47:37 [INFO] Stopping server
+2011-11-23 19:47:37 [INFO] Saving chunks
+2011-11-23 19:47:37 [INFO] Saving chunks
+2011-11-23 19:47:37 [INFO] Saving chunks
