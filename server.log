@@ -20596,3 +20596,217 @@ java.lang.NullPointerException
 2011-11-23 19:47:37 [INFO] Saving chunks
 2011-11-23 19:47:37 [INFO] Saving chunks
 2011-11-23 19:47:37 [INFO] Saving chunks
+2011-11-24 07:44:33 [INFO] Starting minecraft server version 1.0.0
+2011-11-24 07:44:33 [INFO] Loading properties
+2011-11-24 07:44:33 [INFO] Starting Minecraft server on *:5050
+2011-11-24 07:44:33 [INFO] Preparing level "world"
+2011-11-24 07:44:33 [INFO] Default game type: 0
+2011-11-24 07:44:33 [INFO] Preparing start region for level 0
+2011-11-24 07:44:34 [INFO] Done (1040614000ns)! For help, type "help" or "?"
+2011-11-24 07:45:36 [INFO] /192.168.66.1:49209 lost connection
+2011-11-24 07:46:02 [INFO] /192.168.66.1:49224 lost connection
+2011-11-24 07:46:54 [INFO] /192.168.66.1:49254 lost connection
+2011-11-24 07:47:15 [INFO] maatthieu [/192.168.66.1:49267] logged in with entity id 271 at (-26.699999988079096, 29.0, -75.30000001192094)
+2011-11-24 07:47:43 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-24 08:23:37 [INFO] Dietzer [/93.6.35.83:50305] logged in with entity id 911 at (-17.183280131307487, 63.0, -80.84719388254251)
+2011-11-24 08:50:38 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-24 09:10:16 [INFO] /93.6.35.83:51117 lost connection
+2011-11-24 10:41:43 [INFO] Dietzer [/93.6.35.83:51742] logged in with entity id 18847 at (-25.340529897624265, 63.0, -73.71992873787694)
+2011-11-24 11:05:10 [INFO] Dietzer tried command: give 341 40
+2011-11-24 11:06:45 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-24 11:07:14 [INFO] /93.6.35.83:51825 lost connection
+2011-11-24 11:07:28 [INFO] /93.6.35.83:51834 lost connection
+2011-11-24 11:07:41 [INFO] Dietzer [/93.6.35.83:51843] logged in with entity id 35146 at (-28.699999988079103, 59.0, -85.40258081771056)
+2011-11-24 11:07:52 [INFO] §7Dietzer whispers Youhou to Dietzer
+2011-11-24 11:14:48 [INFO] Dietzer tried command: give 145 40
+2011-11-24 11:20:03 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-24 16:16:41 [INFO] Dietzer [/93.6.35.83:58800] logged in with entity id 43502 at (-21.300000011920964, 59.0, -87.36429213462722)
+2011-11-24 16:34:26 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-24 16:38:52 [INFO] Dietzer [/93.6.35.83:58820] logged in with entity id 53747 at (-31.3464394248289, 63.0, -81.22142028886074)
+2011-11-24 17:27:16 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-24 18:28:17 [INFO] CONSOLE: Stopping the server..
+2011-11-24 18:28:17 [INFO] Stopping server
+2011-11-24 18:28:17 [INFO] Saving chunks
+2011-11-24 18:28:17 [INFO] Saving chunks
+2011-11-24 18:28:17 [INFO] Saving chunks
+2011-11-24 18:29:59 [INFO] Starting minecraft server version 1.0.0
+2011-11-24 18:29:59 [INFO] Loading properties
+2011-11-24 18:29:59 [INFO] Starting Minecraft server on *:5050
+2011-11-24 18:29:59 [INFO] Preparing level "world"
+2011-11-24 18:29:59 [INFO] Default game type: 0
+2011-11-24 18:29:59 [INFO] Preparing start region for level 0
+2011-11-24 18:30:00 [INFO] Done (1083203000ns)! For help, type "help" or "?"
+2011-11-24 18:30:00 [INFO] Starting GS4 status listener
+2011-11-24 18:30:00 [INFO] Setting default query port to 5050
+2011-11-24 18:30:00 [INFO] Query running on 0.0.0.0:5050
+2011-11-24 18:43:16 [INFO] Disconnecting maatthieu [/192.168.66.1:49683]: You are not white-listed on this server!
+2011-11-24 18:44:05 [INFO] /192.168.66.1:49821 lost connection
+2011-11-24 18:44:25 [INFO] Disconnecting maatthieu [/192.168.66.1:49957]: You are not white-listed on this server!
+2011-11-24 18:45:11 [INFO] CONSOLE: Stopping the server..
+2011-11-24 18:45:11 [INFO] Stopping server
+2011-11-24 18:45:11 [INFO] Saving chunks
+2011-11-24 18:45:11 [INFO] Saving chunks
+2011-11-24 18:45:11 [INFO] Saving chunks
+2011-11-24 18:47:59 [INFO] Starting minecraft server version 1.0.0
+2011-11-24 18:47:59 [INFO] Loading properties
+2011-11-24 18:47:59 [INFO] Starting Minecraft server on *:5050
+2011-11-24 18:47:59 [INFO] Preparing level "world"
+2011-11-24 18:47:59 [INFO] Default game type: 0
+2011-11-24 18:48:00 [INFO] Preparing start region for level 0
+2011-11-24 18:48:00 [INFO] Done (962079000ns)! For help, type "help" or "?"
+2011-11-24 18:48:01 [INFO] /93.6.35.83:60639 lost connection
+2011-11-24 18:49:44 [INFO] /192.168.66.1:50244 lost connection
+2011-11-24 18:49:55 [INFO] /192.168.66.1:50256 lost connection
+2011-11-24 18:50:13 [INFO] /192.168.66.1:50271 lost connection
+2011-11-24 18:50:28 [INFO] /192.168.66.1:50282 lost connection
+2011-11-24 18:50:42 [INFO] maatthieu [/192.168.66.1:50297] logged in with entity id 245 at (-25.645769503284182, 68.0, -76.72924344844235)
+2011-11-24 18:51:28 [INFO] Dietzer [/93.6.35.83:60793] logged in with entity id 1004 at (-23.485679456666116, 63.0, -80.54641389585171)
+2011-11-24 18:51:32 [INFO] <Dietzer> Nickel
+2011-11-24 18:51:42 [INFO] Dietzer issued server command: give 341 40
+2011-11-24 18:51:55 [INFO] Dietzer issued server command: give Dietzer 341 40
+2011-11-24 18:51:55 [INFO] Dietzer: Giving Dietzer some 341
+2011-11-24 18:52:03 [INFO] <Dietzer> Et voilà, 40 slimeballs
+2011-11-24 18:52:04 [INFO] <maatthieu> re
+2011-11-24 18:52:13 [INFO] <Dietzer> Re
+2011-11-24 18:52:13 [INFO] <maatthieu> re
+2011-11-24 18:52:34 [INFO] <maatthieu> g genere la map du nether je l'upload et faut que je m'occupe de la puree et je re
+2011-11-24 18:52:39 [INFO] <Dietzer> Voilà porte sécurisée finie
+2011-11-24 18:52:44 [INFO] <Dietzer> ^^
+2011-11-24 18:53:43 [INFO] <maatthieu> ca va prendre son temps pour la map car faut suppr l'ancienne :p
+2011-11-24 18:53:50 [INFO] <Dietzer> Arf
+2011-11-24 18:57:28 [INFO] <Dietzer> 32 torches, 1 set d'armure de cuir, 3 epee, 2 pioches, 9 steacks, j'suis paré
+2011-11-24 19:05:20 [INFO] <maatthieu> je suis la
+2011-11-24 19:05:38 [INFO] <maatthieu> je me prepare et go
+2011-11-24 19:07:59 [INFO] <Dietzer> Ok
+2011-11-24 19:09:10 [INFO] <maatthieu> pas mal la porte
+2011-11-24 19:09:18 [INFO] <Dietzer> ^
+2011-11-24 19:09:20 [INFO] <Dietzer> ^^
+2011-11-24 19:09:44 [INFO] <maatthieu> wao
+2011-11-24 19:09:48 [INFO] <Dietzer> J'suis pret
+2011-11-24 19:10:07 [INFO] <Dietzer> Hu! j'ai que 3 armure 1/2
+2011-11-24 19:10:32 [INFO] <maatthieu> ah
+2011-11-24 19:10:36 [INFO] <maatthieu> c koi le craft de l'arc
+2011-11-24 19:11:03 [INFO] <Dietzer> 3 fil aligner et ensuite 3 baton en V
+2011-11-24 19:11:06 [INFO] <Dietzer> I>
+2011-11-24 19:11:30 [INFO] <Dietzer> F = fil, B = baton
+2011-11-24 19:11:32 [INFO] <Dietzer> FB
+2011-11-24 19:11:34 [INFO] <maatthieu> j'inversais les fils et batons
+2011-11-24 19:11:34 [INFO] <Dietzer> F B
+2011-11-24 19:11:36 [INFO] <Dietzer> FB
+2011-11-24 19:12:11 [INFO] <Dietzer> T'as pris un seau de lave ?!
+2011-11-24 19:12:15 [INFO] <maatthieu> ah
+2011-11-24 19:12:23 [INFO] <maatthieu> zut
+2011-11-24 19:12:26 [INFO] <Dietzer> On les remplit avant de partir, en sortant
+2011-11-24 19:12:41 [INFO] <maatthieu> oki je suis pret sinon
+2011-11-24 19:12:41 [INFO] <Dietzer> C'set bon ?!
+2011-11-24 19:12:49 [INFO] <maatthieu> oui
+2011-11-24 19:13:17 [INFO] <maatthieu> ou?
+2011-11-24 19:14:05 [INFO] <maatthieu> c bon
+2011-11-24 19:14:20 [INFO] <Dietzer> T'es ou ?!
+2011-11-24 19:14:23 [INFO] <maatthieu> je remonte
+2011-11-24 19:14:27 [INFO] <Dietzer> Ben non
+2011-11-24 19:14:29 [INFO] <maatthieu> jesui bete
+2011-11-24 19:14:37 [INFO] <Dietzer> un peu oui
+2011-11-24 19:15:21 [INFO] <maatthieu> ou la
+2011-11-24 19:15:34 [INFO] <Dietzer> Stop, je me suis planter recule
+2011-11-24 19:15:51 [INFO] <maatthieu> ou
+2011-11-24 19:15:57 [INFO] <Dietzer> Reviens sur te pas
+2011-11-24 19:16:36 [INFO] <Dietzer> Oui désolé c'est pas amenager
+2011-11-24 19:16:42 [INFO] <maatthieu> pas encore
+2011-11-24 19:16:53 [INFO] <Dietzer> C'est ici
+2011-11-24 19:17:21 [INFO] <maatthieu> une arraigné?
+2011-11-24 19:17:33 [INFO] <Dietzer> Ou ?!
+2011-11-24 19:17:34 [INFO] <maatthieu> c toi ki a le plus de torchez
+2011-11-24 19:18:12 [INFO] <Dietzer> On prends les rails et le bois
+2011-11-24 19:18:25 [INFO] <maatthieu> pioche de fer?
+2011-11-24 19:18:33 [INFO] <Dietzer> Ah pas, j'voulais pas la risquer
+2011-11-24 19:19:26 [INFO] <maatthieu> je prend surtout les fence
+2011-11-24 19:19:29 [INFO] <Dietzer> Punaise elle sont longue a peter les toils
+2011-11-24 19:20:04 [INFO] <Dietzer> On se sépare, si y a besoin on s'appelle
+2011-11-24 19:20:24 [INFO] <maatthieu> je voudrias eviter
+2011-11-24 19:20:36 [INFO] <Dietzer> Comme tu veux
+2011-11-24 19:20:44 [INFO] <maatthieu> en fait c bon y a du charbon
+2011-11-24 19:21:30 [INFO] <maatthieu> de la lave ici
+2011-11-24 19:21:44 [INFO] <Dietzer> C'est bon j'en ai assez
+2011-11-24 19:22:19 [INFO] <Dietzer> On lui met la misere à la mine
+2011-11-24 19:22:54 [INFO] <maatthieu> de l'eau ici
+2011-11-24 19:24:46 [INFO] <maatthieu> zut
+2011-11-24 19:25:23 [INFO] <Dietzer> T'été ouè ?!
+2011-11-24 19:25:27 [INFO] <Dietzer> ou ?!
+2011-11-24 19:25:35 [INFO] <maatthieu> je sais plus troop
+2011-11-24 19:25:41 [INFO] <maatthieu> suis les arraigné
+2011-11-24 19:25:51 [INFO] <maatthieu> et les torches
+2011-11-24 19:26:03 [INFO] <Dietzer> ^^, fallais demonté, t'es parti trop loin
+2011-11-24 19:26:11 [INFO] maatthieu issued server command: tp maatthieu dietzer
+2011-11-24 19:26:11 [INFO] maatthieu: Teleporting maatthieu to dietzer.
+2011-11-24 19:26:24 [INFO] <maatthieu> donne une epee stp
+2011-11-24 19:26:40 [INFO] <maatthieu> thx
+2011-11-24 19:26:41 [INFO] <Dietzer> 2s je phone
+2011-11-24 19:29:40 [INFO] <Dietzer> Re
+2011-11-24 19:29:50 [INFO] <maatthieu> c bon g tout
+2011-11-24 19:30:00 [INFO] <Dietzer> Cool sauf ton Xp :D
+2011-11-24 19:30:06 [INFO] <maatthieu> je suis quans mm a 5
+2011-11-24 19:30:10 [INFO] <maatthieu> elle tombe a cote de toi
+2011-11-24 19:30:12 [INFO] <Dietzer> Ok
+2011-11-24 19:32:39 [INFO] <Dietzer> Tu limites les risques ^^
+2011-11-24 19:32:44 [INFO] <maatthieu> je me connais
+2011-11-24 19:32:48 [INFO] <Dietzer> Lol
+2011-11-24 19:33:04 [INFO] <Dietzer> La pioche c'est du gachi pour le bois
+2011-11-24 19:33:14 [INFO] <maatthieu> c pas grave
+2011-11-24 19:34:12 [INFO] <Dietzer> Creeper
+2011-11-24 19:34:27 [INFO] <Dietzer> Je ne le vois plus
+2011-11-24 19:34:30 [INFO] <maatthieu> g vu
+2011-11-24 19:34:39 [INFO] <maatthieu> dans l'eau en bas
+2011-11-24 19:34:40 [INFO] <Dietzer> Moi aussis
+2011-11-24 19:34:51 [INFO] <maatthieu> ca va
+2011-11-24 19:35:00 [INFO] <Dietzer> Oui il a peter sans raison
+2011-11-24 19:36:08 [INFO] <Dietzer> Je crois que j'ai trouver le generateur d'araignées
+2011-11-24 19:36:21 [INFO] <maatthieu> vers ou
+2011-11-24 19:36:39 [INFO] <Dietzer> Ici
+2011-11-24 19:36:50 [INFO] <Dietzer> En bas en tre l'eau et la lave
+2011-11-24 19:37:09 [WARNING] Dietzer moved wrongly!
+2011-11-24 19:37:18 [INFO] <Dietzer> p
+2011-11-24 19:37:25 [INFO] Dietzer issued server command: TP Dietzer maatthieu
+2011-11-24 19:37:25 [INFO] Dietzer: Teleporting Dietzer to maatthieu.
+2011-11-24 19:37:53 [INFO] <Dietzer> Plus que 2 coeurs mais j'ai du en flinguer 6
+2011-11-24 19:37:59 [INFO] <maatthieu> ouais
+2011-11-24 19:38:03 [INFO] <maatthieu> je re
+2011-11-24 19:38:06 [INFO] <Dietzer> Ok
+2011-11-24 19:40:05 [INFO] <maatthieu> je reste 5mn et j y go
+2011-11-24 19:40:30 [INFO] <Dietzer> Putain
+2011-11-24 19:40:51 [INFO] <maatthieu> je me tp sur toi ok?
+2011-11-24 19:40:54 [INFO] <maatthieu> pour sortir
+2011-11-24 19:40:55 [INFO] <Dietzer> Ok
+2011-11-24 19:41:05 [INFO] maatthieu issued server command: tp maatthieu dietzer
+2011-11-24 19:41:05 [INFO] maatthieu: Teleporting maatthieu to dietzer.
+2011-11-24 19:41:53 [INFO] <maatthieu> demain on vien pour 16h c tjs ok?
+2011-11-24 19:41:59 [INFO] <Dietzer> Demain ?!
+2011-11-24 19:42:07 [INFO] <maatthieu> x -87 y 18 z -167
+2011-11-24 19:42:11 [INFO] <maatthieu> oui samedi :p
+2011-11-24 19:42:16 [INFO] <Dietzer> Je prefere
+2011-11-24 19:42:18 [INFO] <Dietzer> Ok
+2011-11-24 19:42:19 [INFO] <maatthieu> c les coordonnées la ou y a la lave
+2011-11-24 19:42:22 [INFO] <maatthieu> en bas
+2011-11-24 19:42:29 [INFO] <maatthieu> c bon alors?
+2011-11-24 19:42:34 [INFO] <Dietzer> Oui pas de soucis
+2011-11-24 19:43:06 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-24 19:44:33 [INFO] Dietzer [/93.6.35.83:60834] logged in with entity id 29207 at (-103.69999998807909, 14.278195116352109, -179.6820580091134)
+2011-11-24 19:44:34 [INFO] maatthieu issued server command: tp dietzer maatthieu
+2011-11-24 19:44:34 [INFO] maatthieu: Teleporting dietzer to maatthieu.
+2011-11-24 19:44:42 [INFO] <maatthieu> slime ball?
+2011-11-24 19:45:06 [INFO] <Dietzer> J'ai surtout recuperer tout mon equipement, et j'ai vu LES generateurs d'araign"ées
+2011-11-24 19:45:23 [INFO] <maatthieu> pour les pistons je pensais que tu le ferais un bloc en arriere poour pas qu'il soit visible
+2011-11-24 19:45:38 [INFO] <Dietzer> Ca serait inutile, les mobs ne tomberais pas dans la lave
+2011-11-24 19:46:02 [INFO] <maatthieu> cad?
+2011-11-24 19:46:17 [INFO] <Dietzer> Ben il serais sur une etiteplateforme entre la porte et la lave
+2011-11-24 19:47:00 [INFO] <Dietzer> Faudra remettre cette expedition
+2011-11-24 19:47:41 [INFO] <Dietzer> Et reussir a desactiver ce probleme de point de spawn
+2011-11-24 19:51:17 [INFO] <Dietzer> T'es toujours parmis nous ?!
+2011-11-24 19:52:38 [INFO] <Dietzer> Bon je déco
+2011-11-24 19:52:40 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-24 20:09:36 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-24 20:44:02 [INFO] CONSOLE: Stopping the server..
+2011-11-24 20:44:02 [INFO] Stopping server
+2011-11-24 20:44:02 [INFO] Saving chunks
+2011-11-24 20:44:03 [INFO] Saving chunks
+2011-11-24 20:44:03 [INFO] Saving chunks
