@@ -21140,3 +21140,28 @@ java.lang.NullPointerException
 2011-11-27 20:10:04 [INFO] Saving chunks
 2011-11-27 20:10:04 [INFO] Saving chunks
 2011-11-27 20:10:04 [INFO] Saving chunks
+2011-11-28 07:00:55 [INFO] Starting minecraft server version 1.0.0
+2011-11-28 07:00:55 [INFO] Loading properties
+2011-11-28 07:00:55 [INFO] Starting Minecraft server on *:5050
+2011-11-28 07:00:55 [INFO] Preparing level "world"
+2011-11-28 07:00:55 [INFO] Default game type: 0
+2011-11-28 07:00:55 [INFO] Preparing start region for level 0
+2011-11-28 07:00:55 [INFO] Done (819868000ns)! For help, type "help" or "?"
+2011-11-28 10:02:11 [INFO] Dietzer [/93.6.35.83:50036] logged in with entity id 1402 at (-20.6875, 63.0, -78.6875)
+2011-11-28 10:12:14 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-28 10:13:09 [INFO] /93.6.35.83:50080 lost connection
+2011-11-28 10:13:22 [INFO] /93.6.35.83:50092 lost connection
+2011-11-28 10:13:34 [INFO] /93.6.35.83:50100 lost connection
+2011-11-28 10:13:45 [INFO] /93.6.35.83:50108 lost connection
+2011-11-28 10:14:09 [INFO] Dietzer [/93.6.35.83:50116] logged in with entity id 9326 at (-24.83830221963329, 63.0, -82.91843170251613)
+2011-11-28 10:14:43 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-28 12:43:05 [INFO] maatthieu [/92.245.150.2:1159] logged in with entity id 9958 at (-25.407745396496594, 29.0, -76.6124045697858)
+2011-11-28 12:43:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-28 12:44:13 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-28 12:58:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-28 19:17:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-28 19:40:01 [INFO] CONSOLE: Stopping the server..
+2011-11-28 19:40:01 [INFO] Stopping server
+2011-11-28 19:40:01 [INFO] Saving chunks
+2011-11-28 19:40:01 [INFO] Saving chunks
+2011-11-28 19:40:01 [INFO] Saving chunks
