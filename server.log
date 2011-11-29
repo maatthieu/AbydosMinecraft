@@ -21165,3 +21165,21 @@ java.lang.NullPointerException
 2011-11-28 19:40:01 [INFO] Saving chunks
 2011-11-28 19:40:01 [INFO] Saving chunks
 2011-11-28 19:40:01 [INFO] Saving chunks
+2011-11-29 07:07:16 [INFO] Starting minecraft server version 1.0.0
+2011-11-29 07:07:16 [INFO] Loading properties
+2011-11-29 07:07:16 [INFO] Starting Minecraft server on *:5050
+2011-11-29 07:07:16 [INFO] Preparing level "world"
+2011-11-29 07:07:16 [INFO] Default game type: 0
+2011-11-29 07:07:16 [INFO] Preparing start region for level 0
+2011-11-29 07:07:17 [INFO] Done (1044616000ns)! For help, type "help" or "?"
+2011-11-29 08:19:38 [INFO] Dietzer [/93.6.35.83:49908] logged in with entity id 693 at (-30.5, 63.0, -78.5)
+2011-11-29 08:19:47 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-29 10:19:24 [INFO] Dietzer [/93.6.35.83:52519] logged in with entity id 1103 at (-30.5, 63.0, -78.5)
+2011-11-29 10:19:33 [INFO] Dietzer lost connection: disconnect.quitting
+2011-11-29 18:47:01 [INFO] maatthieu [/127.0.0.1:51116] logged in with entity id 2435 at (-24.133108542432648, 29.0, -76.02829608122282)
+2011-11-29 18:47:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-29 19:06:52 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-29 19:07:00 [INFO] maatthieu [/127.0.0.1:51165] logged in with entity id 12752 at (-19.1875, 29.0, -76.0625)
+2011-11-29 19:33:21 [INFO] maatthieu lost connection: disconnect.quitting
+2011-11-29 19:51:02 [INFO] maatthieu [/127.0.0.1:51674] logged in with entity id 24348 at (-18.40625, 29.0, -76.8125)
+2011-11-29 20:03:39 [INFO] maatthieu lost connection: disconnect.quitting
