@@ -21884,3 +21884,455 @@ java.lang.NullPointerException
 2011-12-10 11:38:49 [INFO] Saving chunks
 2011-12-10 11:38:49 [INFO] Saving chunks
 2011-12-10 11:38:49 [INFO] Saving chunks
+2011-12-10 11:42:07 [INFO] Starting minecraft server version 11w48a
+2011-12-10 11:42:07 [INFO] Loading properties
+2011-12-10 11:42:08 [INFO] Starting Minecraft server on *:5050
+2011-12-10 11:42:08 [INFO] Preparing level "world"
+2011-12-10 11:42:08 [INFO] Default game type: 0
+2011-12-10 11:42:08 [INFO] Preparing start region for level 0
+2011-12-10 11:42:08 [INFO] Done (948406000ns)! For help, type "help" or "?"
+2011-12-10 11:45:30 [INFO] Dietzer [/93.6.35.83:51509] logged in with entity id 237 at (-30.190349447617635, 63.0, -81.03026334349364)
+2011-12-10 11:49:40 [INFO] maatthieu [/192.168.66.1:50314] logged in with entity id 4155 at (-28.30000001192088, 63.0, -83.69999998807907)
+2011-12-10 11:49:58 [INFO] <maatthieu> re
+2011-12-10 11:50:00 [INFO] <Dietzer> Re
+2011-12-10 11:50:26 [INFO] <maatthieu> t ou?
+2011-12-10 11:50:37 [INFO] <Dietzer> Je fais un peu d'exploration
+2011-12-10 11:51:12 [INFO] <Dietzer> Merde des cochons, et j'ai pas de foin
+2011-12-10 11:51:22 [INFO] <maatthieu> j'arrive
+2011-12-10 11:51:30 [INFO] maatthieu issued server command: tp maatthieu dietzer
+2011-12-10 11:51:30 [INFO] maatthieu: Teleporting maatthieu to dietzer.
+2011-12-10 11:51:44 [INFO] <Dietzer> Merci
+2011-12-10 11:51:59 [INFO] <maatthieu> je rentre
+2011-12-10 11:52:01 [INFO] <Dietzer> Ok
+2011-12-10 11:52:19 [INFO] <maatthieu> c pas loin en faite :p
+2011-12-10 11:52:24 [INFO] <Dietzer> Ben non
+2011-12-10 11:52:45 [INFO] <Dietzer> J'espere rentrer avant la nuit quan meme
+2011-12-10 11:53:44 [INFO] <Dietzer> Tu crois qu'on peut se faire reproduire Albert avec du foin ?!
+2011-12-10 11:54:01 [INFO] <maatthieu> non
+2011-12-10 11:54:05 [INFO] <maatthieu> et puis Albert est mort
+2011-12-10 11:54:12 [INFO] <Dietzer> NOOOOOOOOOOOON
+2011-12-10 11:54:20 [INFO] <Dietzer> Tiens viens me voir avec mes 2 cochons
+2011-12-10 11:54:30 [INFO] <maatthieu> juste en lke tenant dans la main
+2011-12-10 11:54:35 [INFO] <Dietzer> Oui
+2011-12-10 11:54:58 [INFO] <maatthieu> tu fais un bébé
+2011-12-10 11:55:15 [INFO] <Dietzer> Ils ont pas l'air de vouloir en captivité
+2011-12-10 11:55:44 [INFO] <maatthieu> ah
+2011-12-10 11:56:48 [INFO] <Dietzer> Dodo
+2011-12-10 11:58:17 [INFO] <maatthieu> hihi
+2011-12-10 11:58:27 [INFO] <Dietzer> Heuresement que je sortait de la ferme
+2011-12-10 11:58:29 [INFO] <maatthieu> mais je ne manquais pas d'air
+2011-12-10 11:58:38 [INFO] <Dietzer> Ah ouais
+2011-12-10 11:58:52 [INFO] <maatthieu> ouais pas les bubules
+2011-12-10 11:59:07 [INFO] <Dietzer> Ouais ben faut faire gaffe, des fois elles n'apparraissent pas
+2011-12-10 11:59:22 [INFO] <Dietzer> Dis moi pour la tour à mobs, tu evux la faire ou ?!
+2011-12-10 11:59:33 [INFO] <maatthieu> ah oui je vais faire la zone
+2011-12-10 11:59:36 [INFO] <Dietzer> Ok
+2011-12-10 12:03:18 [INFO] <maatthieu> pas de slime pour une fois dans ma mine ^^
+2011-12-10 12:04:21 [INFO] <Dietzer> ^^
+2011-12-10 12:05:20 [INFO] <maatthieu> y a du monde?
+2011-12-10 12:05:25 [INFO] <Dietzer> Nono
+2011-12-10 12:05:55 [INFO] <maatthieu> tu fais peur
+2011-12-10 12:05:58 [INFO] <maatthieu> je baisse le son
+2011-12-10 12:06:03 [INFO] <Dietzer> Tu la laisse l'eau ou tu veux l'enlever ?!
+2011-12-10 12:06:10 [INFO] <maatthieu> enlever
+2011-12-10 12:06:13 [INFO] <Dietzer> Ok
+2011-12-10 12:06:41 [INFO] <Dietzer> Ca remonte haut
+2011-12-10 12:07:10 [INFO] <maatthieu> c immense
+2011-12-10 12:07:23 [INFO] <Dietzer> En fait c'est un trou dans notre lac
+2011-12-10 12:07:31 [INFO] <Dietzer> Je suis devant la base là
+2011-12-10 12:07:51 [INFO] <Dietzer> Je recupere de la terre pour boucher
+2011-12-10 12:07:52 [INFO] <maatthieu> ccol
+2011-12-10 12:07:58 [INFO] <maatthieu> g entendu un zombi
+2011-12-10 12:08:08 [INFO] <Dietzer> Il commence à faire nuit
+2011-12-10 12:08:12 [INFO] <Dietzer> TP toi
+2011-12-10 12:08:24 [INFO] <maatthieu> g un lit chez moi
+2011-12-10 12:08:28 [INFO] <Dietzer> Ok
+2011-12-10 12:08:36 [INFO] <maatthieu> c bion
+2011-12-10 12:08:53 [INFO] <Dietzer> Je rebouche et ensuite je vais manger
+2011-12-10 12:09:00 [INFO] <maatthieu> oki
+2011-12-10 12:09:20 [INFO] <Dietzer> Bon je reboucherais plus tard finalement ++
+2011-12-10 12:09:22 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-10 12:09:24 [INFO] <maatthieu> ++
+2011-12-10 12:53:02 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-10 14:21:26 [INFO] maatthieu [/192.168.66.1:51355] logged in with entity id 39066 at (8.125, 29.0, -69.3125)
+2011-12-10 16:22:48 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-10 17:03:19 [INFO] maatthieu [/192.168.66.1:51732] logged in with entity id 111959 at (-20.24387681938465, 63.0, -83.02553231080248)
+2011-12-10 17:16:54 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-10 18:06:09 [INFO] maatthieu [/192.168.66.1:51939] logged in with entity id 122861 at (-53.65464015780788, 63.0, -86.56281788708394)
+2011-12-10 18:09:51 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-10 18:11:16 [INFO] Dietzer [/93.6.35.83:49637] logged in with entity id 125692 at (-14.65625, 63.0, -93.71875)
+2011-12-10 18:14:57 [INFO] maatthieu [/192.168.66.1:52005] logged in with entity id 128519 at (5.25, 65.0, -65.375)
+2011-12-10 18:15:13 [INFO] <Dietzer> Y a plus de steack et de poulet cru !!!
+2011-12-10 18:15:23 [INFO] <maatthieu> poulet cru dans un four
+2011-12-10 18:18:49 [INFO] <Dietzer> Mais la tour à mobs à la base n'a besoi 'etre que de 3x3
+2011-12-10 18:19:16 [INFO] <maatthieu> c en prevision
+2011-12-10 18:19:30 [INFO] <Dietzer> Ok
+2011-12-10 18:20:15 [INFO] <maatthieu> dodo?
+2011-12-10 18:20:18 [INFO] <maatthieu> t ou?
+2011-12-10 18:20:24 [INFO] <Dietzer> J'arrive
+2011-12-10 18:26:10 [INFO] <Dietzer> Enderman dans la base
+2011-12-10 18:26:46 [INFO] <maatthieu> oiu?
+2011-12-10 18:26:55 [INFO] <Dietzer> Je l'ai perdu
+2011-12-10 18:27:12 [INFO] <maatthieu> dedans dedans?
+2011-12-10 18:27:30 [INFO] <Dietzer> Il etait dessus mais au 1er coup il s'est eclipse
+2011-12-10 18:27:49 [INFO] <maatthieu> tour a mob pile poil au centre
+2011-12-10 18:28:27 [INFO] <Dietzer> Oui j'ai fait les diagonales
+2011-12-10 18:30:24 [INFO] <maatthieu> je re
+2011-12-10 18:30:25 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-10 18:38:50 [INFO] maatthieu [/192.168.66.1:52044] logged in with entity id 144197 at (-55.641272452239164, 63.0, -84.05865930760795)
+2011-12-10 18:39:27 [INFO] <maatthieu> re
+2011-12-10 18:39:31 [INFO] <Dietzer> Re
+2011-12-10 18:40:52 [INFO] <maatthieu> t ou?
+2011-12-10 18:41:06 [INFO] <Dietzer> La ou les mobs vont se scratchés
+2011-12-10 18:41:42 [INFO] <maatthieu> oki
+2011-12-10 18:43:00 [INFO] <maatthieu> je vois
+2011-12-10 18:43:09 [INFO] <Dietzer> De ?!
+2011-12-10 18:43:28 [INFO] <maatthieu> tu prevois la chute?
+2011-12-10 18:43:43 [INFO] <Dietzer> Oui, je vais monter colonne par colonne
+2011-12-10 18:43:59 [INFO] <Dietzer> Par contre les coins, tu les veux en demi dalles ou pas ?!
+2011-12-10 18:44:21 [INFO] <maatthieu> les coins de?
+2011-12-10 18:44:36 [INFO] <Dietzer> De la tour à mobs
+2011-12-10 18:44:43 [INFO] <maatthieu> en haut ?
+2011-12-10 18:44:53 [INFO] <Dietzer> Ben de haut en bas
+2011-12-10 18:45:44 [INFO] <Dietzer> Alors ?!
+2011-12-10 18:47:06 [INFO] <maatthieu> en verre
+2011-12-10 18:47:11 [INFO] <Dietzer> ...
+2011-12-10 18:47:21 [INFO] <Dietzer> Ok
+2011-12-10 18:47:28 [INFO] <maatthieu> on les verra chuter?
+2011-12-10 18:47:56 [INFO] <Dietzer> Non justement, je te parle juste des coins, je ne veux pas faire entrer de soleil dans la tour
+2011-12-10 18:48:04 [INFO] <maatthieu> demi dalle alors
+2011-12-10 18:48:07 [INFO] <Dietzer> Ok
+2011-12-10 18:49:41 [INFO] <Dietzer> Attention, saut de l'ange dans un verre d'eau
+2011-12-10 18:50:19 [INFO] <maatthieu> oups
+2011-12-10 18:50:23 [INFO] <Dietzer> Aie, j'ai eu peur, j'ai bouger
+2011-12-10 18:50:59 [INFO] <maatthieu> c koi la colonne?
+2011-12-10 18:51:09 [INFO] <Dietzer> Merde il me manque 1 seau
+2011-12-10 18:51:16 [INFO] <Dietzer> Trouvé
+2011-12-10 18:51:17 [INFO] <maatthieu> je lai pas
+2011-12-10 18:51:34 [INFO] <Dietzer> La colonne, c'est par la que les mobs tomberont
+2011-12-10 18:51:50 [INFO] <maatthieu> ben justement ils tombent en chute libre
+2011-12-10 18:51:57 [INFO] <Dietzer> Oui
+2011-12-10 18:52:07 [INFO] <maatthieu> pas besoin de colonne alors
+2011-12-10 18:52:14 [INFO] <Dietzer> Mais pour eviter de courir partout, je les regroupent dans un petit espace
+2011-12-10 18:52:32 [INFO] <Dietzer> Puis on evite la lumiere comme ça
+2011-12-10 18:53:00 [INFO] <Dietzer> Bon j'y retourne et ce coup ci je ne panique pas
+2011-12-10 18:53:37 [INFO] <Dietzer> Yeah
+2011-12-10 18:54:28 [INFO] <Dietzer> Nuit
+2011-12-10 18:55:58 [INFO] <maatthieu> bien l'atelier
+2011-12-10 18:56:05 [INFO] <maatthieu> mais je ne comprend pas ces colonnes
+2011-12-10 18:56:05 [INFO] <Dietzer> :D
+2011-12-10 18:56:09 [INFO] <maatthieu> y en a pas besoin
+2011-12-10 18:56:37 [INFO] <Dietzer> Explication sur msn, trop long ici
+2011-12-10 19:05:35 [INFO] <maatthieu> dodo
+2011-12-10 19:05:39 [INFO] <Dietzer> Peut pas
+2011-12-10 19:05:45 [INFO] <maatthieu> tp?
+2011-12-10 19:05:58 [INFO] <Dietzer> Non plus je vais en chier pour retourner la apres
+2011-12-10 19:06:05 [INFO] <maatthieu> deco
+2011-12-10 19:06:15 [INFO] <Dietzer> J'ai peur qua ca deconne
+2011-12-10 19:06:29 [INFO] <Dietzer> 30s
+2011-12-10 19:06:41 [INFO] <maatthieu> plus trop de pierr
+2011-12-10 19:07:20 [INFO] <Dietzer> On est bien proteger de toute maniere
+2011-12-10 19:07:27 [INFO] <maatthieu> pas le devant encore :p
+2011-12-10 19:07:37 [INFO] <Dietzer> Je suis au dodo
+2011-12-10 19:07:42 [INFO] <maatthieu> idem
+2011-12-10 19:07:53 [INFO] <maatthieu> y a du charbon en haut?
+2011-12-10 19:08:04 [INFO] <Dietzer> Oui j'en ai refait
+2011-12-10 19:08:11 [INFO] <maatthieu> cool
+2011-12-10 19:09:47 [INFO] <maatthieu> arf
+2011-12-10 19:10:07 [INFO] <Dietzer> Nan mais j'etait  en train de mourrir de faim et je ne voulais pas manger mon steack
+2011-12-10 19:10:14 [INFO] <maatthieu> lol
+2011-12-10 19:10:29 [INFO] <maatthieu> merde plus de charbon
+2011-12-10 19:10:37 [INFO] <maatthieu> enfin 4
+2011-12-10 19:10:48 [INFO] <Dietzer> Ben faut penser a en refaire de temps en temps
+2011-12-10 19:11:06 [INFO] <maatthieu> ouais
+2011-12-10 19:15:15 [INFO] <Dietzer> T'as peur que les mobs passent par en dessous ?!
+2011-12-10 19:15:21 [INFO] <maatthieu> j'aime bien
+2011-12-10 19:15:25 [INFO] <Dietzer> ^^
+2011-12-10 19:17:02 [INFO] <Dietzer> J'avais 2 boules de neige dans mon inventaire, je ne sais pourquoi
+2011-12-10 19:17:19 [INFO] <maatthieu> on pourrais fare un concnours
+2011-12-10 19:17:24 [INFO] <Dietzer> ^^
+2011-12-10 19:18:16 [INFO] <Dietzer> Dodo
+2011-12-10 19:18:27 [INFO] <maatthieu> ta mi le bois a chauffzer
+2011-12-10 19:20:22 [INFO] <Dietzer> Désolé, oui je vais le faire
+2011-12-10 19:20:30 [INFO] <maatthieu> npn c pour le charbon
+2011-12-10 19:21:02 [INFO] <Dietzer> Voilà, on devrait tenir un moment
+2011-12-10 19:21:20 [INFO] <Dietzer> Enfin moi pour te faire la tour en verre jevais en avoir besoin
+2011-12-10 19:21:38 [INFO] <Dietzer> Des que les arbres poussent faut les couper et r^planter
+2011-12-10 19:21:38 [INFO] <maatthieu> c presque bon la tour de verre
+2011-12-10 19:25:12 [INFO] <maatthieu> je viens de voir la caverne que l'on a exploré ce matin
+2011-12-10 19:25:17 [INFO] <Dietzer> ^^
+2011-12-10 19:26:56 [INFO] <Dietzer> Niveau terre on peut recreer un monde
+2011-12-10 19:27:04 [INFO] <maatthieu> ouais
+2011-12-10 19:27:32 [INFO] <Dietzer> Bon je vais aller retrecir le desert
+2011-12-10 19:28:05 [INFO] <Dietzer> Une poule dans le desert, j'ai des mirages
+2011-12-10 19:29:40 [INFO] Dietzer issued server command: tp Dietzer maatthieu
+2011-12-10 19:29:40 [INFO] Dietzer: Teleporting Dietzer to maatthieu.
+2011-12-10 19:30:38 [INFO] <Dietzer> Pourquoi 2 de large le trou ?!
+2011-12-10 19:30:45 [INFO] <maatthieu> pour les torches :p
+2011-12-10 19:30:50 [INFO] <Dietzer> Ok
+2011-12-10 19:36:49 [INFO] <Dietzer> Tout est cuit, je te le retire et te l'apporte
+2011-12-10 19:36:57 [INFO] <maatthieu> c bon c a toi
+2011-12-10 19:37:22 [INFO] <Dietzer> Reviens
+2011-12-10 19:37:35 [INFO] <Dietzer> Nan c'est bon, désolé
+2011-12-10 19:39:05 [INFO] <maatthieu> ta besoin d'une porte?
+2011-12-10 19:39:16 [INFO] <Dietzer> :D non pourquoi ?!
+2011-12-10 19:39:56 [INFO] <Dietzer> Ben dit-donc, si on se fait attaquer avec ça
+2011-12-10 19:40:04 [INFO] <maatthieu> ca devrait etre bon
+2011-12-10 19:41:24 [INFO] <Dietzer> Dodo
+2011-12-10 19:43:00 [INFO] <Dietzer> J'vais m'occuper de la ferme le temps que ça cuise
+2011-12-10 19:43:03 [INFO] <maatthieu> oki
+2011-12-10 19:45:43 [INFO] <maatthieu> et ben voila murialle ok
+2011-12-10 19:47:30 [INFO] <maatthieu> tu fais la recolte?
+2011-12-10 19:47:39 [INFO] <Dietzer> Yes
+2011-12-10 19:48:28 [INFO] <Dietzer> 10 steacks quand meme
+2011-12-10 19:48:31 [INFO] <maatthieu> ^^^
+2011-12-10 19:48:37 [INFO] <maatthieu> il en reste des vaches?
+2011-12-10 19:48:40 [INFO] <Dietzer> Oui 2
+2011-12-10 19:48:43 [INFO] <maatthieu> ^^
+2011-12-10 19:52:31 [INFO] <maatthieu> je deco
+2011-12-10 19:52:44 [INFO] <maatthieu> tres bien la tour
+2011-12-10 19:52:50 [INFO] <Dietzer> Ok
+2011-12-10 19:52:52 [INFO] <Dietzer> Merci
+2011-12-10 19:53:02 [INFO] <maatthieu> en tout cas plus besoin de dormir forcement
+2011-12-10 19:53:16 [INFO] <Dietzer> Je prefere pour le moement ^^
+2011-12-10 19:53:37 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-10 19:53:38 [INFO] <Dietzer> D'ailleur dodo
+2011-12-10 20:05:07 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-10 22:04:31 [INFO] CONSOLE: Stopping the server..
+2011-12-10 22:04:31 [INFO] Stopping server
+2011-12-10 22:04:31 [INFO] Saving chunks
+2011-12-10 22:04:31 [INFO] Saving chunks
+2011-12-10 22:04:31 [INFO] Saving chunks
+2011-12-11 08:54:06 [INFO] Starting minecraft server version 11w48a
+2011-12-11 08:54:06 [INFO] Loading properties
+2011-12-11 08:54:06 [INFO] Starting Minecraft server on *:5050
+2011-12-11 08:54:06 [INFO] Preparing level "world"
+2011-12-11 08:54:06 [INFO] Default game type: 0
+2011-12-11 08:54:08 [INFO] Preparing start region for level 0
+2011-12-11 08:54:09 [INFO] Preparing spawn area: 24%
+2011-12-11 08:54:10 [INFO] Preparing spawn area: 52%
+2011-12-11 08:54:11 [INFO] Preparing spawn area: 85%
+2011-12-11 08:54:11 [INFO] Done (4632803000ns)! For help, type "help" or "?"
+2011-12-11 08:54:11 [WARNING] Time ran backwards! Did the system time change?
+2011-12-11 10:10:26 [WARNING] Time ran backwards! Did the system time change?
+2011-12-11 11:02:21 [INFO] maatthieu [/192.168.66.1:50298] logged in with entity id 799 at (5.21875, 65.0, -68.1875)
+2011-12-11 11:41:23 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-11 13:14:18 [INFO] Dietzer [/93.6.35.83:49437] logged in with entity id 25263 at (-30.602878219429552, 63.0, -80.23802425660067)
+2011-12-11 13:49:40 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-11 13:50:14 [INFO] Dietzer [/93.6.35.83:49991] logged in with entity id 47252 at (14.780668907509284, 102.0, -69.75401407309249)
+2011-12-11 14:09:58 [INFO] maatthieu [/192.168.66.1:51604] logged in with entity id 61468 at (-30.5, 63.0, -78.5)
+2011-12-11 14:10:01 [INFO] <maatthieu> re
+2011-12-11 14:10:14 [INFO] <Dietzer> Re, elles servent à quoi les barriere de fer ?!
+2011-12-11 14:10:22 [INFO] <maatthieu> j'avais prevu une place pour les gateaux mais ca coute cher de faire un gateau
+2011-12-11 14:10:26 [INFO] <maatthieu> securité enfant
+2011-12-11 14:10:37 [INFO] <Dietzer> Oui mais ce sont des ressources reutilisable a volonté
+2011-12-11 14:10:46 [INFO] <Dietzer> T'es tombé dans les douves ?!
+2011-12-11 14:10:52 [INFO] <maatthieu> pas encore
+2011-12-11 14:10:57 [INFO] <Dietzer> ^^
+2011-12-11 14:11:13 [INFO] <maatthieu> je me connais et c deja extraordinaire que ca ne soit pas encore le cas
+2011-12-11 14:11:13 [INFO] <Dietzer> Enfin ça ser a rien de remplir les douves de lave si personne ne va allez dedans
+2011-12-11 14:11:17 [INFO] <Dietzer> ^^
+2011-12-11 14:11:26 [INFO] <maatthieu> lol ouais mais bon
+2011-12-11 14:11:40 [INFO] <maatthieu> g essayé avec les barrieres de bois et mauvais plan
+2011-12-11 14:11:45 [INFO] <Dietzer> ...
+2011-12-11 14:11:57 [INFO] <maatthieu> je sais que les demi dalles de bois ne prennent pas feu
+2011-12-11 14:12:06 [INFO] <Dietzer> Serieux
+2011-12-11 14:12:11 [INFO] <maatthieu> oui
+2011-12-11 14:12:18 [INFO] <maatthieu> au moins il y a longtemps
+2011-12-11 14:12:34 [INFO] <maatthieu> alors je me suis dit que c pas sur pour les barrieres
+2011-12-11 14:12:45 [INFO] <Dietzer> Ben maintenant on est fixé
+2011-12-11 14:12:49 [INFO] <maatthieu> voila
+2011-12-11 14:13:48 [INFO] <maatthieu> ca avance bien la construvtio
+2011-12-11 14:13:53 [INFO] <Dietzer> Oui
+2011-12-11 14:14:41 [INFO] <maatthieu> ta du charbon en stock?
+2011-12-11 14:14:45 [INFO] <Dietzer> Tu veux que je fasse des gateau pour les mettre sur la table ?!
+2011-12-11 14:14:49 [INFO] <maatthieu> si tu veux
+2011-12-11 14:14:55 [INFO] <maatthieu> y a que 8 la
+2011-12-11 14:15:03 [INFO] <Dietzer> Voilà remplit le charbon
+2011-12-11 14:15:15 [INFO] <Dietzer> Je viens juste de finir d'en faire
+2011-12-11 14:15:42 [INFO] <maatthieu> dodo
+2011-12-11 14:15:52 [INFO] <Dietzer> Je plante un arbre et j'arrive
+2011-12-11 14:15:54 [INFO] <maatthieu> oui car y avais plius de bois avany
+2011-12-11 14:16:14 [INFO] <Dietzer> C'est bon
+2011-12-11 14:16:20 [INFO] <maatthieu> taussi
+2011-12-11 14:18:31 [INFO] <Dietzer> Ca avance en bas ?!
+2011-12-11 14:18:38 [INFO] <maatthieu> je cherche du charbon
+2011-12-11 14:18:53 [INFO] <Dietzer> Y'en a plein dans le coffre, j'en ai remis
+2011-12-11 14:19:23 [INFO] <maatthieu> c la
+2011-12-11 14:19:26 [INFO] <maatthieu> la tour a mov
+2011-12-11 14:19:29 [INFO] <maatthieu> mob
+2011-12-11 14:19:55 [INFO] <Dietzer> Ah ok, donc faut que je creuse au centre pour qu'il arrivent chez toi
+2011-12-11 14:20:02 [INFO] <maatthieu> je le fais la
+2011-12-11 14:20:28 [INFO] <Dietzer> C'est un vrai gruyère chez toi
+2011-12-11 14:20:40 [INFO] <maatthieu> ouais la misere
+2011-12-11 14:20:58 [INFO] <maatthieu> merci pour le charbon
+2011-12-11 14:21:02 [INFO] <Dietzer> De rien
+2011-12-11 14:23:51 [INFO] <maatthieu> tu creuses?
+2011-12-11 14:23:58 [INFO] <maatthieu> je vois ton nom
+2011-12-11 14:24:02 [INFO] <Dietzer> Oui, j'ai besoin de pierre, j'en profite
+2011-12-11 14:24:12 [INFO] <maatthieu> oui la faut pas hesiter :p
+2011-12-11 14:24:34 [INFO] <Dietzer> T'es a combien en Y ?!
+2011-12-11 14:24:42 [INFO] <maatthieu> 30
+2011-12-11 14:24:48 [INFO] <Dietzer> Ok
+2011-12-11 14:25:10 [INFO] <maatthieu> encore une grotte...
+2011-12-11 14:25:25 [INFO] <maatthieu> fait attention a ne pas hit the ground too hard
+2011-12-11 14:25:27 [INFO] <Dietzer> ^^ encore ça va, moi c'était de la lave a chaque fois
+2011-12-11 14:25:41 [INFO] <Dietzer> Nan ça va je fais gaffe
+2011-12-11 14:25:59 [INFO] <Dietzer> JE vois ton nom aussi
+2011-12-11 14:27:09 [INFO] <maatthieu> dans la crevasse g vu un bloc d'or ^^
+2011-12-11 14:27:16 [INFO] <Dietzer> Cool
+2011-12-11 14:27:22 [INFO] <Dietzer> Il fait nuit
+2011-12-11 14:27:37 [INFO] <maatthieu> je peux dodo mais ca me derange pas
+2011-12-11 14:27:51 [INFO] <Dietzer> Moi si, dit moi quand tu dors, je deco
+2011-12-11 14:28:09 [INFO] <maatthieu> c bon
+2011-12-11 14:28:13 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-11 14:28:16 [INFO] Dietzer [/93.6.35.83:50093] logged in with entity id 74408 at (15.99285492132346, 39.0, -63.736216891181414)
+2011-12-11 14:29:34 [INFO] <Dietzer> T'aurais pas du creuser, va falloir reboucher
+2011-12-11 14:29:44 [INFO] <maatthieu> koi?
+2011-12-11 14:29:56 [INFO] <maatthieu> pour te rejoindre?
+2011-12-11 14:30:48 [INFO] <Dietzer> JE croyais que je devait arriver la en creusant
+2011-12-11 14:30:58 [INFO] <maatthieu> ???
+2011-12-11 14:31:32 [INFO] <Dietzer> Ils vont faire une sacrée chute les mobs
+2011-12-11 14:31:39 [INFO] <maatthieu> oui
+2011-12-11 14:33:05 [INFO] <Dietzer> Et voilà, là je suis a 30
+2011-12-11 14:33:14 [INFO] <Dietzer> 70m de chute :D
+2011-12-11 14:33:22 [INFO] <maatthieu> :D
+2011-12-11 14:34:25 [INFO] <maatthieu> 2bloc d'or et un zombi
+2011-12-11 14:34:30 [INFO] <Dietzer> Woohoo
+2011-12-11 14:38:18 [INFO] <maatthieu> t oiu?
+2011-12-11 14:38:25 [INFO] <Dietzer> En haut
+2011-12-11 14:38:27 [INFO] <maatthieu> oki
+2011-12-11 14:43:27 [INFO] <Dietzer> C'est bon la base de la tour à mobs est fini, il ne me reste plus qu'à fermer danas le noir
+2011-12-11 14:43:50 [INFO] <maatthieu> systeme de lumiere ou de fermeture pour la maintenance de la tour
+2011-12-11 14:43:59 [INFO] <Dietzer> Oui aussi
+2011-12-11 14:48:14 [INFO] <Dietzer> Cool, on viens de passer une nuit sans dormir et je me suis balader dans la base sans aucun soucis
+2011-12-11 14:48:41 [INFO] <maatthieu> cool
+2011-12-11 14:51:01 [INFO] <Dietzer> Désolé reflexe de parler sur msn ^^
+2011-12-11 14:51:10 [INFO] <Dietzer> Oui en haut
+2011-12-11 14:51:18 [INFO] <maatthieu> 6 ou 8
+2011-12-11 14:51:29 [INFO] <maatthieu> les enderman doivent avoir besoin de hauteur
+2011-12-11 14:51:41 [INFO] <Dietzer> Oui, mais je voyais 4 ou 5, pas aussi haut
+2011-12-11 14:51:52 [INFO] <maatthieu> si ca suffit pour les mobs oui
+2011-12-11 14:52:07 [INFO] <Dietzer> Va pour 4, on ajustera si besoin
+2011-12-11 14:53:57 [INFO] <maatthieu> je suis tout en bas
+2011-12-11 14:54:07 [INFO] <Dietzer> Tu me rattrapp, je saute
+2011-12-11 14:54:11 [INFO] <maatthieu> oki
+2011-12-11 14:54:26 [INFO] <maatthieu> atten remet toi
+2011-12-11 14:54:34 [INFO] <maatthieu> je lance une fleche look si tu la vois
+2011-12-11 14:54:36 [INFO] <Dietzer> Même pas en rêve, même si j'ai plus d'XP a perdre
+2011-12-11 14:54:41 [INFO] <Dietzer> Vas y
+2011-12-11 14:54:52 [INFO] <maatthieu> alors?
+2011-12-11 14:54:55 [INFO] <Dietzer> Rien
+2011-12-11 14:55:00 [INFO] <maatthieu> arf
+2011-12-11 14:55:01 [INFO] <Dietzer> Reessaye
+2011-12-11 14:55:09 [INFO] <maatthieu> je te vise un peu ^^
+2011-12-11 14:55:23 [INFO] <maatthieu> alors?
+2011-12-11 14:55:29 [INFO] <maatthieu> avant que tu recules
+2011-12-11 14:55:31 [INFO] <Dietzer> Je les voit mais elles ne vont pas assez haut ^^
+2011-12-11 14:55:41 [INFO] <maatthieu> pas mal
+2011-12-11 14:56:42 [INFO] <Dietzer> Plus de pierres, je retourne à la mine
+2011-12-11 14:57:31 [INFO] <Dietzer> Ah moins que t'en ai que tu ne te sers pas ?!
+2011-12-11 14:57:37 [INFO] <maatthieu> ouais vas y
+2011-12-11 14:57:43 [INFO] <Dietzer> Cool
+2011-12-11 14:58:29 [INFO] <maatthieu> amene de la boof
+2011-12-11 14:58:32 [INFO] <maatthieu> bouffe
+2011-12-11 14:58:47 [INFO] <Dietzer> Des que la tour est finie je descend avec du popcorn et on regarde les mobs tomber
+2011-12-11 14:58:51 [INFO] <Dietzer> Ok
+2011-12-11 14:59:59 [INFO] <Dietzer> Je te la met ou la bouffe ?!
+2011-12-11 15:00:22 [INFO] <maatthieu> coffre
+2011-12-11 15:00:38 [INFO] <Dietzer> Voilà, t'as de quoi faire
+2011-12-11 15:00:44 [INFO] <maatthieu> merci c été la dech
+2011-12-11 15:00:56 [INFO] <Dietzer> De rien
+2011-12-11 15:01:05 [INFO] <Dietzer> Va falloir ue j'aille retuer 2 3 vaches
+2011-12-11 15:03:29 [INFO] <maatthieu> ^^
+2011-12-11 15:08:15 [INFO] <maatthieu> t dasn ta premiere mine
+2011-12-11 15:08:21 [INFO] <Dietzer> Oui, pourquoi ?!
+2011-12-11 15:08:25 [INFO] <maatthieu> je t vu ^^
+2011-12-11 15:08:36 [INFO] <Dietzer> ^^
+2011-12-11 15:09:36 [INFO] <maatthieu> oullz
+2011-12-11 15:09:55 [INFO] <Dietzer> J'ai eu chaud, j'ai reussi a m'extraire de la lave et a m'eloigner avant de mourir
+2011-12-11 15:10:00 [INFO] <maatthieu> cool
+2011-12-11 15:11:51 [INFO] <Dietzer> Hé mais je suis chez toi !!!
+2011-12-11 15:11:59 [INFO] <maatthieu> tout est relié
+2011-12-11 15:12:08 [INFO] <Dietzer> Hu! Space
+2011-12-11 15:19:16 [INFO] <Dietzer> Je peux te reemprinter 4*64 pierres ?!
+2011-12-11 15:19:21 [INFO] <maatthieu> oui
+2011-12-11 15:19:24 [INFO] <Dietzer> Merci
+2011-12-11 15:19:38 [INFO] <Dietzer> Plus de la moitié de la salle est faite
+2011-12-11 15:21:03 [INFO] <Dietzer> Pendant que je suis là je vais rechercher de la lave
+2011-12-11 15:22:23 [INFO] <Dietzer> Zombi et squelette derriere moi
+2011-12-11 15:22:37 [INFO] <maatthieu> oui c la ou y a l'or
+2011-12-11 15:23:12 [INFO] <Dietzer> Un bloc d'herbe ?!?!?
+2011-12-11 15:23:14 [INFO] <maatthieu> oui g vu
+2011-12-11 15:23:28 [INFO] <Dietzer> Voilà j'ai recuperer l'or
+2011-12-11 15:23:40 [INFO] <maatthieu> mutualisaons l'herbe
+2011-12-11 15:24:09 [INFO] <Dietzer> Je pense que ça avait l'air clair dans ta tête mais pas dans ce que tu as écris
+2011-12-11 15:29:05 [INFO] <maatthieu> tu eones
+2011-12-11 15:29:10 [INFO] <maatthieu> mutualisons l'herbe
+2011-12-11 15:29:16 [INFO] <Dietzer> Ok
+2011-12-11 15:30:14 [INFO] <Dietzer> Matt, ton inventaire est plein ?!
+2011-12-11 15:30:19 [INFO] <maatthieu> non pas du tout
+2011-12-11 15:30:31 [INFO] <Dietzer> Ok, que je voyais des blocks de pierres trainer
+2011-12-11 15:41:40 [INFO] <maatthieu> voila base est faite
+2011-12-11 15:41:50 [INFO] <Dietzer> Du moins le patron ^^
+2011-12-11 15:44:20 [INFO] <maatthieu> oui
+2011-12-11 15:44:42 [INFO] <maatthieu> t c la nuit
+2011-12-11 15:44:53 [INFO] <Dietzer> Ca fait 3 ou 4 nuits qui passent
+2011-12-11 15:44:58 [INFO] <maatthieu> ^^
+2011-12-11 15:47:33 [INFO] <Dietzer> Il ne me reste plus qu'a faire le toit et le system de sécurité
+2011-12-11 15:47:46 [INFO] <maatthieu> c koi le systeme de sécurité?
+2011-12-11 15:48:07 [INFO] <Dietzer> Ben les lumières et ouvrir l'acces a la salle d'apparition des mobs
+2011-12-11 15:48:14 [INFO] <maatthieu> oki
+2011-12-11 15:49:14 [INFO] <Dietzer> Arf, il neige et il pleut
+2011-12-11 15:49:21 [INFO] <maatthieu> il pleut
+2011-12-11 15:49:34 [INFO] <Dietzer> Ca dépends où
+2011-12-11 15:50:37 [INFO] <Dietzer> Et dans le désert, rien.
+2011-12-11 15:57:48 [INFO] <maatthieu> t ou?
+2011-12-11 15:58:26 [INFO] <maatthieu> en haut
+2011-12-11 15:58:58 [INFO] <Dietzer> Bon je déco un moment, je vais mater Dr House, ++
+2011-12-11 15:59:01 [INFO] <maatthieu> ++
+2011-12-11 15:59:04 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-11 16:01:56 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-11 18:04:31 [INFO] Dietzer [/93.6.35.83:51327] logged in with entity id 122539 at (-16.137832427462293, 63.0, -82.80154208275985)
+2011-12-11 18:45:47 [INFO] maatthieu [/192.168.66.1:52563] logged in with entity id 147628 at (8.5625, 29.0, -72.625)
+2011-12-11 18:45:52 [INFO] <maatthieu> re
+2011-12-11 18:45:54 [INFO] <Dietzer> Re
+2011-12-11 18:49:54 [INFO] <Dietzer> J'ai bientôt fini le toit
+2011-12-11 18:49:59 [INFO] <maatthieu> oki
+2011-12-11 18:50:36 [INFO] <Dietzer> Tu t'en sorts avec toutes ces galeries ?!
+2011-12-11 18:50:44 [INFO] <maatthieu> oui c bon je fait la hauteur
+2011-12-11 18:50:49 [INFO] <Dietzer> Ok
+2011-12-11 18:51:06 [INFO] <maatthieu> je me prends des blocs de gravier dans la tronche ^^
+2011-12-11 18:51:10 [INFO] <Dietzer> Arf
+2011-12-11 18:52:44 [INFO] <maatthieu> je deoc 2mn
+2011-12-11 18:52:45 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-11 18:52:47 [INFO] <Dietzer> ok
+2011-12-11 19:05:02 [INFO] maatthieu [/192.168.66.1:52620] logged in with entity id 159360 at (9.3125, 29.0, -58.15625)
+2011-12-11 19:05:46 [INFO] <maatthieu> re
+2011-12-11 19:05:50 [INFO] <Dietzer> Re
+2011-12-11 19:08:23 [INFO] <maatthieu> tu veux faire un jeu
+2011-12-11 19:08:40 [INFO] <Dietzer> Lequel ?!
+2011-12-11 19:08:42 [INFO] <maatthieu> sur les blocs du fond du trou je met 2 blocs d'eau et tu sautes :p
+2011-12-11 19:08:46 [INFO] <Dietzer> ...
+2011-12-11 19:08:48 [INFO] <maatthieu> roulette russe
+2011-12-11 19:09:06 [INFO] <Dietzer> Non merci, mais vas y je ne te retiens pas
+2011-12-11 19:13:15 [INFO] <maatthieu> ^^
+2011-12-11 19:13:38 [INFO] <maatthieu> je vois de la lumiere dans la colonne
+2011-12-11 19:13:48 [INFO] <Dietzer> Il doit faire jour
+2011-12-11 19:13:51 [INFO] <maatthieu> non
+2011-12-11 19:14:02 [INFO] <Dietzer> C'est par normal alors
+2011-12-11 19:15:05 [INFO] Dietzer issued server command: tp Dietzer maatthieu
+2011-12-11 19:15:05 [INFO] Dietzer: Teleporting Dietzer to maatthieu.
+2011-12-11 19:15:22 [INFO] <Dietzer> Ah si, c'est les torches autours de la base
+2011-12-11 19:15:38 [INFO] <maatthieu> ah oui c ces lumieres que je vois
+2011-12-11 19:15:51 [INFO] <maatthieu> tu voulais pas faire la roulette russe :p
+2011-12-11 19:16:19 [INFO] <Dietzer> C'est surtout que j'étais dans ma mine et que y avait plein de creepers sur le retour
+2011-12-11 19:20:46 [INFO] <maatthieu> oki
+2011-12-11 19:24:25 [INFO] <Dietzer> Je déco, ++
+2011-12-11 19:24:27 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-11 19:24:56 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-11 20:21:37 [INFO] CONSOLE: Stopping the server..
+2011-12-11 20:21:37 [INFO] Stopping server
+2011-12-11 20:21:37 [INFO] Saving chunks
+2011-12-11 20:21:38 [INFO] Saving chunks
+2011-12-11 20:21:38 [INFO] Saving chunks
