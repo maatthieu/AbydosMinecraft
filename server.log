@@ -22336,3 +22336,17 @@ java.lang.NullPointerException
 2011-12-11 20:21:37 [INFO] Saving chunks
 2011-12-11 20:21:38 [INFO] Saving chunks
 2011-12-11 20:21:38 [INFO] Saving chunks
+2011-12-11 20:46:01 [INFO] Starting minecraft server version 11w48a
+2011-12-11 20:46:01 [INFO] Loading properties
+2011-12-11 20:46:01 [INFO] Starting Minecraft server on *:5050
+2011-12-11 20:46:01 [INFO] Preparing level "world"
+2011-12-11 20:46:02 [INFO] Default game type: 0
+2011-12-11 20:46:02 [INFO] Preparing start region for level 0
+2011-12-11 20:46:02 [INFO] Done (975022000ns)! For help, type "help" or "?"
+2011-12-11 22:17:52 [INFO] maatthieu [/192.168.66.1:53382] logged in with entity id 623 at (16.373471302370284, 29.0, -63.3986675823978)
+2011-12-11 22:50:10 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-12 07:58:10 [INFO] CONSOLE: Stopping the server..
+2011-12-12 07:58:10 [INFO] Stopping server
+2011-12-12 07:58:10 [INFO] Saving chunks
+2011-12-12 07:58:10 [INFO] Saving chunks
+2011-12-12 07:58:10 [INFO] Saving chunks
