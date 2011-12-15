@@ -22350,3 +22350,169 @@ java.lang.NullPointerException
 2011-12-12 07:58:10 [INFO] Saving chunks
 2011-12-12 07:58:10 [INFO] Saving chunks
 2011-12-12 07:58:10 [INFO] Saving chunks
+2011-12-12 08:03:52 [INFO] Starting minecraft server version 11w48a
+2011-12-12 08:03:52 [INFO] Loading properties
+2011-12-12 08:03:52 [INFO] Starting Minecraft server on *:5050
+2011-12-12 08:03:52 [INFO] Preparing level "world"
+2011-12-12 08:03:52 [INFO] Default game type: 0
+2011-12-12 08:03:52 [INFO] Preparing start region for level 0
+2011-12-12 08:03:53 [INFO] Preparing spawn area: 89%
+2011-12-12 08:03:53 [INFO] Done (1206699000ns)! For help, type "help" or "?"
+2011-12-12 09:19:16 [INFO] Dietzer [/93.6.35.151:54595] logged in with entity id 604 at (11.301831654700345, 108.0, -60.21314639501354)
+2011-12-12 10:06:53 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-12 13:20:44 [INFO] maatthieu [/92.245.150.2:4649] logged in with entity id 28419 at (5.470303765179601, 65.0, -67.72274752775499)
+2011-12-12 13:38:54 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-12 15:00:19 [INFO] Dietzer [/93.6.35.151:49597] logged in with entity id 37183 at (11.533791227660407, 103.0, -69.38426979314968)
+2011-12-12 16:05:02 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-12 16:28:16 [INFO] Dietzer [/93.6.35.151:51934] logged in with entity id 81662 at (-18.835306247955188, 63.0, -79.7057414151045)
+2011-12-12 16:56:55 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-12 19:46:12 [INFO] maatthieu [/192.168.66.1:49564] logged in with entity id 100018 at (-12.060049778060238, 66.0, -56.717521402899756)
+2011-12-12 20:06:31 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-12 20:59:23 [INFO] maatthieu [/192.168.66.1:50708] logged in with entity id 111151 at (12.638408203494274, 33.0, -61.170405680912)
+2011-12-12 22:35:55 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-13 08:27:41 [INFO] CONSOLE: Stopping the server..
+2011-12-13 08:27:41 [INFO] Stopping server
+2011-12-13 08:27:41 [INFO] Saving chunks
+2011-12-13 08:27:41 [INFO] Saving chunks
+2011-12-13 08:27:41 [INFO] Saving chunks
+2011-12-13 08:27:44 [INFO] Starting minecraft server version 11w48a
+2011-12-13 08:27:44 [INFO] Loading properties
+2011-12-13 08:27:44 [INFO] Starting Minecraft server on *:5050
+2011-12-13 08:27:44 [INFO] Preparing level "world"
+2011-12-13 08:27:44 [INFO] Default game type: 0
+2011-12-13 08:27:44 [INFO] Preparing start region for level 0
+2011-12-13 08:27:45 [INFO] Done (918928000ns)! For help, type "help" or "?"
+2011-12-13 08:58:56 [INFO] Dietzer [/93.6.35.151:51128] logged in with entity id 366 at (-31.498939174593744, 63.0, -80.38909767868978)
+2011-12-13 09:02:45 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-13 18:15:39 [INFO] maatthieu [/192.168.66.1:49270] logged in with entity id 3974 at (6.28125, 30.0, -73.71875)
+2011-12-13 18:17:55 [INFO] Dietzer [/93.6.35.151:49953] logged in with entity id 4944 at (-24.8301996952985, 63.0, -80.87238825433329)
+2011-12-13 18:17:58 [INFO] <Dietzer> Re
+2011-12-13 18:18:03 [INFO] <maatthieu> tu peux ouvrir
+2011-12-13 18:18:05 [INFO] <maatthieu> re et merci
+2011-12-13 18:18:11 [INFO] <Dietzer> C'est bon ^^
+2011-12-13 18:18:22 [INFO] <Dietzer> On enclenche la tour à mobs ?!
+2011-12-13 18:18:25 [INFO] <maatthieu> ouais
+2011-12-13 18:18:30 [INFO] <maatthieu> y a du monde en bas?
+2011-12-13 18:18:46 [INFO] <Dietzer> Je ne pense pas
+2011-12-13 18:19:04 [INFO] <Dietzer> Attention, j'enclenche et je descends
+2011-12-13 18:19:09 [INFO] <maatthieu> 2s
+2011-12-13 18:19:34 [INFO] <maatthieu> il a fait boom ou le creeper?
+2011-12-13 18:19:47 [INFO] <Dietzer> Nan il s'est ecrasé, il n'a pas explosé
+2011-12-13 18:19:59 [INFO] <maatthieu> il a pas survécu?
+2011-12-13 18:20:03 [INFO] <Dietzer> Nope
+2011-12-13 18:20:31 [INFO] <Dietzer> C'est bon, je peux fermer ?!
+2011-12-13 18:20:39 [INFO] <maatthieu> g un slime qui bug et que je peux pas tuer
+2011-12-13 18:20:44 [INFO] <Dietzer> Arf
+2011-12-13 18:21:14 [INFO] <Dietzer> Tu me dis quand t'es bon
+2011-12-13 18:21:19 [INFO] <maatthieu> oui
+2011-12-13 18:21:42 [INFO] <maatthieu> c bon
+2011-12-13 18:21:46 [INFO] <Dietzer> C'est parti
+2011-12-13 18:22:10 [INFO] <maatthieu> alors?
+2011-12-13 18:22:16 [INFO] <Dietzer> Ben j'arrive
+2011-12-13 18:22:28 [INFO] <maatthieu> amene des fleches stp
+2011-12-13 18:22:30 [INFO] <Dietzer> Maintenant faut attendre ques les mobs spawn
+2011-12-13 18:22:56 [INFO] <maatthieu> je scrute et rien
+2011-12-13 18:23:01 [INFO] <Dietzer> T'as un slime dans le plancher, on dirait bouffe tout
+2011-12-13 18:23:08 [INFO] <maatthieu> ouais il es relou
+2011-12-13 18:23:18 [INFO] <maatthieu> il peux pas te toucher mais te bousculer
+2011-12-13 18:23:46 [INFO] <Dietzer> Faut etre patient au lancement
+2011-12-13 18:23:49 [INFO] <maatthieu> ouais
+2011-12-13 18:24:22 [INFO] <maatthieu> tu remontes?
+2011-12-13 18:24:29 [INFO] <Dietzer> Nan je me charge du slime
+2011-12-13 18:25:20 [INFO] <maatthieu> ca va
+2011-12-13 18:25:26 [INFO] <Dietzer> Oui pourquoi ?!
+2011-12-13 18:25:59 [INFO] <Dietzer> Peut etre un bug du serveur ?!
+2011-12-13 18:26:06 [INFO] <maatthieu> oui
+2011-12-13 18:26:17 [INFO] <Dietzer> Je dirais bien d'y aller à la lave mais enfin bon
+2011-12-13 18:26:26 [INFO] <maatthieu> avec le bois non merci
+2011-12-13 18:26:46 [INFO] <maatthieu> ah si
+2011-12-13 18:26:53 [INFO] <maatthieu> y a eu 1 loot
+2011-12-13 18:27:13 [INFO] <Dietzer> Woohoo c'est le début de la gloire
+2011-12-13 18:29:41 [INFO] <Dietzer> On fait quoi pour ton slime ?!
+2011-12-13 18:29:50 [INFO] <maatthieu> laisse le
+2011-12-13 18:29:56 [INFO] <maatthieu> si demain il est encore la on sevira
+2011-12-13 18:30:11 [INFO] <maatthieu> rien d'autre
+2011-12-13 18:30:20 [INFO] <Dietzer> C'était quoi le loot ?!
+2011-12-13 18:30:26 [INFO] <maatthieu> un truc de creeper pour la tnt
+2011-12-13 18:30:31 [INFO] <Dietzer> Ok
+2011-12-13 18:31:04 [INFO] <Dietzer> Et avec de l'eau ?!
+2011-12-13 18:31:26 [INFO] <Dietzer> On va le noyer
+2011-12-13 18:32:13 [INFO] <maatthieu> ca rebondit contre lui
+2011-12-13 18:32:29 [INFO] <Dietzer> A la TNT
+2011-12-13 18:32:34 [INFO] <maatthieu> euh non
+2011-12-13 18:32:59 [INFO] <Dietzer> Bon des qu'il fait jour je decampe vers ma nouvelle destination
+2011-12-13 18:33:14 [INFO] <Dietzer> Oups j'ai oublier de te rendre l'eau de ta fontaine ^^
+2011-12-13 18:35:15 [INFO] <Dietzer> Dodo
+2011-12-13 18:35:38 [INFO] <Dietzer> Allez @+
+2011-12-13 18:35:55 [INFO] <Dietzer> T'as carrement fermer en pierre
+2011-12-13 18:36:54 [INFO] <maatthieu> koi fermer en pierre?
+2011-12-13 18:37:04 [INFO] <Dietzer> Les portes de la ville
+2011-12-13 18:37:26 [INFO] <maatthieu> oui g pensé au enderman qui bougent les blocs de dirt
+2011-12-13 18:37:40 [INFO] <maatthieu> t parti vers ou?
+2011-12-13 18:37:45 [INFO] <Dietzer> Vers le nord
+2011-12-13 18:38:02 [INFO] <maatthieu> tu me vois?
+2011-12-13 18:38:12 [INFO] <Dietzer> Euh nan, t'es ou ?!
+2011-12-13 18:38:16 [INFO] <maatthieu> tout en haut
+2011-12-13 18:38:26 [INFO] <Dietzer> Je ne vois plus la base
+2011-12-13 18:38:28 [INFO] <maatthieu> sur "osfer"
+2011-12-13 18:38:30 [INFO] <maatthieu> oki
+2011-12-13 18:39:06 [INFO] <maatthieu> j'entend des mobs dans la tour
+2011-12-13 18:39:16 [INFO] <Dietzer> C'est plutot bon signe
+2011-12-13 18:39:16 [INFO] <maatthieu> en haut et ils tombent dans l'eau
+2011-12-13 18:39:31 [INFO] <Dietzer> 1/4 de la route
+2011-12-13 18:39:59 [INFO] <maatthieu> pas mal le toit
+2011-12-13 18:43:16 [INFO] <maatthieu> ils tombent pas
+2011-12-13 18:43:32 [INFO] <Dietzer> Arf, ben faudra revoir le system
+2011-12-13 18:44:29 [INFO] <Dietzer> Et voilà, le point 0,1000 est au milieu de l'eau dans un marais
+2011-12-13 18:44:45 [INFO] <maatthieu> ca aurait pu etre pire
+2011-12-13 18:46:42 [INFO] <maatthieu> ca va allez pour la nuit?
+2011-12-13 18:46:49 [INFO] <Dietzer> Oui j'ai pris un lit
+2011-12-13 18:47:15 [INFO] <Dietzer> D'ailleur si tu pouvais dormir
+2011-12-13 18:47:48 [INFO] <Dietzer> Bon maintenant trouvons un endroit pour y istaller une mine
+2011-12-13 18:58:33 [INFO] <Dietzer> Dodo
+2011-12-13 18:58:51 [INFO] <maatthieu> ok
+2011-12-13 19:00:03 [INFO] <Dietzer> Cool, j'ai des moutons et des vaches
+2011-12-13 19:02:28 [INFO] <Dietzer> On ne peut pas passer au travers des nenuphars ?!
+2011-12-13 19:02:34 [INFO] <maatthieu> je sais pas
+2011-12-13 19:02:44 [INFO] <Dietzer> Nan en fait c'était pas une question
+2011-12-13 19:03:00 [INFO] <maatthieu> elle sert a koi la plaque de pression en bois
+2011-12-13 19:03:14 [INFO] <Dietzer> Quelle plaque de pression
+2011-12-13 19:03:26 [INFO] <Dietzer> Xcelent je viens de trouver un bug
+2011-12-13 19:03:27 [INFO] <maatthieu> pressure plate en bois
+2011-12-13 19:03:57 [INFO] <Dietzer> Quand tu tiens un nenuphar et tu fais un clique droit sur de la terre, ça se chang een sable
+2011-12-13 19:04:34 [INFO] <Dietzer> En fait non, c'est les blocs de terre du marais qui deconne
+2011-12-13 19:04:56 [INFO] <Dietzer> Enfin certain
+2011-12-13 19:09:29 [INFO] <Dietzer> Dodo
+2011-12-13 19:09:43 [INFO] <maatthieu> ok
+2011-12-13 19:14:57 [INFO] <Dietzer> JE regarde des idées de construction pour me faire une entrée
+2011-12-13 19:19:13 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-13 19:22:13 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-13 19:43:00 [INFO] maatthieu [/192.168.66.1:49710] logged in with entity id 75976 at (-17.96875, 63.0, -78.25)
+2011-12-13 20:10:12 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-13 20:23:17 [INFO] maatthieu [/192.168.66.1:50215] logged in with entity id 93991 at (22.28125, 73.0, -64.53125)
+2011-12-13 20:37:42 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-13 21:49:45 [INFO] maatthieu [/192.168.66.1:50718] logged in with entity id 102795 at (5.699999988079062, 103.0, -66.83385462112625)
+2011-12-13 21:52:45 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-13 22:44:00 [INFO] maatthieu [/192.168.66.1:52263] logged in with entity id 105133 at (5.6875, 103.0, -66.84375)
+2011-12-13 23:11:00 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-13 23:13:05 [INFO] CONSOLE: Stopping the server..
+2011-12-13 23:13:05 [INFO] Stopping server
+2011-12-13 23:13:05 [INFO] Saving chunks
+2011-12-13 23:13:05 [INFO] Saving chunks
+2011-12-13 23:13:05 [INFO] Saving chunks
+2011-12-14 07:35:34 [INFO] Starting minecraft server version 11w48a
+2011-12-14 07:35:34 [INFO] Loading properties
+2011-12-14 07:35:34 [INFO] Starting Minecraft server on *:5050
+2011-12-14 07:35:34 [INFO] Preparing level "world"
+2011-12-14 07:35:34 [INFO] Default game type: 0
+2011-12-14 07:35:34 [INFO] Preparing start region for level 0
+2011-12-14 07:35:35 [INFO] Preparing spawn area: 28%
+2011-12-14 07:35:36 [INFO] Preparing spawn area: 52%
+2011-12-14 07:35:37 [INFO] Done (2969045000ns)! For help, type "help" or "?"
+2011-12-14 15:04:18 [INFO] Dietzer [/93.6.35.151:52531] logged in with entity id 2328 at (28.930122903514032, 63.0, 963.4320097187868)
+2011-12-14 15:04:27 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-14 20:11:33 [INFO] CONSOLE: Stopping the server..
+2011-12-14 20:11:33 [INFO] Stopping server
+2011-12-14 20:11:33 [INFO] Saving chunks
+2011-12-14 20:11:33 [INFO] Saving chunks
+2011-12-14 20:11:33 [INFO] Saving chunks
