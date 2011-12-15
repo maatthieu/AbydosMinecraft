@@ -22516,3 +22516,122 @@ java.lang.NullPointerException
 2011-12-14 20:11:33 [INFO] Saving chunks
 2011-12-14 20:11:33 [INFO] Saving chunks
 2011-12-14 20:11:33 [INFO] Saving chunks
+2011-12-15 08:39:11 [INFO] Starting minecraft server version 11w48a
+2011-12-15 08:39:11 [INFO] Loading properties
+2011-12-15 08:39:11 [INFO] Starting Minecraft server on *:5050
+2011-12-15 08:39:11 [INFO] Preparing level "world"
+2011-12-15 08:39:11 [INFO] Default game type: 0
+2011-12-15 08:39:11 [INFO] Preparing start region for level 0
+2011-12-15 08:39:12 [INFO] Done (543646000ns)! For help, type "help" or "?"
+2011-12-15 13:38:37 [INFO] Dietzer [/93.6.35.151:55992] logged in with entity id 1530 at (28.930122903514032, 63.0, 963.4320097187868)
+2011-12-15 14:40:13 [INFO] <Dietzer> Coucou
+2011-12-15 14:42:01 [INFO] <Dietzer> Tu saoules, laisse moi creuser en paix
+2011-12-15 14:42:53 [INFO] <Dietzer> ...
+2011-12-15 14:44:05 [INFO] <Dietzer> Tu me prensd pour un animal de cirque ?!
+2011-12-15 15:12:08 [INFO] Dietzer issued server command: give Dietzer 325 1
+2011-12-15 15:12:08 [INFO] Dietzer: Giving Dietzer some 325
+2011-12-15 15:16:11 [INFO] Dietzer issued server command: give Dietzer 327 1
+2011-12-15 15:16:11 [INFO] Dietzer: Giving Dietzer some 327
+2011-12-15 15:16:36 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-15 15:16:53 [INFO] Dietzer [/93.6.35.151:56142] logged in with entity id 66819 at (8.499168489263358, 63.0, 958.8621493077799)
+2011-12-15 15:40:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 15:41:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 15:42:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 15:42:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 15:42:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 15:43:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 15:43:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 16:11:58 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-15 18:12:23 [INFO] Dietzer [/93.6.35.151:59509] logged in with entity id 99993 at (25.602323012918152, 63.0, 959.7463121070621)
+2011-12-15 18:12:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 18:17:08 [INFO] maatthieu [/127.0.0.1:52354] logged in with entity id 102947 at (-24.993557197126115, 30.0, -72.62087628451529)
+2011-12-15 18:17:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 18:17:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 18:17:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 18:17:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 18:17:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 18:18:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 18:18:11 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-15 18:19:16 [INFO] /192.168.66.1:52504 lost connection
+2011-12-15 18:19:18 [INFO] maatthieu [/192.168.66.1:52506] logged in with entity id 104760 at (-24.625, 30.0, -80.25)
+2011-12-15 18:19:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 18:23:16 [INFO] <Dietzer> Y 39 et toujours pas de redstone
+2011-12-15 18:23:17 [INFO] <maatthieu> tu veux faire dodo?
+2011-12-15 18:23:35 [INFO] <Dietzer> Ben comme tu veux, la je reste dans ma galerie
+2011-12-15 18:23:41 [INFO] <maatthieu> c  bnon alors
+2011-12-15 18:23:44 [INFO] <Dietzer> Ok
+2011-12-15 18:24:14 [INFO] <Dietzer> Par conter j'ai vu une falaise avec un slime dedans
+2011-12-15 18:31:07 [INFO] Dietzer lost connection: disconnect.genericReason
+2011-12-15 18:31:14 [INFO] Dietzer [/93.6.35.151:59525] logged in with entity id 116415 at (32.5625, 57.375, 964.6875)
+2011-12-15 18:31:15 [INFO] maatthieu [/192.168.66.1:52535] logged in with entity id 116694 at (-26.65625, 70.21875, -74.25)
+2011-12-15 18:31:24 [INFO] <maatthieu> re
+2011-12-15 18:31:29 [INFO] <Dietzer> Petit soucis technique, j'ai pas trop compris
+2011-12-15 18:31:35 [INFO] <maatthieu> pour toi aussi?
+2011-12-15 18:31:49 [INFO] <Dietzer> Oui, parce que toi aussi ?!
+2011-12-15 18:31:52 [INFO] <maatthieu> oui
+2011-12-15 18:32:02 [INFO] <Dietzer> Ok
+2011-12-15 18:32:28 [INFO] <maatthieu> g gagné des torches au passage
+2011-12-15 18:32:32 [INFO] <Dietzer> ^^
+2011-12-15 18:36:16 [INFO] <maatthieu> quand tu fais un gateau tu perd les seaux?
+2011-12-15 18:36:29 [INFO] <Dietzer> Non, heuresement, sinon j'en aurais pas fait autant
+2011-12-15 18:37:05 [INFO] <maatthieu> c bien ce que je pensais
+2011-12-15 18:47:06 [INFO] Dietzer lost connection: disconnect.genericReason
+2011-12-15 18:47:08 [INFO] /192.168.66.1:52670 lost connection
+2011-12-15 18:47:11 [INFO] maatthieu [/127.0.0.1:52672] logged in with entity id 134250 at (-43.875, 63.0, -95.1875)
+2011-12-15 18:47:11 [INFO] Dietzer [/93.6.35.151:59529] logged in with entity id 134251 at (27.875, 30.0, 964.28125)
+2011-12-15 18:47:15 [INFO] <maatthieu> idem
+2011-12-15 18:47:24 [INFO] <Dietzer> Ne joues pas sur le serveur :D
+2011-12-15 18:47:33 [INFO] <maatthieu> ouais c klr
+2011-12-15 18:52:40 [INFO] <maatthieu> 2 cakes
+2011-12-15 18:52:52 [INFO] <Dietzer> 1 enderman
+2011-12-15 18:53:03 [INFO] <maatthieu> 2 araignes g eu
+2011-12-15 18:53:57 [INFO] <Dietzer> Mais il m'a boussiller mon mur de protection ce con
+2011-12-15 18:54:05 [INFO] <maatthieu> oui il est en dirt :D
+2011-12-15 18:54:24 [INFO] <Dietzer> Arrete de mater sur la carte
+2011-12-15 18:54:34 [INFO] <maatthieu> ouais g cherché un village
+2011-12-15 18:54:36 [INFO] <maatthieu> mais rien
+2011-12-15 18:54:51 [INFO] <maatthieu> par contre y a une plaine pas loin de chez toi qui a l'air d'etre interessante
+2011-12-15 18:54:58 [INFO] <Dietzer> Du genre ?!
+2011-12-15 18:55:07 [INFO] <maatthieu> ben plutot plat c tout
+2011-12-15 19:01:19 [INFO] <maatthieu> tu t fai un copain
+2011-12-15 19:01:23 [INFO] <Dietzer> Aggressé par 3 creepers 1 squelette
+2011-12-15 19:01:42 [INFO] <maatthieu> faut au moins ça pour esperer te vaincre ^^
+2011-12-15 19:02:37 [INFO] <Dietzer> Bordel, doit y avoir un spawner
+2011-12-15 19:03:10 [INFO] <Dietzer> J'peux pas laisser passer ça
+2011-12-15 19:03:30 [INFO] <maatthieu> et ben
+2011-12-15 19:03:33 [INFO] <maatthieu> seau de lave
+2011-12-15 19:03:38 [INFO] <Dietzer> Tu crois que tu peux recuperer mon equipement ?!
+2011-12-15 19:03:52 [INFO] <maatthieu> ah 18h39
+2011-12-15 19:03:56 [INFO] <Dietzer> Oui
+2011-12-15 19:04:13 [INFO] <Dietzer> Je dois deco ?!
+2011-12-15 19:04:18 [INFO] <maatthieu> non
+2011-12-15 19:07:01 [INFO] <Dietzer> C'est bon te prends pas la etet
+2011-12-15 19:07:07 [INFO] <maatthieu> oki
+2011-12-15 19:08:49 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-15 19:31:18 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-15 21:29:17 [INFO] maatthieu [/127.0.0.1:52938] logged in with entity id 168142 at (-16.000045709704374, 106.0, -75.73100763892789)
+2011-12-15 21:29:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 22:02:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-15 22:02:07 [INFO] /127.0.0.1:53096 lost connection
+2011-12-15 22:02:07 [INFO] /192.168.66.1:53097 lost connection
+2011-12-15 22:02:07 [INFO] maatthieu issued server command: give 2 150
+2011-12-15 22:02:07 [INFO] maatthieu lost connection: disconnect.endOfStream
+2011-12-15 22:02:07 [INFO] CONSOLE: Stopping the server..
+2011-12-15 22:02:07 [INFO] Stopping server
+2011-12-15 22:02:07 [INFO] Saving chunks
+2011-12-15 22:02:10 [INFO] Saving chunks
+2011-12-15 22:02:10 [INFO] Saving chunks
+2011-12-15 22:04:01 [INFO] Starting minecraft server version 11w48a
+2011-12-15 22:04:01 [INFO] Loading properties
+2011-12-15 22:04:01 [INFO] Starting Minecraft server on *:5050
+2011-12-15 22:04:01 [INFO] Preparing level "world"
+2011-12-15 22:04:01 [INFO] Default game type: 0
+2011-12-15 22:04:01 [INFO] Preparing start region for level 0
+2011-12-15 22:04:01 [INFO] Done (691735000ns)! For help, type "help" or "?"
+2011-12-15 22:04:07 [INFO] maatthieu [/127.0.0.1:53107] logged in with entity id 244 at (-45.828245020714434, 63.0, -75.78183205941404)
+2011-12-15 22:08:53 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-15 22:09:24 [INFO] CONSOLE: Stopping the server..
+2011-12-15 22:09:24 [INFO] Stopping server
+2011-12-15 22:09:24 [INFO] Saving chunks
+2011-12-15 22:09:24 [INFO] Saving chunks
+2011-12-15 22:09:24 [INFO] Saving chunks
