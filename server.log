@@ -22750,3 +22750,70 @@ java.lang.NullPointerException
 2011-12-16 21:49:40 [INFO] Saving chunks
 2011-12-16 21:49:40 [INFO] Saving chunks
 2011-12-16 21:49:40 [INFO] Saving chunks
+2011-12-16 23:40:06 [INFO] Starting minecraft server version 11w48a
+2011-12-16 23:40:06 [INFO] Loading properties
+2011-12-16 23:40:06 [INFO] Starting Minecraft server on *:5050
+2011-12-16 23:40:06 [INFO] Preparing level "world"
+2011-12-16 23:40:06 [INFO] Default game type: 0
+2011-12-16 23:40:06 [INFO] Preparing start region for level 0
+2011-12-16 23:40:07 [INFO] Preparing spawn area: 61%
+2011-12-16 23:40:08 [INFO] Done (1831924000ns)! For help, type "help" or "?"
+2011-12-16 23:55:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-16 23:55:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-16 23:57:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-17 00:22:33 [INFO] maatthieu [/127.0.0.1:55759] logged in with entity id 440 at (-25.419407716528006, 63.0, -49.792518968702474)
+2011-12-17 00:22:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-17 00:22:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-17 00:22:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-17 00:23:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-17 00:23:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-17 00:23:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-17 00:23:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-17 00:23:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-17 00:23:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-17 00:35:27 [INFO] Starting minecraft server version 11w48a
+2011-12-17 00:35:27 [INFO] Loading properties
+2011-12-17 00:35:27 [INFO] Starting Minecraft server on *:5050
+2011-12-17 00:35:27 [INFO] Preparing level "world"
+2011-12-17 00:35:27 [INFO] Default game type: 0
+2011-12-17 00:35:27 [INFO] Preparing start region for level 0
+2011-12-17 00:35:28 [INFO] Preparing spawn area: 61%
+2011-12-17 00:35:29 [INFO] Preparing spawn area: 97%
+2011-12-17 00:35:29 [INFO] Done (2288036000ns)! For help, type "help" or "?"
+2011-12-17 00:35:36 [INFO] CONSOLE: Stopping the server..
+2011-12-17 00:35:36 [INFO] Stopping server
+2011-12-17 00:35:36 [INFO] Saving chunks
+2011-12-17 00:35:37 [INFO] Saving chunks
+2011-12-17 00:35:37 [INFO] Saving chunks
+2011-12-17 00:35:39 [INFO] Starting minecraft server version 11w48a
+2011-12-17 00:35:39 [INFO] Loading properties
+2011-12-17 00:35:39 [INFO] Starting Minecraft server on *:5050
+2011-12-17 00:35:39 [INFO] Preparing level "world"
+2011-12-17 00:35:39 [INFO] Default game type: 0
+2011-12-17 00:35:39 [INFO] Preparing start region for level 0
+2011-12-17 00:35:40 [INFO] Done (767305000ns)! For help, type "help" or "?"
+2011-12-17 00:35:51 [INFO] maatthieu [/127.0.0.1:49443] logged in with entity id 252 at (-25.419407716528006, 63.0, -49.792518968702474)
+2011-12-17 00:47:24 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-17 00:47:34 [INFO] CONSOLE: Stopping the server..
+2011-12-17 00:47:34 [INFO] Stopping server
+2011-12-17 00:47:34 [INFO] Saving chunks
+2011-12-17 00:47:36 [INFO] Saving chunks
+2011-12-17 00:47:36 [INFO] Saving chunks
+2011-12-17 08:06:01 [INFO] Starting minecraft server version 11w48a
+2011-12-17 08:06:01 [INFO] Loading properties
+2011-12-17 08:06:01 [INFO] Starting Minecraft server on *:5050
+2011-12-17 08:06:01 [INFO] Preparing level "world"
+2011-12-17 08:06:01 [INFO] Default game type: 0
+2011-12-17 08:06:01 [INFO] Preparing start region for level 0
+2011-12-17 08:06:02 [INFO] Preparing spawn area: 4%
+2011-12-17 08:06:03 [INFO] Preparing spawn area: 20%
+2011-12-17 08:06:04 [INFO] Preparing spawn area: 32%
+2011-12-17 08:06:05 [INFO] Preparing spawn area: 40%
+2011-12-17 08:06:06 [INFO] Preparing spawn area: 77%
+2011-12-17 08:06:06 [INFO] Done (5381914000ns)! For help, type "help" or "?"
+2011-12-17 10:20:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-18 15:06:25 [INFO] CONSOLE: Stopping the server..
+2011-12-18 15:06:25 [INFO] Stopping server
+2011-12-18 15:06:25 [INFO] Saving chunks
+2011-12-18 15:06:26 [INFO] Saving chunks
+2011-12-18 15:06:26 [INFO] Saving chunks
