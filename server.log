@@ -22817,3 +22817,16 @@ java.lang.NullPointerException
 2011-12-18 15:06:25 [INFO] Saving chunks
 2011-12-18 15:06:26 [INFO] Saving chunks
 2011-12-18 15:06:26 [INFO] Saving chunks
+2011-12-19 07:39:06 [INFO] Starting minecraft server version 11w48a
+2011-12-19 07:39:06 [INFO] Loading properties
+2011-12-19 07:39:06 [INFO] Starting Minecraft server on *:5050
+2011-12-19 07:39:06 [INFO] Preparing level "world"
+2011-12-19 07:39:06 [INFO] Default game type: 0
+2011-12-19 07:39:06 [INFO] Preparing start region for level 0
+2011-12-19 07:39:07 [INFO] Preparing spawn area: 24%
+2011-12-19 07:39:08 [INFO] Done (1722249000ns)! For help, type "help" or "?"
+2011-12-19 19:27:35 [INFO] CONSOLE: Stopping the server..
+2011-12-19 19:27:35 [INFO] Stopping server
+2011-12-19 19:27:35 [INFO] Saving chunks
+2011-12-19 19:27:35 [INFO] Saving chunks
+2011-12-19 19:27:35 [INFO] Saving chunks
