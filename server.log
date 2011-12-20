@@ -22830,3 +22830,31 @@ java.lang.NullPointerException
 2011-12-19 19:27:35 [INFO] Saving chunks
 2011-12-19 19:27:35 [INFO] Saving chunks
 2011-12-19 19:27:35 [INFO] Saving chunks
+2011-12-20 08:47:38 [INFO] Starting minecraft server version 11w48a
+2011-12-20 08:47:38 [INFO] Loading properties
+2011-12-20 08:47:38 [INFO] Starting Minecraft server on *:5050
+2011-12-20 08:47:38 [INFO] Preparing level "world"
+2011-12-20 08:47:38 [INFO] Default game type: 0
+2011-12-20 08:47:38 [INFO] Preparing start region for level 0
+2011-12-20 08:47:39 [INFO] Preparing spawn area: 56%
+2011-12-20 08:47:40 [INFO] Done (1557605000ns)! For help, type "help" or "?"
+2011-12-20 08:51:31 [INFO] CONSOLE: Stopping the server..
+2011-12-20 08:51:31 [INFO] Stopping server
+2011-12-20 08:51:31 [INFO] Saving chunks
+2011-12-20 08:51:31 [INFO] Saving chunks
+2011-12-20 08:51:31 [INFO] Saving chunks
+2011-12-20 17:56:01 [INFO] Starting minecraft server version 11w48a
+2011-12-20 17:56:01 [INFO] Loading properties
+2011-12-20 17:56:01 [INFO] Starting Minecraft server on *:5050
+2011-12-20 17:56:01 [INFO] Preparing level "world"
+2011-12-20 17:56:01 [INFO] Default game type: 0
+2011-12-20 17:56:01 [INFO] Preparing start region for level 0
+2011-12-20 17:56:01 [INFO] Done (439667000ns)! For help, type "help" or "?"
+2011-12-20 18:43:02 [INFO] Dietzer [/86.73.174.26:49590] logged in with entity id 417 at (29.918015670122394, 63.0, 961.4194871894897)
+2011-12-20 19:34:00 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-20 19:40:40 [INFO] Unknown console command. Type "help" for help.
+2011-12-20 19:40:46 [INFO] CONSOLE: Stopping the server..
+2011-12-20 19:40:46 [INFO] Stopping server
+2011-12-20 19:40:46 [INFO] Saving chunks
+2011-12-20 19:40:46 [INFO] Saving chunks
+2011-12-20 19:40:46 [INFO] Saving chunks
