@@ -22992,3 +22992,122 @@ java.lang.OutOfMemoryError: Java heap space
 2011-12-20 21:16:47 [INFO] Stopping server
 2011-12-20 21:16:47 [INFO] HelloBukkit est arrete
 2011-12-20 21:16:47 [INFO] Saving chunks
+2011-12-21 08:34:52 [INFO] Starting minecraft server version 1.0.1
+2011-12-21 08:34:52 [INFO] Loading properties
+2011-12-21 08:34:52 [INFO] Starting Minecraft server on *:5050
+2011-12-21 08:34:52 [INFO] This server is running Craftbukkit version git-Bukkit-1.0.1-R1-10-g8677bb9-b1609jnks (MC: 1.0.1) (Implementing API version 1.0.1-R2-SNAPSHOT)
+2011-12-21 08:34:52 [INFO] Preparing level "world"
+2011-12-21 08:34:52 [INFO] Default game type: 0
+2011-12-21 08:34:53 [INFO] Preparing start region for level 0 (Seed: -1646337872860321765)
+2011-12-21 08:34:53 [INFO] Preparing start region for level 1 (Seed: 7331353272198611432)
+2011-12-21 08:34:54 [INFO] Preparing spawn area: 40%
+2011-12-21 08:34:54 [INFO] Preparing start region for level 2 (Seed: 7331353272198611432)
+2011-12-21 08:34:54 [INFO] HelloBukkit est lance
+2011-12-21 08:34:54 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2011-12-21 08:34:54 [INFO] Done (0,202s)! For help, type "help" or "?"
+2011-12-21 09:31:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 10:35:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 10:38:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 10:44:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 10:46:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 10:46:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 10:47:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 10:48:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 12:23:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 13:06:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 13:06:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 13:07:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 13:09:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 14:01:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 14:06:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 20:00:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-21 21:10:02 [INFO] CONSOLE: Stopping the server..[0m
+2011-12-21 21:10:02 [INFO] Stopping server
+2011-12-21 21:10:02 [INFO] HelloBukkit est arrete
+2011-12-21 21:10:02 [INFO] Saving chunks
+2011-12-22 18:21:04 [INFO] Starting minecraft server version 1.0.1
+2011-12-22 18:21:04 [INFO] Loading properties
+2011-12-22 18:21:04 [INFO] Starting Minecraft server on *:5050
+2011-12-22 18:21:06 [INFO] This server is running Craftbukkit version git-Bukkit-1.0.1-R1-10-g8677bb9-b1609jnks (MC: 1.0.1) (Implementing API version 1.0.1-R2-SNAPSHOT)
+2011-12-22 18:21:08 [INFO] Preparing level "world"
+2011-12-22 18:21:08 [INFO] Default game type: 0
+2011-12-22 18:21:09 [INFO] Preparing start region for level 0 (Seed: -1646337872860321765)
+2011-12-22 18:21:10 [INFO] Preparing spawn area: 0%
+2011-12-22 18:21:11 [INFO] Preparing spawn area: 4%
+2011-12-22 18:21:13 [INFO] Preparing spawn area: 16%
+2011-12-22 18:21:14 [INFO] Preparing spawn area: 24%
+2011-12-22 18:21:15 [INFO] Preparing spawn area: 32%
+2011-12-22 18:21:16 [INFO] Preparing spawn area: 40%
+2011-12-22 18:21:17 [INFO] Preparing spawn area: 52%
+2011-12-22 18:21:18 [INFO] Preparing spawn area: 56%
+2011-12-22 18:21:19 [INFO] Preparing spawn area: 69%
+2011-12-22 18:21:19 [INFO] Preparing start region for level 1 (Seed: 7331353272198611432)
+2011-12-22 18:21:20 [INFO] Preparing spawn area: 69%
+2011-12-22 18:21:21 [INFO] Preparing spawn area: 77%
+2011-12-22 18:21:21 [INFO] Preparing start region for level 2 (Seed: 7331353272198611432)
+2011-12-22 18:21:21 [INFO] HelloBukkit est lance
+2011-12-22 18:21:21 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2011-12-22 18:21:21 [INFO] Done (1,389s)! For help, type "help" or "?"
+2011-12-22 19:07:33 [INFO] maatthieu [/127.0.0.1:50080] logged in with entity id 559 at ([world] -26.96875, 63.0, -81.21875)
+2011-12-22 19:18:00 [INFO] maatthieu lost connection: disconnect.quitting
+2011-12-22 19:18:00 [INFO] Connection reset
+2011-12-22 19:19:46 [INFO] CONSOLE: Stopping the server..[0m
+2011-12-22 19:19:46 [INFO] Stopping server
+2011-12-22 19:19:46 [INFO] HelloBukkit est arrete
+2011-12-22 19:19:46 [INFO] Saving chunks
+2011-12-22 19:19:47 [INFO] Stopping server
+2011-12-22 19:19:47 [INFO] Saving chunks
+2011-12-24 11:21:34 [INFO] Starting minecraft server version 1.0.1
+2011-12-24 11:21:34 [INFO] Loading properties
+2011-12-24 11:21:34 [INFO] Starting Minecraft server on *:5050
+2011-12-24 11:21:35 [INFO] This server is running Craftbukkit version git-Bukkit-1.0.1-R1-10-g8677bb9-b1609jnks (MC: 1.0.1) (Implementing API version 1.0.1-R2-SNAPSHOT)
+2011-12-24 11:21:35 [INFO] Preparing level "world"
+2011-12-24 11:21:35 [INFO] Default game type: 0
+2011-12-24 11:21:35 [INFO] Preparing start region for level 0 (Seed: -1646337872860321765)
+2011-12-24 11:21:36 [INFO] Preparing spawn area: 40%
+2011-12-24 11:21:37 [INFO] Preparing start region for level 1 (Seed: 7331353272198611432)
+2011-12-24 11:21:37 [INFO] Preparing spawn area: 61%
+2011-12-24 11:21:37 [INFO] Preparing start region for level 2 (Seed: 7331353272198611432)
+2011-12-24 11:21:38 [INFO] HelloBukkit est lance
+2011-12-24 11:21:38 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2011-12-24 11:21:38 [INFO] Done (0,302s)! For help, type "help" or "?"
+2011-12-24 14:24:31 [INFO] Dietzer [/86.73.174.26:50326] logged in with entity id 1166 at ([world] 30.558784383831743, 63.0, 963.0128665354023)
+2011-12-24 14:33:12 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-24 14:33:12 [INFO] Connection reset
+2011-12-25 13:09:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-25 14:40:26 [INFO] Dietzer [/86.73.174.26:50226] logged in with entity id 12465 at ([world] 8.50633632897672, 63.0, 998.1611992340995)
+2011-12-25 14:44:29 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-25 14:44:29 [INFO] Connection reset
+2011-12-26 13:49:49 [INFO] Dietzer [/86.73.174.26:50306] logged in with entity id 20904 at ([world] 29.0625, 63.0, 959.8125)
+2011-12-26 13:49:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-26 13:59:37 [INFO] Dietzer lost connection: disconnect.quitting
+2011-12-26 13:59:37 [INFO] Connection reset
+2012-01-02 20:12:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-02 20:13:32 [SEVERE] null
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.read(Native Method)
+	at jline.Terminal.readCharacter(Terminal.java:99)
+	at jline.UnixTerminal.readVirtualKey(UnixTerminal.java:128)
+	at jline.ConsoleReader.readVirtualKey(ConsoleReader.java:1453)
+	at jline.ConsoleReader.readBinding(ConsoleReader.java:654)
+	at jline.ConsoleReader.readLine(ConsoleReader.java:494)
+	at net.minecraft.server.ThreadCommandReader.run(ThreadCommandReader.java:31)
+2012-01-03 18:27:29 [INFO] Starting minecraft server version 1.0.1
+2012-01-03 18:27:29 [INFO] Loading properties
+2012-01-03 18:27:29 [INFO] Starting Minecraft server on *:5050
+2012-01-03 18:27:29 [INFO] This server is running Craftbukkit version git-Bukkit-1.0.1-R1-10-g8677bb9-b1609jnks (MC: 1.0.1) (Implementing API version 1.0.1-R2-SNAPSHOT)
+2012-01-03 18:27:30 [INFO] Preparing level "world"
+2012-01-03 18:27:30 [INFO] Default game type: 0
+2012-01-03 18:27:30 [INFO] Preparing start region for level 0 (Seed: -1646337872860321765)
+2012-01-03 18:27:31 [INFO] Preparing spawn area: 73%
+2012-01-03 18:27:31 [INFO] Preparing start region for level 1 (Seed: 7331353272198611432)
+2012-01-03 18:27:32 [INFO] Preparing spawn area: 61%
+2012-01-03 18:27:32 [INFO] Preparing start region for level 2 (Seed: 7331353272198611432)
+2012-01-03 18:27:33 [INFO] HelloBukkit est lance
+2012-01-03 18:27:33 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2012-01-03 18:27:33 [INFO] Done (0,303s)! For help, type "help" or "?"
+2012-01-03 19:18:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-03 20:10:22 [INFO] CONSOLE: Stopping the server..[0m
+2012-01-03 20:10:22 [INFO] Stopping server
+2012-01-03 20:10:23 [INFO] HelloBukkit est arrete
+2012-01-03 20:10:23 [INFO] Saving chunks
