@@ -24299,3 +24299,8 @@ java.lang.OutOfMemoryError: Java heap space
 2012-01-21 18:18:05 [INFO] maatthieu [/192.168.66.1:51522] logged in with entity id 269 at (-24.34375, 30.0, -79.78125)
 2012-01-21 18:18:15 [INFO] maatthieu lost connection: disconnect.quitting
 2012-01-21 18:19:17 [INFO] maatthieu [/192.168.66.1:51533] logged in with entity id 502 at (-24.625, 63.0, -79.28125)
+2012-01-21 18:21:46 [INFO] CONSOLE: Stopping the server..
+2012-01-21 18:21:46 [INFO] Stopping server
+2012-01-21 18:21:46 [INFO] Saving chunks
+2012-01-21 18:21:46 [INFO] Saving chunks
+2012-01-21 18:21:46 [INFO] Saving chunks
