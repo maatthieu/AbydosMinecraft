@@ -24304,3 +24304,498 @@ java.lang.OutOfMemoryError: Java heap space
 2012-01-21 18:21:46 [INFO] Saving chunks
 2012-01-21 18:21:46 [INFO] Saving chunks
 2012-01-21 18:21:46 [INFO] Saving chunks
+2012-01-21 19:03:15 [INFO] Starting minecraft server version 12w03a
+2012-01-21 19:03:15 [INFO] Loading properties
+2012-01-21 19:03:15 [INFO] Starting Minecraft server on *:5050
+2012-01-21 19:03:15 [INFO] Preparing level "world"
+2012-01-21 19:03:15 [INFO] Default game type: 0
+2012-01-21 19:03:15 [INFO] Preparing start region for level 0
+2012-01-21 19:03:16 [INFO] Done (838284000ns)! For help, type "help" or "?"
+2012-01-21 19:16:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-21 19:23:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-21 19:24:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-21 19:25:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-21 19:26:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-21 19:26:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-21 19:27:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-21 19:49:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-21 19:50:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-21 19:52:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-21 19:52:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-21 20:03:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-21 20:18:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-21 20:19:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-21 21:14:21 [INFO] maatthieu [/192.168.66.1:52031] logged in with entity id 820 at (-24.625, 63.0, -79.28125)
+2012-01-21 22:45:04 [INFO] maatthieu lost connection: disconnect.genericReason
+2012-01-21 22:45:17 [INFO] maatthieu [/192.168.66.1:52214] logged in with entity id 19339 at (-17.09375, 79.0, -130.375)
+2012-01-21 23:16:34 [INFO] maatthieu lost connection: disconnect.quitting
+2012-01-21 23:29:29 [INFO] CONSOLE: Stopping the server..
+2012-01-21 23:29:29 [INFO] Stopping server
+2012-01-21 23:29:29 [INFO] Saving chunks
+2012-01-21 23:29:29 [INFO] Saving chunks
+2012-01-21 23:29:29 [INFO] Saving chunks
+2012-01-22 14:37:51 [INFO] Starting minecraft server version 12w03a
+2012-01-22 14:37:51 [INFO] Loading properties
+2012-01-22 14:37:51 [INFO] Starting Minecraft server on *:5050
+2012-01-22 14:37:52 [INFO] Preparing level "world"
+2012-01-22 14:37:52 [INFO] Default game type: 0
+2012-01-22 14:37:52 [INFO] Preparing start region for level 0
+2012-01-22 14:37:53 [INFO] Preparing spawn area: 89%
+2012-01-22 14:37:53 [INFO] Done (1445980000ns)! For help, type "help" or "?"
+2012-01-22 14:39:01 [INFO] Dietzer [/86.73.174.26:49741] logged in with entity id 266 at (27.375, 63.0, 959.6875)
+2012-01-22 14:55:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 14:55:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 14:56:05 [INFO] Dietzer lost connection: disconnect.genericReason
+2012-01-22 14:57:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 14:58:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 14:58:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 15:49:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 16:07:01 [INFO] Dietzer [/86.73.174.26:52151] logged in with entity id 13335 at (-5.199632979193606, 63.0, 989.4396007150078)
+2012-01-22 16:07:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 16:20:15 [INFO] Dietzer lost connection: disconnect.genericReason
+2012-01-22 16:20:21 [INFO] Dietzer [/86.73.174.26:52166] logged in with entity id 23585 at (26.7355808242892, 63.0, 959.5821887410384)
+2012-01-22 16:21:38 [INFO] Dietzer lost connection: disconnect.quitting
+2012-01-22 16:21:43 [INFO] Dietzer [/86.73.174.26:52170] logged in with entity id 24719 at (26.513196727723418, 63.0, 958.5597952136022)
+2012-01-22 16:22:51 [INFO] Dietzer lost connection: disconnect.quitting
+2012-01-22 16:28:00 [INFO] maatthieu [/192.168.66.1:49392] logged in with entity id 25733 at (-16.410462967552576, 79.0, -194.94392068835054)
+2012-01-22 16:28:07 [INFO] <maatthieu> et voila
+2012-01-22 16:31:02 [INFO] maatthieu issued server command: list
+2012-01-22 16:42:06 [INFO] Dietzer [/86.73.174.26:52179] logged in with entity id 30786 at (27.37637549734829, 63.0, 958.9439169283871)
+2012-01-22 16:42:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 16:42:11 [INFO] <Dietzer> Re
+2012-01-22 16:42:12 [INFO] <maatthieu> en effet
+2012-01-22 16:42:21 [INFO] <Dietzer> De ?!
+2012-01-22 16:42:25 [INFO] <maatthieu> tu arrives
+2012-01-22 16:42:36 [INFO] <Dietzer> ^^
+2012-01-22 16:44:20 [INFO] <maatthieu> tu le dis si tu viens a la base
+2012-01-22 16:44:38 [INFO] <Dietzer> Oui, mais je t'ai dit je prefere placer mon portail, on gagnera du temps
+2012-01-22 16:44:43 [INFO] <maatthieu> ouais
+2012-01-22 16:44:49 [INFO] <Dietzer> Puis je sais à peu pres la taille finale de ma base
+2012-01-22 16:44:56 [INFO] <maatthieu> combien?
+2012-01-22 16:45:43 [INFO] <Dietzer> Je n'ai pas encore fini la façade qui me sert de mesure de base
+2012-01-22 16:45:51 [INFO] <maatthieu> ^^
+2012-01-22 16:47:59 [INFO] <Dietzer> Mais ça devrait faire environ, 136*136, pour le chateau, sans compté le jardin et la muraille extéri
+2012-01-22 16:48:21 [INFO] <maatthieu> wao
+2012-01-22 16:49:38 [INFO] <maatthieu> ta besoin de pierre?
+2012-01-22 16:49:50 [INFO] <Dietzer> Nan c'est bon, enfin pour le moment
+2012-01-22 16:51:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 16:51:24 [INFO] <Dietzer> Dodo
+2012-01-22 16:51:31 [INFO] <maatthieu> en route
+2012-01-22 16:53:20 [INFO] <Dietzer> Ca avance ta ville sous-terraine ?!
+2012-01-22 16:53:31 [INFO] <maatthieu> ouais et j'etend des bruits
+2012-01-22 16:53:47 [INFO] <Dietzer> Arf
+2012-01-22 16:53:53 [INFO] <maatthieu> et les 3 mobs
+2012-01-22 16:54:23 [INFO] <maatthieu> en tout cas ca fait de l'espace
+2012-01-22 16:54:37 [INFO] <Dietzer> Zut, je vais avoir besoin de pierres au final, tu peux m'en lacher combien ?!
+2012-01-22 16:54:46 [INFO] <maatthieu> 8x64
+2012-01-22 16:55:06 [INFO] <Dietzer> Ca me va, je viendrais les chercher au lever du soleil
+2012-01-22 16:55:23 [INFO] <Dietzer> A part le bois t'as besoin de quoi ?!
+2012-01-22 16:55:32 [INFO] <maatthieu> un peu de charbon
+2012-01-22 16:55:46 [INFO] <Dietzer> Ok, j'en ai 64 + 40, je te les apporte
+2012-01-22 16:58:04 [INFO] Dietzer lost connection: disconnect.genericReason
+2012-01-22 16:58:11 [INFO] maatthieu [/192.168.66.1:49479] logged in with entity id 52060 at (26.59375, 30.0, -89.59375)
+2012-01-22 16:58:13 [INFO] Dietzer [/86.73.174.26:52187] logged in with entity id 52061 at (-3.40625, 63.0, 988.09375)
+2012-01-22 16:58:20 [INFO] <Dietzer> Ca me gave
+2012-01-22 16:58:31 [INFO] <maatthieu> ouals cette version n'est pas tres stable
+2012-01-22 16:59:05 [INFO] <maatthieu> 64 me suffise
+2012-01-22 16:59:15 [INFO] <Dietzer> Moi je ne m'en sert pas du charbon
+2012-01-22 16:59:24 [INFO] <maatthieu> comment ta la pierre?
+2012-01-22 16:59:33 [INFO] <maatthieu> ah c du coal
+2012-01-22 16:59:45 [INFO] <Dietzer> Oui, moi je n'utilise que du charcoal
+2012-01-22 17:03:06 [INFO] <maatthieu> il fait quel temps
+2012-01-22 17:03:10 [INFO] <Dietzer> Nuit
+2012-01-22 17:03:19 [INFO] <maatthieu> dac
+2012-01-22 17:03:29 [INFO] <Dietzer> Craft toi une montre
+2012-01-22 17:03:34 [INFO] <Dietzer> Et dors STP
+2012-01-22 17:03:41 [INFO] <maatthieu> je dors
+2012-01-22 17:08:18 [INFO] <Dietzer> La question que je me pose c'est où je met mon portail,
+2012-01-22 17:08:25 [INFO] <Dietzer> A l'air libre, dans une piece, sous terre
+2012-01-22 17:08:30 [INFO] <maatthieu> ^^
+2012-01-22 17:08:48 [INFO] <Dietzer> Tu crois que l'on peut submerger un portail ?!
+2012-01-22 17:08:50 [INFO] <maatthieu> a l'air libre c sympa aussi
+2012-01-22 17:09:01 [INFO] <maatthieu> essaye
+2012-01-22 17:09:06 [INFO] <Dietzer> Ouais, je re
+2012-01-22 17:09:08 [INFO] Dietzer lost connection: disconnect.quitting
+2012-01-22 17:33:44 [INFO] maatthieu lost connection: disconnect.quitting
+2012-01-22 17:40:59 [INFO] Dietzer [/86.73.174.26:52204] logged in with entity id 80445 at (31.514934966135, 63.0, 999.907866956286)
+2012-01-22 17:43:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 17:43:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 17:48:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 17:52:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 17:55:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 17:56:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 17:56:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 17:56:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 17:56:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 17:56:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 17:57:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 18:01:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 18:03:21 [INFO] Dietzer lost connection: disconnect.genericReason
+2012-01-22 18:03:31 [INFO] Dietzer [/86.73.174.26:52220] logged in with entity id 101226 at (35.46875, 64.0, 42.09375)
+2012-01-22 18:08:24 [INFO] Dietzer lost connection: disconnect.quitting
+2012-01-22 18:17:02 [INFO] Dietzer [/86.73.174.26:52240] logged in with entity id 105347 at (-23.047795882948662, 30.0, -75.03076992460485)
+2012-01-22 18:17:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 18:18:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 18:33:44 [INFO] maatthieu [/192.168.66.1:49219] logged in with entity id 128634 at (-3.0750133204839836, 30.0, -71.52821950297394)
+2012-01-22 18:34:05 [INFO] <maatthieu> re
+2012-01-22 18:34:08 [INFO] <Dietzer> Re
+2012-01-22 18:40:09 [INFO] <Dietzer> Dodo
+2012-01-22 18:42:10 [INFO] <Dietzer> Je trace mes diagonales et je place mon portail
+2012-01-22 18:42:19 [INFO] <maatthieu> oki
+2012-01-22 18:42:28 [INFO] <maatthieu> moi g plein de pierres pour le tunnel ^^
+2012-01-22 18:42:43 [INFO] <Dietzer> Ah oui, c'est vrai que j'ai perdu mon seau, faut que j'en refasse 1
+2012-01-22 18:42:47 [INFO] <Dietzer> ^^
+2012-01-22 18:43:20 [INFO] <maatthieu> j'use les pioches a la chaine
+2012-01-22 18:43:36 [INFO] <Dietzer> Moi je ne les finis pas, j'en refais une et je les assemble apres
+2012-01-22 18:45:13 [INFO] <maatthieu> une mini slime
+2012-01-22 18:45:37 [INFO] <Dietzer> UNE !!! T'arrive à voir si c'est une fille ou un gars ?!
+2012-01-22 18:45:46 [INFO] <maatthieu> un slime tu le dis
+2012-01-22 18:45:51 [INFO] <Dietzer> Ben oui
+2012-01-22 18:46:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 18:49:03 [INFO] <Dietzer> Voilà, j'ai le milieu de mon domaine
+2012-01-22 18:49:17 [INFO] <maatthieu> a l'air libre alors
+2012-01-22 18:49:20 [INFO] <Dietzer> Oui
+2012-01-22 18:49:40 [INFO] <Dietzer> Enfin, pour le moment, pasque les Ghasts peuvent passer le portail
+2012-01-22 18:49:45 [INFO] <Dietzer> Si y a assez de place derriere
+2012-01-22 18:49:56 [INFO] <maatthieu> ah bon
+2012-01-22 18:51:45 [INFO] <Dietzer> Dodo
+2012-01-22 19:01:13 [INFO] maatthieu lost connection: disconnect.genericReason
+2012-01-22 19:01:14 [INFO] maatthieu [/192.168.66.1:49317] logged in with entity id 167495 at (1.6875, 67.0, -104.5625)
+2012-01-22 19:01:19 [INFO] <maatthieu> chouette
+2012-01-22 19:01:24 [INFO] <Dietzer> De ?!
+2012-01-22 19:01:32 [INFO] <maatthieu> ta pas eu de deconnexion
+2012-01-22 19:01:38 [INFO] <Dietzer> Non
+2012-01-22 19:01:52 [INFO] <maatthieu> tant mieux pour toi
+2012-01-22 19:02:04 [INFO] <Dietzer> ^^
+2012-01-22 19:02:52 [INFO] <Dietzer> Dodo
+2012-01-22 19:06:18 [INFO] <maatthieu> une poule s est précipité pour rentrer a la base
+2012-01-22 19:06:29 [INFO] <Dietzer> ^^ elle cherche asile
+2012-01-22 19:06:34 [INFO] <maatthieu> grave
+2012-01-22 19:06:37 [INFO] <maatthieu> ou la lave
+2012-01-22 19:06:46 [INFO] <Dietzer> ...
+2012-01-22 19:06:47 [INFO] <maatthieu> elle s est jeté dans les douves mais c bn
+2012-01-22 19:07:00 [INFO] <maatthieu> heureusement que y a pas toute la lave encore
+2012-01-22 19:08:48 [INFO] <maatthieu> elle a deja pondu un oeuf
+2012-01-22 19:09:06 [INFO] <Dietzer> Après la neige, on va être envahi par les poules
+2012-01-22 19:12:01 [INFO] <maatthieu> memo a moi mm ; ne pas jeter trop loin les oeufs
+2012-01-22 19:12:16 [INFO] <Dietzer> T'as mis une poule sur orbite ?!
+2012-01-22 19:13:50 [INFO] <Dietzer> Dodo
+2012-01-22 19:14:18 [INFO] <maatthieu> l'oeuf on l'a plus jamais revenu
+2012-01-22 19:14:20 [INFO] <maatthieu> revu
+2012-01-22 19:18:23 [INFO] <Dietzer> Encore 3 seaus de laves et c'est bon
+2012-01-22 19:18:31 [INFO] <maatthieu> ^^
+2012-01-22 19:18:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 19:18:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 19:19:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 19:23:32 [INFO] <Dietzer> Je l'active
+2012-01-22 19:23:40 [INFO] <maatthieu> attention au vortex
+2012-01-22 19:23:47 [INFO] <Dietzer> De ?!
+2012-01-22 19:23:50 [INFO] <maatthieu> stargate
+2012-01-22 19:23:54 [INFO] <Dietzer> ...
+2012-01-22 19:24:06 [INFO] <Dietzer> Je vais ranger mes affaires avant d'y aller
+2012-01-22 19:24:52 [INFO] <Dietzer> C'est sympas, j'ai une entrée, un debut de muraille, et en plein nulle par, un portail
+2012-01-22 19:25:50 [INFO] <Dietzer> Dodo
+2012-01-22 19:26:17 [INFO] <maatthieu> bon je go au nether
+2012-01-22 19:26:22 [INFO] <Dietzer> Ok, moi aussi
+2012-01-22 19:26:52 [INFO] <Dietzer> Avec de la chance, j'arrive dans un edroit déjà, exploré
+2012-01-22 19:27:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-22 19:28:27 [INFO] <Dietzer> Je suis en 4,66,130
+2012-01-22 19:28:32 [INFO] <maatthieu> 2s
+2012-01-22 19:28:46 [INFO] <maatthieu> ca correspond au prevision
+2012-01-22 19:28:51 [INFO] <Dietzer> J'ai pas 2s, j'ai un Ghast au cul
+2012-01-22 19:28:55 [INFO] <maatthieu> revien
+2012-01-22 19:29:09 [INFO] <maatthieu> enfin c bon je vais venir a toi par le nether t pas loin
+2012-01-22 19:29:17 [INFO] <Dietzer> Nan je me dirige vers le point 0 en ligne droite
+2012-01-22 19:29:24 [INFO] <maatthieu> si tu peux fait toi une base autour du portail
+2012-01-22 19:29:28 [INFO] <maatthieu> oki tres
+2012-01-22 19:29:29 [INFO] <maatthieu> bien
+2012-01-22 19:30:42 [INFO] <Dietzer> Je vois les boules de feu, mais pas le Ghast
+2012-01-22 19:31:25 [INFO] <maatthieu> t a kel coordonnées
+2012-01-22 19:31:47 [INFO] <Dietzer> 2,66,116
+2012-01-22 19:32:27 [INFO] <Dietzer> Mais je n'ai plus de pioche, et rien pour en refaire, je sorts
+2012-01-22 19:32:35 [INFO] <maatthieu> oki
+2012-01-22 19:32:50 [INFO] <Dietzer> Oh! Un slime de feu
+2012-01-22 19:33:10 [INFO] <Dietzer> C'est bon, je sui au point 0
+2012-01-22 19:33:34 [INFO] <Dietzer> Bouh
+2012-01-22 19:33:40 [INFO] <maatthieu> je vos ton nom ^^
+2012-01-22 19:33:45 [INFO] <maatthieu> ta pris pas la haut
+2012-01-22 19:33:51 [INFO] <Dietzer> Oui
+2012-01-22 19:33:58 [INFO] <Dietzer> T'as une pioche pour moi ?!
+2012-01-22 19:34:12 [INFO] <maatthieu> la
+2012-01-22 19:34:15 [INFO] <Dietzer> Merci
+2012-01-22 19:34:31 [INFO] <maatthieu> je te suis
+2012-01-22 19:35:33 [INFO] <Dietzer> T'es ou ?!
+2012-01-22 19:36:01 [INFO] <maatthieu> c marrant on revient au milieux de l'eau
+2012-01-22 19:36:09 [INFO] <Dietzer> ...
+2012-01-22 19:36:10 [INFO] <maatthieu> ah oui ca va etre grand
+2012-01-22 19:36:41 [INFO] <maatthieu> g pas de lit
+2012-01-22 19:36:54 [INFO] <Dietzer> Pas grave, reviens dans le Nether
+2012-01-22 19:37:02 [INFO] <Dietzer> Je fini de relier mon chemin
+2012-01-22 19:37:14 [INFO] <maatthieu> ou on fait la montée
+2012-01-22 19:37:32 [INFO] <Dietzer> Pourquoi, il est à quelle hauteur le point 0 ?!
+2012-01-22 19:37:37 [INFO] <maatthieu> dans les 80
+2012-01-22 19:37:44 [INFO] <Dietzer> T'es sur ?!
+2012-01-22 19:37:48 [INFO] <maatthieu> oui
+2012-01-22 19:38:01 [INFO] <maatthieu> je te propose quand tu rentre dans la montagne tu ommence a monter
+2012-01-22 19:38:43 [INFO] <Dietzer> Ah ouais, 80 pile
+2012-01-22 19:41:50 [INFO] <Dietzer> T'as une pioche, ou 3 pierres ?!
+2012-01-22 19:41:54 [INFO] <maatthieu> oui
+2012-01-22 19:42:24 [INFO] <Dietzer> Merci
+2012-01-22 19:42:36 [INFO] <Dietzer> Ca devrait être bon, j'espere
+2012-01-22 19:42:37 [INFO] <maatthieu> tu finis le chemin ou tu veux de l'aide
+2012-01-22 19:42:48 [INFO] <Dietzer> Nan ça devrait aller
+2012-01-22 19:43:22 [INFO] <Dietzer> Ghast au cul
+2012-01-22 19:44:24 [INFO] <Dietzer> Voilà, je suis à hauteur 80
+2012-01-22 19:45:36 [INFO] <Dietzer> Arf, il me manque 1 pioche
+2012-01-22 19:46:00 [INFO] <maatthieu> j'arrive
+2012-01-22 19:46:14 [INFO] <Dietzer> Fais gaffe au Ghast
+2012-01-22 19:46:30 [INFO] <maatthieu> ouais c cho en fait
+2012-01-22 19:46:33 [INFO] <maatthieu> c koi tes coordonnes
+2012-01-22 19:46:34 [INFO] <Dietzer> ^^
+2012-01-22 19:47:13 [INFO] <Dietzer> J'arrive
+2012-01-22 19:48:38 [INFO] <Dietzer> ^^ Mercix2
+2012-01-22 19:50:53 [INFO] <maatthieu> voila y a une antre pour ton arrivé
+2012-01-22 19:51:28 [INFO] <Dietzer> Et voilà
+2012-01-22 19:52:05 [INFO] <Dietzer> Tu veux que je la fasse arrivé sur la pointe le chemin ?!
+2012-01-22 19:53:10 [INFO] <Dietzer> Youhou
+2012-01-22 19:53:59 [INFO] <maatthieu> youhou
+2012-01-22 19:54:06 [INFO] <maatthieu> non tres bien
+2012-01-22 19:54:22 [INFO] <Dietzer> Ok, il me reste de la pierre, je vais consolider la route
+2012-01-22 19:54:38 [INFO] <maatthieu> les pigmen spawnent sur le sol
+2012-01-22 19:54:48 [INFO] <Dietzer> Surement
+2012-01-22 19:57:31 [INFO] <Dietzer> Bon je suis retourner chez moi, je consoliderais demain, là je déco, ++
+2012-01-22 19:57:35 [INFO] <maatthieu> ++
+2012-01-22 19:57:37 [INFO] Dietzer lost connection: disconnect.quitting
+2012-01-22 20:02:15 [INFO] maatthieu lost connection: disconnect.genericReason
+2012-01-22 20:02:24 [INFO] maatthieu [/192.168.66.1:49437] logged in with entity id 215192 at (3.6875, 87.0, 3.21875)
+2012-01-22 20:05:03 [INFO] maatthieu lost connection: disconnect.quitting
+2012-01-22 20:38:24 [INFO] CONSOLE: Stopping the server..
+2012-01-22 20:38:24 [INFO] Stopping server
+2012-01-22 20:38:24 [INFO] Saving chunks
+2012-01-22 20:38:25 [INFO] Saving chunks
+2012-01-22 20:38:26 [INFO] Saving chunks
+2012-01-23 08:33:32 [INFO] Starting minecraft server version 12w03a
+2012-01-23 08:33:32 [INFO] Loading properties
+2012-01-23 08:33:32 [INFO] Starting Minecraft server on *:5050
+2012-01-23 08:33:32 [INFO] Preparing level "world"
+2012-01-23 08:33:32 [INFO] Default game type: 0
+2012-01-23 08:33:32 [INFO] Preparing start region for level 0
+2012-01-23 08:33:32 [INFO] Done (798263000ns)! For help, type "help" or "?"
+2012-01-23 18:23:03 [INFO] Dietzer [/86.73.174.26:51434] logged in with entity id 2782 at (26.0, 63.0, 961.40625)
+2012-01-23 18:32:08 [INFO] Dietzer lost connection: disconnect.genericReason
+2012-01-23 18:32:18 [INFO] Dietzer [/86.73.174.26:51443] logged in with entity id 5109 at (-1.34375, 64.0, 136.25)
+2012-01-23 18:50:58 [INFO] Dietzer lost connection: disconnect.quitting
+2012-01-23 19:55:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-23 20:20:34 [INFO] CONSOLE: Stopping the server..
+2012-01-23 20:20:34 [INFO] Stopping server
+2012-01-23 20:20:34 [INFO] Saving chunks
+2012-01-23 20:20:34 [INFO] Saving chunks
+2012-01-23 20:20:34 [INFO] Saving chunks
+2012-01-24 18:37:51 [INFO] Starting minecraft server version 12w03a
+2012-01-24 18:37:51 [INFO] Loading properties
+2012-01-24 18:37:51 [INFO] Starting Minecraft server on *:5050
+2012-01-24 18:37:51 [INFO] Preparing level "world"
+2012-01-24 18:37:51 [INFO] Default game type: 0
+2012-01-24 18:37:51 [INFO] Preparing start region for level 0
+2012-01-24 18:37:52 [INFO] Preparing spawn area: 57%
+2012-01-24 18:37:53 [INFO] Done (1852864000ns)! For help, type "help" or "?"
+2012-01-24 21:16:37 [INFO] CONSOLE: Stopping the server..
+2012-01-24 21:16:37 [INFO] Stopping server
+2012-01-24 21:16:37 [INFO] Saving chunks
+2012-01-24 21:16:38 [INFO] Saving chunks
+2012-01-24 21:16:38 [INFO] Saving chunks
+2012-01-26 17:56:07 [INFO] Starting minecraft server version 12w03a
+2012-01-26 17:56:07 [INFO] Loading properties
+2012-01-26 17:56:07 [INFO] Starting Minecraft server on *:5050
+2012-01-26 17:56:07 [INFO] Preparing level "world"
+2012-01-26 17:56:07 [INFO] Default game type: 0
+2012-01-26 17:56:07 [INFO] Preparing start region for level 0
+2012-01-26 17:56:08 [INFO] Done (1019805000ns)! For help, type "help" or "?"
+2012-01-26 17:58:53 [INFO] Dietzer [/86.73.174.26:50382] logged in with entity id 152 at (26.5, 63.0, 959.5)
+2012-01-26 18:02:52 [INFO] Dietzer lost connection: disconnect.genericReason
+2012-01-26 18:03:34 [INFO] Disconnecting maatthieu [/127.0.0.1:49494]: Outdated client!
+2012-01-26 18:03:39 [INFO] Disconnecting maatthieu [/192.168.66.1:49499]: Outdated client!
+2012-01-26 18:03:43 [INFO] Dietzer [/86.73.174.26:50387] logged in with entity id 3220 at (28.28125, 63.0, 959.9375)
+2012-01-26 18:05:12 [INFO] Dietzer lost connection: disconnect.quitting
+2012-01-26 18:06:25 [INFO] CONSOLE: Stopping the server..
+2012-01-26 18:06:25 [INFO] Stopping server
+2012-01-26 18:06:25 [INFO] Saving chunks
+2012-01-26 18:06:26 [INFO] Saving chunks
+2012-01-26 18:06:26 [INFO] Saving chunks
+2012-01-26 18:06:28 [INFO] Starting minecraft server version 12w04a
+2012-01-26 18:06:28 [INFO] Loading properties
+2012-01-26 18:06:28 [INFO] Starting Minecraft server on *:5050
+2012-01-26 18:06:28 [INFO] Preparing level "world"
+2012-01-26 18:06:28 [INFO] Default game type: 0
+2012-01-26 18:06:28 [INFO] Preparing start region for level 0
+2012-01-26 18:06:28 [INFO] Done (461702000ns)! For help, type "help" or "?"
+2012-01-26 18:07:32 [INFO] maatthieu [/127.0.0.1:49608] logged in with entity id 162 at (2.6875, 63.0, 1057.15625)
+2012-01-26 18:09:35 [INFO] maatthieu lost connection: disconnect.quitting
+2012-01-26 18:10:27 [INFO] Dietzer [/86.73.174.26:50570] logged in with entity id 1480 at (29.715984496330837, 63.0, 958.7396025451122)
+2012-01-26 18:10:35 [INFO] <Dietzer> Hi! Dodo
+2012-01-26 18:11:09 [INFO] maatthieu [/127.0.0.1:49625] logged in with entity id 2078 at (-30.5, 63.0, -78.5)
+2012-01-26 18:12:25 [INFO] <Dietzer> Ah ah, c'est vrai que je n'ai plus de cuir, bon ben je fais une épée et j'y go
+2012-01-26 18:13:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 18:13:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 18:14:38 [INFO] <maatthieu> j y suis
+2012-01-26 18:14:43 [INFO] <Dietzer> Moi aussi
+2012-01-26 18:14:49 [INFO] <Dietzer> Je les voi
+2012-01-26 18:15:07 [INFO] <Dietzer> Je fonce dans le tas, dois y en avoir 3
+2012-01-26 18:15:15 [INFO] <maatthieu> y en a lus
+2012-01-26 18:15:31 [INFO] <Dietzer> J'en ai eu 1
+2012-01-26 18:15:38 [INFO] <Dietzer> Et un morceau d'or
+2012-01-26 18:15:48 [INFO] <maatthieu> 3
+2012-01-26 18:15:49 [INFO] <Dietzer> Ben tu vois
+2012-01-26 18:16:09 [INFO] <Dietzer> Euh c'est a toi les bottes ?!
+2012-01-26 18:16:12 [INFO] <maatthieu> ca bug la
+2012-01-26 18:16:23 [INFO] <maatthieu> oui G 3 equipeemtn sur 4
+2012-01-26 18:16:29 [INFO] <Dietzer> De quoi ça bugge ?!
+2012-01-26 18:16:35 [INFO] <Dietzer> EReviens je te rends tes affaire
+2012-01-26 18:16:39 [INFO] <maatthieu> graphique des trucs qui clignote
+2012-01-26 18:16:44 [INFO] <maatthieu> la a la lumiere
+2012-01-26 18:16:56 [INFO] <Dietzer> Moi j'ai pas de bug
+2012-01-26 18:17:12 [INFO] <Dietzer> Pas a moi ça
+2012-01-26 18:17:24 [INFO] <Dietzer> Merci
+2012-01-26 18:17:26 [INFO] <maatthieu> je jette prend ce qui est a toi
+2012-01-26 18:17:47 [INFO] <maatthieu> des outils? j en ai plein
+2012-01-26 18:18:05 [INFO] <Dietzer> Ben oui, moi je n'avais qu'une pioche et l'atelier, pas de hache
+2012-01-26 18:18:15 [INFO] <maatthieu> oki
+2012-01-26 18:18:30 [INFO] <Dietzer> Voilà, la ça doit être bon
+2012-01-26 18:19:17 [INFO] <Dietzer> Ca va jusqu'à la structure le chemin ?!
+2012-01-26 18:19:38 [INFO] <maatthieu> preque
+2012-01-26 18:19:45 [INFO] <maatthieu> manque la fin mais tu vois la structure
+2012-01-26 18:19:49 [INFO] <Dietzer> Ok
+2012-01-26 18:19:57 [INFO] <maatthieu> l'armure de cuir est a toi?
+2012-01-26 18:20:01 [INFO] <Dietzer> Nope
+2012-01-26 18:20:13 [INFO] <Dietzer> Je l'avais perdu contre les mecs de feu
+2012-01-26 18:21:05 [INFO] <maatthieu> j'arrive
+2012-01-26 18:21:30 [INFO] <Dietzer> Ca va êter chaud de faire un chemin en decend, va falloir partir d'en bas
+2012-01-26 18:21:49 [INFO] <maatthieu> ouais ou le tunnel va jusqu'a la structure est en hauteur
+2012-01-26 18:22:01 [INFO] <Dietzer> Tu crois ?!
+2012-01-26 18:22:17 [INFO] <maatthieu> ouais
+2012-01-26 18:22:31 [INFO] <Dietzer> Bon on partira de là alors
+2012-01-26 18:22:49 [INFO] <Dietzer> Je n'ai pas de briquettes par contre
+2012-01-26 18:22:54 [INFO] <maatthieu> moi oui un peu
+2012-01-26 18:23:05 [INFO] <Dietzer> Ben utilise en le plus possible
+2012-01-26 18:23:08 [INFO] <Dietzer> Merde
+2012-01-26 18:24:30 [INFO] <maatthieu> il es mort
+2012-01-26 18:25:03 [INFO] <Dietzer> Ca va ?!
+2012-01-26 18:25:07 [INFO] <maatthieu> et oui
+2012-01-26 18:25:19 [INFO] <Dietzer> Y en a un deuxieme
+2012-01-26 18:25:25 [INFO] <Dietzer> TP toi à moi
+2012-01-26 18:25:41 [INFO] <maatthieu> je suis juste a cote de la structure
+2012-01-26 18:25:56 [INFO] <Dietzer> Y en a 2
+2012-01-26 18:26:12 [INFO] <maatthieu> oiais on es mal
+2012-01-26 18:26:16 [INFO] <Dietzer> TP toi
+2012-01-26 18:26:27 [INFO] maatthieu issued server command: tp maatthieu dietzer
+2012-01-26 18:26:27 [INFO] maatthieu: Teleporting maatthieu to dietzer.
+2012-01-26 18:26:30 [INFO] <maatthieu> c bon
+2012-01-26 18:27:09 [INFO] <maatthieu> g une larme de gas
+2012-01-26 18:27:13 [INFO] <Dietzer> Cool
+2012-01-26 18:27:22 [INFO] <Dietzer> Range la précieusement
+2012-01-26 18:27:43 [INFO] <Dietzer> Je retourne chze moi
+2012-01-26 18:27:47 [INFO] <maatthieu> oki
+2012-01-26 18:28:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 18:28:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 18:28:58 [INFO] <Dietzer> Je vais faire une salle pour protéger mon portail
+2012-01-26 18:28:59 [INFO] <maatthieu> bon je me fais des fleches et je me les fait
+2012-01-26 18:29:03 [INFO] <Dietzer> ^^
+2012-01-26 18:31:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 18:32:06 [INFO] <Dietzer> Bon finalement je n'irais pas aux Galeries
+2012-01-26 18:32:17 [INFO] <maatthieu> ah
+2012-01-26 18:32:26 [INFO] <maatthieu> il appelle pour rien?
+2012-01-26 18:32:43 [INFO] <Dietzer> Ils ont du avoir quelqu'un d'autre avant, c'est tout
+2012-01-26 18:32:56 [INFO] <maatthieu> oki dommage
+2012-01-26 18:33:01 [INFO] <maatthieu> tu taf demain?
+2012-01-26 18:33:30 [INFO] <Dietzer> Oui, normalement dernier jour en tant que brancardier
+2012-01-26 18:33:38 [INFO] <maatthieu> c bien?
+2012-01-26 18:33:58 [INFO] <Dietzer> C'set assez dur, autant physiquement que mentalement.
+2012-01-26 18:34:07 [INFO] <maatthieu> tu m'etonnes
+2012-01-26 18:39:19 [INFO] <Dietzer> Oh, il est mignon le petit, et *SLASH* la tête à maman vache
+2012-01-26 18:40:01 [INFO] <Dietzer> Bon il nous faut un moyen de defense contre les pigmen, y a que les cactus
+2012-01-26 18:44:00 [INFO] <maatthieu> ta tué une vache
+2012-01-26 18:44:10 [INFO] <maatthieu> on met le sol en pierre ca devrai aller
+2012-01-26 18:44:20 [INFO] <maatthieu> et apres des sas pour eviter qu'il rentre dans les zones
+2012-01-26 18:44:22 [INFO] <Dietzer> Si ce n'était qu'une, j'ai fait une petite boucherie pour avoir 8 steacks
+2012-01-26 18:44:26 [INFO] <maatthieu> ^^
+2012-01-26 18:46:03 [INFO] <Dietzer> Font chier à résister à la lave
+2012-01-26 18:46:08 [INFO] <maatthieu> ^^
+2012-01-26 18:46:11 [INFO] <maatthieu> t dans le nether?
+2012-01-26 18:48:44 [INFO] <Dietzer> Pas encore, je suis en route, j'ai fait de la pierre et des steacks
+2012-01-26 18:49:12 [INFO] <maatthieu> la route a aboutie
+2012-01-26 18:49:19 [INFO] <Dietzer> Ah
+2012-01-26 18:49:34 [INFO] <maatthieu> ouais mais je suis pas dans la structure
+2012-01-26 18:49:49 [INFO] <maatthieu> c encore du netherack
+2012-01-26 18:49:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 18:50:12 [INFO] <Dietzer> Tant que l'on peut y aller et ressortir en sureté
+2012-01-26 18:50:14 [INFO] <maatthieu> plus de pierre
+2012-01-26 18:50:18 [INFO] <maatthieu> pas encore :p
+2012-01-26 18:50:32 [INFO] <Dietzer> Aarf, je fignole mon entrée e tj'arrive
+2012-01-26 18:51:22 [INFO] <Dietzer> Je venais voir les dimensions de la salle
+2012-01-26 18:51:28 [INFO] <maatthieu> ^^
+2012-01-26 18:51:33 [INFO] <maatthieu> tu prends des mesures
+2012-01-26 18:51:42 [INFO] <Dietzer> Voui, que je concorde tout
+2012-01-26 18:52:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 18:52:47 [INFO] <Dietzer> Et une larme de Ghast, une
+2012-01-26 18:52:51 [INFO] <maatthieu> super
+2012-01-26 18:53:10 [INFO] <Dietzer> Oh l'horreur, t'as vu le nom français pour Ghast ?!
+2012-01-26 18:53:16 [INFO] <maatthieu> non
+2012-01-26 18:53:22 [INFO] <Dietzer> Fantâme
+2012-01-26 18:54:45 [INFO] <maatthieu> il va me manquer des pierres
+2012-01-26 18:54:55 [INFO] <maatthieu> c moche le nom je prefere l'anglais c plus simple
+2012-01-26 18:55:02 [INFO] <Dietzer> Oui
+2012-01-26 18:56:38 [INFO] <Dietzer> C'est marrant ça, mon portail est éteinds
+2012-01-26 18:59:12 [INFO] <maatthieu> pas de gaps c chouette
+2012-01-26 18:59:22 [INFO] <Dietzer> C'est moi qui les ai
+2012-01-26 19:01:40 [INFO] <maatthieu> chemin presque presque ok
+2012-01-26 19:01:45 [INFO] <Dietzer> ^^
+2012-01-26 19:01:50 [INFO] <maatthieu> juste une putin de coulee de lave
+2012-01-26 19:01:58 [INFO] <Dietzer> Hein
+2012-01-26 19:02:46 [INFO] <Dietzer> Moi en attendant que de la lave se dissipe, j'explore
+2012-01-26 19:02:55 [INFO] <maatthieu> tqui est pile sur la route et difficilement contournablz
+2012-01-26 19:03:51 [INFO] <Dietzer> Slime de feu
+2012-01-26 19:04:38 [INFO] <maatthieu> desole
+2012-01-26 19:05:03 [INFO] <Dietzer> Nan mais ç a merder, a cause de la petitesse du plafond il a eu un coup de speed
+2012-01-26 19:06:32 [INFO] <Dietzer> Merde, j'ai une deuxieme porte, vu que j'avais as reactiver la premiere
+2012-01-26 19:06:42 [INFO] <maatthieu> ah merde
+2012-01-26 19:08:18 [INFO] <Dietzer> C'est bon j'ai tout récuperer
+2012-01-26 19:08:33 [INFO] <Dietzer> Même de la crème de magma
+2012-01-26 19:08:40 [INFO] <maatthieu> cool
+2012-01-26 19:09:11 [INFO] <maatthieu> bon cette fois je finis la route
+2012-01-26 19:09:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 19:09:33 [INFO] <Dietzer> Cool, moi je vais chercher ma pioche en dimand et détruire la porte, en espérant que ça ne merde pas
+2012-01-26 19:09:40 [INFO] <maatthieu> ouai
+2012-01-26 19:11:26 [INFO] <Dietzer> Putain
+2012-01-26 19:11:36 [INFO] <maatthieu> putin de sol
+2012-01-26 19:11:44 [INFO] <Dietzer> ... non de Ghast
+2012-01-26 19:12:05 [INFO] <Dietzer> Pres de la lave en plus
+2012-01-26 19:12:11 [INFO] <maatthieu> tan qu faire
+2012-01-26 19:15:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 19:15:57 [INFO] <Dietzer> Bon les portes se sont bien reconnecté ensemble
+2012-01-26 19:16:02 [INFO] <maatthieu> cool
+2012-01-26 19:19:46 [INFO] <Dietzer> Bon ben au moins j'ai 14 blocs d'obsidienne
+2012-01-26 19:19:52 [INFO] <maatthieu> ouais c klr ^^
+2012-01-26 19:20:03 [INFO] <maatthieu> je les veux bien pour mettre une porte dans le nether
+2012-01-26 19:20:29 [INFO] <Dietzer> Désolé, je les garde pour ma table d'enchantement
+2012-01-26 19:20:38 [INFO] <maatthieu> il en faut?
+2012-01-26 19:20:50 [INFO] <Dietzer> Oui, 4 je crois
+2012-01-26 19:20:55 [INFO] <maatthieu> oki
+2012-01-26 19:21:12 [INFO] <Dietzer> Par contre je déco, @+
+2012-01-26 19:21:17 [INFO] <maatthieu> ++
+2012-01-26 19:21:25 [INFO] Dietzer lost connection: disconnect.quitting
+2012-01-26 19:29:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 19:29:27 [INFO] maatthieu lost connection: disconnect.quitting
+2012-01-26 20:47:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 20:48:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 20:48:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 20:48:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 20:48:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 20:48:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 20:49:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 20:49:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 21:14:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-01-26 21:18:20 [INFO] CONSOLE: Stopping the server..
+2012-01-26 21:18:20 [INFO] Stopping server
+2012-01-26 21:18:20 [INFO] Saving chunks
+2012-01-26 21:18:20 [INFO] Saving chunks
+2012-01-26 21:18:20 [INFO] Saving chunks
