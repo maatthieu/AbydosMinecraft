@@ -26200,3 +26200,29 @@ java.lang.OutOfMemoryError: Java heap space
 2012-02-19 20:33:58 [INFO] Saving chunks
 2012-02-19 20:33:58 [INFO] Saving chunks
 2012-02-19 20:33:58 [INFO] Saving chunks
+2012-02-19 21:10:52 [INFO] Starting minecraft server version 12w07b
+2012-02-19 21:10:52 [INFO] Loading properties
+2012-02-19 21:10:52 [INFO] Starting Minecraft server on *:5050
+2012-02-19 21:10:52 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (No such file or directory)
+2012-02-19 21:10:52 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (No such file or directory)
+2012-02-19 21:10:52 [INFO] Preparing level "world"
+2012-02-19 21:10:52 [INFO] Default game type: 0
+2012-02-19 21:10:52 [INFO] Preparing start region for level 0
+2012-02-19 21:10:53 [INFO] Done (732912000ns)! For help, type "help" or "?"
+2012-02-19 21:10:58 [INFO] CONSOLE: Stopping the server..
+2012-02-19 21:10:58 [INFO] Stopping server
+2012-02-19 21:10:58 [INFO] Saving chunks
+2012-02-19 21:10:59 [INFO] Saving chunks
+2012-02-19 21:10:59 [INFO] Saving chunks
+2012-02-19 21:11:03 [INFO] Starting minecraft server version 12w07b
+2012-02-19 21:11:03 [INFO] Loading properties
+2012-02-19 21:11:03 [INFO] Starting Minecraft server on *:5050
+2012-02-19 21:11:03 [INFO] Preparing level "world"
+2012-02-19 21:11:03 [INFO] Default game type: 0
+2012-02-19 21:11:03 [INFO] Preparing start region for level 0
+2012-02-19 21:11:04 [INFO] Done (484638000ns)! For help, type "help" or "?"
+2012-02-19 21:11:08 [INFO] CONSOLE: Stopping the server..
+2012-02-19 21:11:08 [INFO] Stopping server
+2012-02-19 21:11:08 [INFO] Saving chunks
+2012-02-19 21:11:09 [INFO] Saving chunks
+2012-02-19 21:11:09 [INFO] Saving chunks
