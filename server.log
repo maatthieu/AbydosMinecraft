@@ -25918,3 +25918,285 @@ java.lang.OutOfMemoryError: Java heap space
 2012-02-15 08:53:59 [INFO] Saving chunks
 2012-02-15 08:54:00 [INFO] Saving chunks
 2012-02-15 08:54:00 [INFO] Saving chunks
+2012-02-16 18:44:31 [INFO] Starting minecraft server version 12w07b
+2012-02-16 18:44:31 [INFO] Loading properties
+2012-02-16 18:44:31 [INFO] Starting Minecraft server on *:5050
+2012-02-16 18:44:31 [INFO] Preparing level "world"
+2012-02-16 18:44:31 [INFO] Converting map!
+2012-02-16 18:44:32 [INFO] Converting... 2%
+2012-02-16 18:44:33 [INFO] Converting... 4%
+2012-02-16 18:44:34 [INFO] Converting... 5%
+2012-02-16 18:44:35 [INFO] Converting... 6%
+2012-02-16 18:44:37 [INFO] Converting... 8%
+2012-02-16 18:44:38 [INFO] Converting... 10%
+2012-02-16 18:44:39 [INFO] Converting... 11%
+2012-02-16 18:44:40 [INFO] Converting... 13%
+2012-02-16 18:44:41 [INFO] Converting... 16%
+2012-02-16 18:44:42 [INFO] Converting... 17%
+2012-02-16 18:44:43 [INFO] Converting... 18%
+2012-02-16 18:44:44 [INFO] Converting... 20%
+2012-02-16 18:44:45 [INFO] Converting... 21%
+2012-02-16 18:44:46 [INFO] Converting... 23%
+2012-02-16 18:44:47 [INFO] Converting... 25%
+2012-02-16 18:44:48 [INFO] Converting... 44%
+2012-02-16 18:44:49 [INFO] Converting... 46%
+2012-02-16 18:44:50 [INFO] Converting... 47%
+2012-02-16 18:44:51 [INFO] Converting... 49%
+2012-02-16 18:44:53 [INFO] Converting... 50%
+2012-02-16 18:44:54 [INFO] Converting... 51%
+2012-02-16 18:44:55 [INFO] Converting... 53%
+2012-02-16 18:44:56 [INFO] Converting... 54%
+2012-02-16 18:44:57 [INFO] Converting... 56%
+2012-02-16 18:44:58 [INFO] Converting... 58%
+2012-02-16 18:44:59 [INFO] Converting... 62%
+2012-02-16 18:45:00 [INFO] Converting... 63%
+2012-02-16 18:45:02 [INFO] Converting... 71%
+2012-02-16 18:45:03 [INFO] Converting... 75%
+2012-02-16 18:45:04 [INFO] Converting... 84%
+2012-02-16 18:45:05 [INFO] Converting... 87%
+2012-02-16 18:45:06 [INFO] Converting... 89%
+2012-02-16 18:45:07 [INFO] Converting... 90%
+2012-02-16 18:45:08 [INFO] Converting... 91%
+2012-02-16 18:45:09 [INFO] Converting... 92%
+2012-02-16 18:45:10 [INFO] Converting... 93%
+2012-02-16 18:45:12 [INFO] Converting... 97%
+2012-02-16 18:45:14 [INFO] Converting... 97%
+2012-02-16 18:45:14 [INFO] Default game type: 0
+2012-02-16 18:45:14 [INFO] Preparing start region for level 0
+2012-02-16 18:45:15 [INFO] Done (43430789000ns)! For help, type "help" or "?"
+2012-02-16 18:47:13 [INFO] maatthieu [/127.0.0.1:51241] logged in with entity id 133 at (-223.86774328328627, 66.0, 475.46478610114127)
+2012-02-16 18:55:25 [INFO] Dietzer [/86.73.174.110:51621] logged in with entity id 7708 at (-15.40625, 60.0, 1994.5625)
+2012-02-16 18:55:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-16 18:55:47 [INFO] <Dietzer> Y a encoer un peu de marge
+2012-02-16 18:55:55 [INFO] <maatthieu> ouais ou alors ils me suivent
+2012-02-16 18:56:04 [INFO] <Dietzer> De qui qui te suit ?!
+2012-02-16 18:56:07 [INFO] <maatthieu> les pnj
+2012-02-16 18:56:11 [INFO] <Dietzer> ^^
+2012-02-16 18:56:40 [INFO] <Dietzer> Dodo
+2012-02-16 18:57:19 [INFO] <maatthieu> c un peu le border ce village
+2012-02-16 19:05:15 [INFO] <Dietzer> Je ne me nourris que de tranche de melon
+2012-02-16 19:05:25 [INFO] <maatthieu> cool j'irais venir t'en prednre :p
+2012-02-16 19:05:40 [INFO] <Dietzer> Pas de soucis, le probleme c'est que je ne trouve pas de lave pour le portail
+2012-02-16 19:07:00 [INFO] <Dietzer> Je déco, on va manger, ++
+2012-02-16 19:07:04 [INFO] <maatthieu> ++
+2012-02-16 19:07:25 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-16 20:06:39 [INFO] maatthieu lost connection: disconnect.quitting
+2012-02-16 20:06:46 [INFO] CONSOLE: Stopping the server..
+2012-02-16 20:06:46 [INFO] Stopping server
+2012-02-16 20:06:46 [INFO] Saving chunks
+2012-02-16 20:06:47 [INFO] Saving chunks
+2012-02-16 20:06:47 [INFO] Saving chunks
+2012-02-16 22:46:33 [INFO] Starting minecraft server version 12w07b
+2012-02-16 22:46:33 [INFO] Loading properties
+2012-02-16 22:46:33 [INFO] Starting Minecraft server on *:5050
+2012-02-16 22:46:34 [INFO] Preparing level "world"
+2012-02-16 22:46:34 [INFO] Default game type: 0
+2012-02-16 22:46:34 [INFO] Preparing start region for level 0
+2012-02-16 22:46:34 [INFO] Done (932396000ns)! For help, type "help" or "?"
+2012-02-17 16:56:09 [INFO] Dietzer [/86.73.174.110:50503] logged in with entity id 1883 at (-14.545113242962891, 63.0, 1994.0157637430095)
+2012-02-17 18:00:39 [INFO] maatthieu [/127.0.0.1:55408] logged in with entity id 34511 at (-239.04681937788325, 76.0, 537.6640824372482)
+2012-02-17 18:00:44 [INFO] <maatthieu> re
+2012-02-17 18:00:46 [INFO] <Dietzer> Re
+2012-02-17 18:01:23 [INFO] <Dietzer> J'ai creuser 5 salles de 6x6 au niveau 5 et pas une goutte de lave
+2012-02-17 18:01:33 [INFO] <maatthieu> c sec ton coin
+2012-02-17 18:02:14 [INFO] <Dietzer> Par contre j'ai de la pierre à revendre
+2012-02-17 18:02:32 [INFO] <maatthieu> tjs preneur moi g pas grand chose
+2012-02-17 18:02:34 [INFO] <Dietzer> Et pa 1 diamand non plus
+2012-02-17 18:02:37 [INFO] <maatthieu> a part du sable
+2012-02-17 18:02:57 [INFO] <maatthieu> ah si plein de clay
+2012-02-17 18:03:23 [INFO] <Dietzer> ^^
+2012-02-17 18:03:38 [INFO] <Dietzer> J'ai du faire un batiment que pour stocker la pierre
+2012-02-17 18:03:49 [INFO] <maatthieu> cool
+2012-02-17 18:05:06 [INFO] <Dietzer> Ca m'énérve, je ne peux pas créer mon portail
+2012-02-17 18:05:17 [INFO] <Dietzer> En fait j'ai de la lave mais inaccessible pour le moment
+2012-02-17 18:05:24 [INFO] <maatthieu> oki ca va vienir
+2012-02-17 18:05:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-17 18:05:50 [INFO] <Dietzer> J'espère, d'habitude je tmobe sur de la lave sans demander
+2012-02-17 18:05:52 [INFO] <Dietzer> Dodo
+2012-02-17 18:07:05 [INFO] <maatthieu> c le bordel ce village
+2012-02-17 18:07:16 [INFO] <Dietzer> Pourquoi ?!
+2012-02-17 18:07:23 [INFO] <maatthieu> c mal fichu et tt se ressemble
+2012-02-17 18:08:45 [INFO] <maatthieu> je trouve plus la masion avec le four
+2012-02-17 18:09:11 [INFO] <Dietzer> Si tu la retrouve, marque la bien
+2012-02-17 18:10:06 [INFO] <maatthieu> je laisse tomber le four ^^^
+2012-02-17 18:10:18 [INFO] <Dietzer> Arf, doit pas y avoir 36 maisons
+2012-02-17 18:10:24 [INFO] <maatthieu> faut croire que si
+2012-02-17 18:11:31 [INFO] <maatthieu> non tant pis
+2012-02-17 18:16:58 [INFO] <maatthieu> dodo
+2012-02-17 18:26:12 [INFO] <Dietzer> Yeah des diamansd et 1 bloc de lave
+2012-02-17 18:26:17 [INFO] <maatthieu> wao
+2012-02-17 18:28:04 [INFO] <maatthieu> dodo
+2012-02-17 18:28:11 [INFO] <Dietzer> Wouhou, j'ai les 4 pierres d'obsidian de la partie basse du portail
+2012-02-17 18:28:23 [INFO] <Dietzer> Euh je peux pas, t'as besoin de passer la journée ?!
+2012-02-17 18:28:27 [INFO] <maatthieu> oui
+2012-02-17 18:28:33 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-17 18:28:38 [INFO] Dietzer [/86.73.174.110:50590] logged in with entity id 69300 at (5.3000000119209405, 9.0, 1995.600274478059)
+2012-02-17 18:28:48 [INFO] <maatthieu> je travaille dehors
+2012-02-17 18:28:52 [INFO] <Dietzer> Ok
+2012-02-17 18:29:25 [INFO] <maatthieu> g vu un enderman
+2012-02-17 18:29:48 [INFO] <Dietzer> J'ai failli en tuer 1 mais il a preferer se teleporter dans leau
+2012-02-17 18:33:13 [INFO] <maatthieu> encore plein d'argile la
+2012-02-17 18:36:46 [INFO] <maatthieu> en fait c une carriere y en a trop
+2012-02-17 18:37:12 [INFO] <Dietzer> Ah ce point, pourtant je n'en ai jamais vu de trop grosse
+2012-02-17 18:37:23 [INFO] <maatthieu> la j'en laisse ca va me prendre trop de temps
+2012-02-17 18:37:30 [INFO] <maatthieu> on peut remplir un petit coffre
+2012-02-17 18:37:41 [INFO] <Dietzer> Hu!
+2012-02-17 18:37:45 [INFO] <maatthieu> ouiz
+2012-02-17 18:38:30 [INFO] <Dietzer> Je deco un petit moment
+2012-02-17 18:38:32 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-17 18:42:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-17 18:43:37 [INFO] Dietzer [/86.73.174.110:50600] logged in with entity id 85989 at (-0.4432834697123552, 14.0, 1977.2895436848244)
+2012-02-17 18:43:42 [INFO] <Dietzer> Re
+2012-02-17 18:43:58 [INFO] <maatthieu> g trouvé un truc
+2012-02-17 18:44:04 [INFO] <Dietzer> Du genre ?!
+2012-02-17 18:44:11 [INFO] <maatthieu> tu ssprint et tu restes appuyer sur espace
+2012-02-17 18:44:34 [INFO] <Dietzer> Et ?!
+2012-02-17 18:44:37 [INFO] <maatthieu> tu avances vite
+2012-02-17 18:44:50 [INFO] <maatthieu> j y go contour de la ville ok ^^
+2012-02-17 18:44:57 [INFO] <Dietzer> oki ^
+2012-02-17 18:45:03 [INFO] maatthieu lost connection: disconnect.quitting
+2012-02-17 18:47:46 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-17 21:13:34 [INFO] CONSOLE: Stopping the server..
+2012-02-17 21:13:34 [INFO] Stopping server
+2012-02-17 21:13:34 [INFO] Saving chunks
+2012-02-17 21:13:35 [INFO] Saving chunks
+2012-02-17 21:13:35 [INFO] Saving chunks
+2012-02-17 23:45:41 [INFO] Starting minecraft server version 12w07b
+2012-02-17 23:45:41 [INFO] Loading properties
+2012-02-17 23:45:41 [INFO] Starting Minecraft server on *:5050
+2012-02-17 23:45:41 [INFO] Preparing level "world"
+2012-02-17 23:45:41 [INFO] Default game type: 0
+2012-02-17 23:45:41 [INFO] Preparing start region for level 0
+2012-02-17 23:45:42 [INFO] Done (802535000ns)! For help, type "help" or "?"
+2012-02-17 23:55:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-18 07:09:32 [INFO] Dietzer [/86.73.174.110:50227] logged in with entity id 837 at (-3.4171073828387284, 15.0, 1986.7543813900616)
+2012-02-18 07:44:37 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-18 10:33:51 [INFO] CONSOLE: Stopping the server..
+2012-02-18 10:33:51 [INFO] Stopping server
+2012-02-18 10:33:51 [INFO] Saving chunks
+2012-02-18 10:33:51 [INFO] Saving chunks
+2012-02-18 10:33:51 [INFO] Saving chunks
+2012-02-18 10:33:55 [INFO] Starting minecraft server version 12w07b
+2012-02-18 10:33:55 [INFO] Loading properties
+2012-02-18 10:33:55 [INFO] Starting Minecraft server on *:5050
+2012-02-18 10:33:55 [INFO] Preparing level "world"
+2012-02-18 10:33:55 [INFO] Default game type: 0
+2012-02-18 10:33:55 [INFO] Preparing start region for level 0
+2012-02-18 10:33:55 [INFO] Done (685177000ns)! For help, type "help" or "?"
+2012-02-18 13:29:46 [INFO] Dietzer [/86.73.174.110:50912] logged in with entity id 412 at (-14.59375, 63.0, 1994.09375)
+2012-02-18 14:01:57 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-18 14:14:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-18 14:58:41 [INFO] maatthieu [/127.0.0.1:53071] logged in with entity id 17245 at (-241.375, 76.0, 539.78125)
+2012-02-18 14:58:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-18 15:05:08 [INFO] maatthieu lost connection: disconnect.quitting
+2012-02-18 16:35:02 [INFO] Dietzer [/86.73.174.110:49377] logged in with entity id 21711 at (-13.49973517958525, 63.0, 1995.2240138069462)
+2012-02-18 16:35:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-18 16:38:41 [INFO] maatthieu [/127.0.0.1:54107] logged in with entity id 23684 at (-239.625, 76.0, 537.90625)
+2012-02-18 16:40:03 [INFO] <maatthieu> re
+2012-02-18 16:40:05 [INFO] <Dietzer> Re
+2012-02-18 16:40:15 [INFO] <maatthieu> je vais pas rester gouter + mario party
+2012-02-18 16:40:20 [INFO] <Dietzer> ^^
+2012-02-18 16:40:28 [INFO] <maatthieu> et la y a creeper dans le village
+2012-02-18 16:40:46 [INFO] <Dietzer> Je croyais que tu l'avais proteger le village ?!
+2012-02-18 16:40:46 [INFO] <maatthieu> les pnj sont dehors et bougent pas
+2012-02-18 16:40:59 [INFO] <maatthieu> j'ais pas fini et y as pas de lumiere dans le village
+2012-02-18 16:41:03 [INFO] <maatthieu> c pour quand marie laure?
+2012-02-18 16:41:04 [INFO] <Dietzer> Ok
+2012-02-18 16:41:19 [INFO] <Dietzer> Normalement le 16 avril, et on a trouvé le prénom
+2012-02-18 16:43:03 [INFO] <maatthieu> ah un arbre a poussé
+2012-02-18 16:43:17 [INFO] <maatthieu> c koi le prenom?
+2012-02-18 16:43:21 [INFO] <Dietzer> Alexis
+2012-02-18 16:43:27 [INFO] <maatthieu> c joli
+2012-02-18 16:46:10 [INFO] <maatthieu> odod
+2012-02-18 16:46:24 [INFO] <Dietzer> T'es au lit là ?!
+2012-02-18 16:46:26 [INFO] <maatthieu> oui
+2012-02-18 16:46:28 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-18 16:46:32 [INFO] Dietzer [/86.73.174.110:49388] logged in with entity id 32671 at (-15.096574034117761, 42.0, 1997.699999988079)
+2012-02-18 16:49:46 [INFO] <maatthieu> y a de l'herbe dans une maison
+2012-02-18 16:50:19 [INFO] <Dietzer> Ils ne savent pas faire le ménage ses villageois
+2012-02-18 16:50:35 [INFO] <maatthieu> ben le sol de lamaison c du dirt aussi
+2012-02-18 16:50:41 [INFO] <Dietzer> Ah ok
+2012-02-18 16:51:36 [INFO] <maatthieu> g retrouvé mon four :p
+2012-02-18 16:51:51 [INFO] <Dietzer> Lol, marque la maison
+2012-02-18 16:52:00 [INFO] <maatthieu> mieux g pris le four
+2012-02-18 16:52:03 [INFO] <Dietzer> ...
+2012-02-18 16:52:26 [INFO] <Dietzer> Ils vont peut etre en reconstruire 1
+2012-02-18 16:52:35 [INFO] <maatthieu> non je lvais mis
+2012-02-18 16:52:40 [INFO] <Dietzer> Ah ok
+2012-02-18 16:52:47 [INFO] <maatthieu> y a 2 ateliers dans le village que j'ai pas mis
+2012-02-18 16:53:00 [INFO] <Dietzer> 2 ateliers et pas 1 four
+2012-02-18 16:53:06 [INFO] <maatthieu> non
+2012-02-18 16:53:14 [INFO] <maatthieu> mais g peut etre pas fait ttes les maison
+2012-02-18 16:53:29 [INFO] <Dietzer> 10 niveaus d'xp
+2012-02-18 16:53:31 [INFO] <maatthieu> j y go ++
+2012-02-18 16:53:34 [INFO] <maatthieu> ^^
+2012-02-18 16:53:35 [INFO] <Dietzer> ++
+2012-02-18 16:53:37 [INFO] maatthieu lost connection: disconnect.quitting
+2012-02-18 16:57:34 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-18 18:21:16 [INFO] maatthieu [/127.0.0.1:54418] logged in with entity id 42926 at (-238.3125, 74.0, 538.28125)
+2012-02-18 18:21:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-18 18:23:19 [INFO] Dietzer [/86.73.174.110:49591] logged in with entity id 44562 at (-85.67559083984192, 26.0, 2016.300000011921)
+2012-02-18 18:23:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-18 18:23:24 [INFO] <Dietzer> Re
+2012-02-18 18:23:29 [INFO] <maatthieu> re
+2012-02-18 18:23:57 [INFO] <Dietzer> Je suis en train de bien la vidée la mine
+2012-02-18 18:24:02 [INFO] <maatthieu> de lave?
+2012-02-18 18:24:25 [INFO] <Dietzer> Euh non, de ses ressources naturelles, la lave je n'ai reussi a avoir que 6 blocs d'obsidian
+2012-02-18 18:32:27 [INFO] <Dietzer> Dodo
+2012-02-18 18:32:36 [INFO] <maatthieu> c bon
+2012-02-18 18:39:33 [INFO] <Dietzer> Wouhou, un bloc de lave
+2012-02-18 18:39:41 [INFO] <maatthieu> la galere
+2012-02-18 18:40:13 [INFO] <Dietzer> Ogénial, y a plein de lave en bas, mais la moitié a tourner en obsidian, y a une fuite d'eau
+2012-02-18 18:40:20 [INFO] <maatthieu> ^^
+2012-02-18 18:41:19 [INFO] <maatthieu> j y go
+2012-02-18 18:41:22 [INFO] <Dietzer> Ok ++
+2012-02-18 18:41:35 [INFO] <maatthieu> la muraille avance ^^
+2012-02-18 18:41:45 [INFO] maatthieu lost connection: disconnect.quitting
+2012-02-18 18:41:46 [INFO] <Dietzer> Ben c'est cool et tu eclaire ?!
+2012-02-18 18:42:13 [INFO] [CONSOLE] c en cours
+2012-02-18 18:42:17 [INFO] <Dietzer> Ok
+2012-02-18 18:42:21 [INFO] Unknown console command. Type "help" for help.
+2012-02-18 18:42:25 [INFO] [CONSOLE] manque de charbon
+2012-02-18 18:44:06 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-18 21:33:48 [INFO] CONSOLE: Stopping the server..
+2012-02-18 21:33:48 [INFO] Stopping server
+2012-02-18 21:33:48 [INFO] Saving chunks
+2012-02-18 21:33:48 [INFO] Saving chunks
+2012-02-18 21:33:48 [INFO] Saving chunks
+2012-02-19 10:52:57 [INFO] Starting minecraft server version 12w07b
+2012-02-19 10:52:57 [INFO] Loading properties
+2012-02-19 10:52:57 [INFO] Starting Minecraft server on *:5050
+2012-02-19 10:52:57 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (No such file or directory)
+2012-02-19 10:52:57 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (No such file or directory)
+2012-02-19 10:52:57 [INFO] Preparing level "world"
+2012-02-19 10:52:57 [INFO] Default game type: 0
+2012-02-19 10:52:58 [INFO] Preparing start region for level 0
+2012-02-19 10:52:59 [INFO] Preparing spawn area: 0%
+2012-02-19 10:53:00 [INFO] Preparing spawn area: 4%
+2012-02-19 10:53:01 [INFO] Preparing spawn area: 16%
+2012-02-19 10:53:02 [INFO] Preparing spawn area: 28%
+2012-02-19 10:53:03 [INFO] Preparing spawn area: 48%
+2012-02-19 10:53:04 [INFO] Preparing spawn area: 57%
+2012-02-19 10:53:05 [INFO] Preparing spawn area: 73%
+2012-02-19 10:53:06 [INFO] Preparing spawn area: 89%
+2012-02-19 10:53:06 [INFO] Done (9184725000ns)! For help, type "help" or "?"
+2012-02-19 10:54:02 [INFO] Dietzer [/86.73.174.110:52158] logged in with entity id 131 at (11.161558649435714, 38.0, 2019.3371956976503)
+2012-02-19 11:04:36 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-19 11:04:39 [INFO] Dietzer [/86.73.174.110:52270] logged in with entity id 5375 at (-18.083884252331703, 63.0, 2014.8238235762847)
+2012-02-19 11:19:17 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-19 11:34:47 [INFO] Dietzer [/86.73.174.110:54012] logged in with entity id 11229 at (25.814422413282365, 12.0, 1978.5112650793644)
+2012-02-19 12:08:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-19 12:15:28 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-19 14:49:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-19 14:49:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-19 15:36:30 [INFO] maatthieu [/127.0.0.1:51327] logged in with entity id 33284 at (-237.2318761024843, 76.0, 539.8387516446134)
+2012-02-19 15:36:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-19 16:05:44 [INFO] maatthieu lost connection: disconnect.quitting
+2012-02-19 17:49:31 [INFO] Dietzer [/86.73.174.110:49487] logged in with entity id 56175 at (-12.976488038675413, 63.0, 2004.538476010171)
+2012-02-19 17:52:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-19 18:09:18 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-19 20:33:58 [INFO] CONSOLE: Stopping the server..
+2012-02-19 20:33:58 [INFO] Stopping server
+2012-02-19 20:33:58 [INFO] Saving chunks
+2012-02-19 20:33:58 [INFO] Saving chunks
+2012-02-19 20:33:58 [INFO] Saving chunks
