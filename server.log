@@ -26226,3 +26226,517 @@ java.lang.OutOfMemoryError: Java heap space
 2012-02-19 21:11:08 [INFO] Saving chunks
 2012-02-19 21:11:09 [INFO] Saving chunks
 2012-02-19 21:11:09 [INFO] Saving chunks
+2012-02-19 22:27:22 [INFO] Starting minecraft server version 12w07b
+2012-02-19 22:27:22 [INFO] Loading properties
+2012-02-19 22:27:22 [INFO] Starting Minecraft server on *:5050
+2012-02-19 22:27:22 [INFO] Preparing level "world"
+2012-02-19 22:27:22 [INFO] Default game type: 0
+2012-02-19 22:27:22 [INFO] Preparing start region for level 0
+2012-02-19 22:27:22 [INFO] Done (731670000ns)! For help, type "help" or "?"
+2012-02-19 22:29:23 [INFO] CONSOLE: Stopping the server..
+2012-02-19 22:29:23 [INFO] Stopping server
+2012-02-19 22:29:23 [INFO] Saving chunks
+2012-02-19 22:29:23 [INFO] Saving chunks
+2012-02-19 22:29:23 [INFO] Saving chunks
+2012-02-19 22:29:33 [INFO] Starting minecraft server version 12w07b
+2012-02-19 22:29:33 [INFO] Loading properties
+2012-02-19 22:29:33 [INFO] Starting Minecraft server on *:5050
+2012-02-19 22:29:33 [INFO] Preparing level "world"
+2012-02-19 22:29:33 [INFO] Default game type: 0
+2012-02-19 22:29:33 [INFO] Preparing start region for level 0
+2012-02-19 22:29:33 [INFO] Done (558945000ns)! For help, type "help" or "?"
+2012-02-19 22:29:42 [INFO] maatthieu [/127.0.0.1:55540] logged in with entity id 127 at (-239.60273101604764, 69.0, 538.8323724969459)
+2012-02-19 23:05:01 [INFO] maatthieu issued server command: flight
+2012-02-19 23:05:01 [INFO] Unknown console command. Type "help" for help.
+2012-02-19 23:05:05 [INFO] maatthieu issued server command: roefef
+2012-02-19 23:05:05 [INFO] Unknown console command. Type "help" for help.
+2012-02-19 23:05:10 [INFO] maatthieu issued server command: flight on
+2012-02-19 23:05:10 [INFO] Unknown console command. Type "help" for help.
+2012-02-19 23:06:03 [INFO] maatthieu lost connection: disconnect.quitting
+2012-02-19 23:06:47 [INFO] CONSOLE: Stopping the server..
+2012-02-19 23:06:47 [INFO] Stopping server
+2012-02-19 23:06:47 [INFO] Saving chunks
+2012-02-19 23:06:47 [INFO] Saving chunks
+2012-02-19 23:06:47 [INFO] Saving chunks
+2012-02-20 18:24:06 [INFO] Starting minecraft server version 12w07b
+2012-02-20 18:24:06 [INFO] Loading properties
+2012-02-20 18:24:07 [INFO] Starting Minecraft server on *:5050
+2012-02-20 18:24:07 [INFO] Preparing level "world"
+2012-02-20 18:24:07 [INFO] Default game type: 0
+2012-02-20 18:24:07 [INFO] Preparing start region for level 0
+2012-02-20 18:24:08 [INFO] Preparing spawn area: 52%
+2012-02-20 18:24:09 [INFO] Preparing spawn area: 93%
+2012-02-20 18:24:09 [INFO] Done (2453558000ns)! For help, type "help" or "?"
+2012-02-20 18:25:33 [INFO] Dietzer [/86.73.174.110:53039] logged in with entity id 130 at (-9.284607458395271, 59.0, 234.30000001192093)
+2012-02-20 18:25:44 [INFO] maatthieu [/127.0.0.1:49262] logged in with entity id 236 at (-223.75, 71.0, 545.5625)
+2012-02-20 18:26:07 [INFO] maatthieu issued server command: list
+2012-02-20 18:26:09 [INFO] <maatthieu> dodo
+2012-02-20 18:26:12 [INFO] <Dietzer> Hi!
+2012-02-20 18:26:15 [INFO] <maatthieu> hi
+2012-02-20 18:26:22 [INFO] <Dietzer> Je suis dans le Nether, ça devrait passer
+2012-02-20 18:26:27 [INFO] <maatthieu> oki oui
+2012-02-20 18:26:49 [INFO] <Dietzer> Il me faut les coordonnées exactes du portail que j'y fasse une route
+2012-02-20 18:26:55 [INFO] <maatthieu> oki
+2012-02-20 18:29:10 [INFO] <Dietzer> T'en ai loin du portail ?!
+2012-02-20 18:29:16 [INFO] <maatthieu> 5mn
+2012-02-20 18:29:25 [INFO] <Dietzer> Ah ouais quand même
+2012-02-20 18:29:26 [INFO] <maatthieu> me suis trompé de cote :p
+2012-02-20 18:29:29 [INFO] <Dietzer> ...
+2012-02-20 18:30:17 [INFO] <Dietzer> Tout comme le premier portail je suis dans une grotte fermée
+2012-02-20 18:30:28 [INFO] <maatthieu> ton y?
+2012-02-20 18:30:42 [INFO] <Dietzer> 60
+2012-02-20 18:30:47 [INFO] <maatthieu> ca va
+2012-02-20 18:31:40 [INFO] <Dietzer> Oui je ne suis pas sous la lave au moins
+2012-02-20 18:32:23 [INFO] <Dietzer> Je reste dans le Nether mais je m'absente 5 min
+2012-02-20 18:32:27 [INFO] <maatthieu> 2s
+2012-02-20 18:32:36 [INFO] <maatthieu> x -3
+2012-02-20 18:32:40 [INFO] <maatthieu> y 11
+2012-02-20 18:32:44 [INFO] <maatthieu> z 6
+2012-02-20 18:36:34 [INFO] <Dietzer> Re
+2012-02-20 18:36:38 [INFO] <Dietzer> Ok
+2012-02-20 18:36:43 [INFO] <maatthieu> re
+2012-02-20 18:37:14 [INFO] <Dietzer> C'est noté, va falloir creuser vers le bas
+2012-02-20 18:42:15 [INFO] <Dietzer> Je suis en -3 11 180, c'est partie pour la ligne droite
+2012-02-20 18:42:30 [INFO] <maatthieu> ca fait une tour ^^
+2012-02-20 18:42:44 [INFO] <Dietzer> Une tour ?!
+2012-02-20 18:44:12 [INFO] <maatthieu> oui comme tu descend
+2012-02-20 18:44:18 [INFO] <Dietzer> ^^
+2012-02-20 18:44:28 [INFO] <Dietzer> 115
+2012-02-20 18:45:28 [INFO] <Dietzer> 74, heuresement que j'ai un atelier et de quoi faire des pioches
+2012-02-20 18:45:33 [INFO] <maatthieu> ^^
+2012-02-20 18:46:03 [INFO] <Dietzer> Oh une grotte
+2012-02-20 18:48:44 [INFO] <Dietzer> Yeah, j'y suis
+2012-02-20 18:48:55 [INFO] <maatthieu> bon je vais faire plein de torches et quadriller le village ^^
+2012-02-20 18:49:23 [INFO] <Dietzer> J'arrrive
+2012-02-20 18:49:33 [INFO] <maatthieu> je sui pas la 5mn de marche encore ^^
+2012-02-20 18:49:59 [INFO] <Dietzer> Ben j'irais au prochain lever de soleil, donne les coordonnées stp
+2012-02-20 18:50:17 [INFO] <maatthieu> c le debut de la journée
+2012-02-20 18:50:28 [INFO] <Dietzer> Bon j'arrive, donne les coord
+2012-02-20 18:50:29 [INFO] <maatthieu> x -240 z 540
+2012-02-20 18:50:33 [INFO] <Dietzer> Ok
+2012-02-20 18:50:48 [INFO] <maatthieu> sinon a pate direction a gauche en sortant de la base
+2012-02-20 18:50:55 [INFO] <maatthieu> direction le desert et la tour
+2012-02-20 18:50:57 [INFO] <Dietzer> Ben je suis a pate
+2012-02-20 18:51:24 [INFO] <maatthieu> apres la tour depuis la base direction 2h traverser le champ de neige et village
+2012-02-20 18:53:05 [INFO] <maatthieu> ca va
+2012-02-20 18:53:30 [INFO] <Dietzer> Jeramene des steacks
+2012-02-20 18:53:40 [INFO] <maatthieu> y a du monde sur la route c bon signe ^^
+2012-02-20 18:53:48 [INFO] <Dietzer> Y avait du monde
+2012-02-20 18:54:26 [INFO] <maatthieu> pas de chance
+2012-02-20 18:54:32 [INFO] <Dietzer> Pas trop non
+2012-02-20 18:54:37 [INFO] <maatthieu> tu tombes dans le seul trou ^^
+2012-02-20 18:54:43 [INFO] <maatthieu> coool
+2012-02-20 18:54:52 [INFO] <Dietzer> Il est ou le four ?!
+2012-02-20 18:54:57 [INFO] <maatthieu> regarde le bordel dans le village
+2012-02-20 18:55:00 [INFO] <maatthieu> la grosse tour
+2012-02-20 18:55:01 [INFO] <Dietzer> Ok
+2012-02-20 18:55:26 [INFO] <maatthieu> je vais tout monter le nivo du village a 65
+2012-02-20 18:56:24 [INFO] <Dietzer> Oui  c'est pas au point la création de village
+2012-02-20 18:56:35 [INFO] <maatthieu> oui ^^
+2012-02-20 18:56:41 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-20 18:57:06 [INFO] /86.73.174.110:53054 lost connection
+2012-02-20 18:57:13 [INFO] Dietzer [/86.73.174.110:53058] logged in with entity id 40068 at (-226.09899025694062, 65.0, 545.2249570295858)
+2012-02-20 18:57:25 [INFO] <Dietzer> Désolé, y a une partie qui ne chargeait pas
+2012-02-20 18:59:05 [INFO] <maatthieu> y a rien au fond
+2012-02-20 18:59:09 [INFO] <Dietzer> T'as été voir dans le puit ?!
+2012-02-20 18:59:11 [INFO] <Dietzer> Ok
+2012-02-20 18:59:15 [INFO] <maatthieu> ah y a qu'un lit mais y a de la laine
+2012-02-20 18:59:25 [INFO] <Dietzer> Nan je déconnecterai
+2012-02-20 18:59:37 [INFO] <maatthieu> tu veux entendre les zolbes tapé au porte
+2012-02-20 18:59:42 [INFO] <Dietzer> ^^
+2012-02-20 19:00:14 [INFO] <maatthieu> enfin avec les lumieres va avoir moins de monde
+2012-02-20 19:00:32 [INFO] <Dietzer> C'est pas non plus les champs élysées
+2012-02-20 19:00:40 [INFO] <maatthieu> non a part les champs :p
+2012-02-20 19:00:45 [INFO] <Dietzer> ...
+2012-02-20 19:01:18 [INFO] <maatthieu> bon y a plus rien :p
+2012-02-20 19:01:25 [INFO] <Dietzer> :D
+2012-02-20 19:01:47 [INFO] <maatthieu> je fais dodo
+2012-02-20 19:01:51 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-20 19:02:00 [INFO] Dietzer [/86.73.174.110:53064] logged in with entity id 42839 at (-239.4285485589053, 69.0, 540.5749999880791)
+2012-02-20 19:02:13 [INFO] <Dietzer> Je retourne dans le Nether
+2012-02-20 19:02:28 [INFO] <maatthieu> oki
+2012-02-20 19:03:02 [INFO] <Dietzer> Tu devrait construire un portail dans le village
+2012-02-20 19:04:06 [INFO] <maatthieu> oui mais faut de la lave
+2012-02-20 19:04:37 [INFO] <Dietzer> Pas forcement, je vais me faire une table d'enchentement, donc recuperer de l'obsidian, donc creer
+2012-02-20 19:04:49 [INFO] <Dietzer> une pioche en diamant, je peux te prendre de l'obsidian en plus
+2012-02-20 19:04:57 [INFO] <maatthieu> ah je veux bien
+2012-02-20 19:05:16 [INFO] <Dietzer> Ah mais je n'avais pas vu ta tour en verre
+2012-02-20 19:05:36 [INFO] <Dietzer> Putain, t'en a du sable
+2012-02-20 19:05:42 [INFO] <maatthieu> oui
+2012-02-20 19:05:59 [INFO] <maatthieu> j'aime bien le verre
+2012-02-20 19:06:17 [INFO] <Dietzer> Moi aussi, mais ce n'est pas résistant et on ne peut rien poser dessus ou contre
+2012-02-20 19:06:40 [INFO] <maatthieu> ouais mais les demi dalles de verres c pas cher et sympa
+2012-02-20 19:06:52 [INFO] <Dietzer> Pas pour les plafonds
+2012-02-20 19:06:57 [INFO] <maatthieu> ouio bien sur
+2012-02-20 19:08:13 [INFO] <Dietzer> Voilà, retour dans le Nether
+2012-02-20 19:08:44 [INFO] <Dietzer> Et une pépite d'or
+2012-02-20 19:09:00 [INFO] <maatthieu> ne tue pas les pigmen ils vont nous tuer apres :p
+2012-02-20 19:09:07 [INFO] <Dietzer> Meuh non
+2012-02-20 19:10:09 [INFO] <maatthieu> font chié les ONJ
+2012-02-20 19:10:15 [INFO] <maatthieu> PNJ
+2012-02-20 19:10:21 [INFO] <Dietzer> :D pourquoi ?!
+2012-02-20 19:10:26 [INFO] <maatthieu> me bloque
+2012-02-20 19:10:39 [INFO] <maatthieu> me suive aussi
+2012-02-20 19:10:48 [INFO] <Dietzer> Tu t'es fait des potes
+2012-02-20 19:19:56 [INFO] <Dietzer> Bon je déco, on va manger, @+
+2012-02-20 19:20:03 [INFO] <maatthieu> ++
+2012-02-20 19:20:07 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-20 19:32:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-20 19:47:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-20 19:48:36 [INFO] maatthieu lost connection: disconnect.quitting
+2012-02-20 19:49:21 [INFO] CONSOLE: Stopping the server..
+2012-02-20 19:49:21 [INFO] Stopping server
+2012-02-20 19:49:21 [INFO] Saving chunks
+2012-02-20 19:49:21 [INFO] Saving chunks
+2012-02-20 19:49:21 [INFO] Saving chunks
+2012-02-21 18:14:53 [INFO] Starting minecraft server version 12w07b
+2012-02-21 18:14:53 [INFO] Loading properties
+2012-02-21 18:14:53 [INFO] Starting Minecraft server on *:5050
+2012-02-21 18:14:53 [INFO] Preparing level "world"
+2012-02-21 18:14:53 [INFO] Default game type: 0
+2012-02-21 18:14:53 [INFO] Preparing start region for level 0
+2012-02-21 18:14:54 [INFO] Done (861365000ns)! For help, type "help" or "?"
+2012-02-21 18:15:52 [INFO] maatthieu [/127.0.0.1:49283] logged in with entity id 123 at (-239.5, 69.0, 538.5)
+2012-02-21 18:33:23 [INFO] Dietzer [/86.73.174.110:51195] logged in with entity id 11547 at (-8.625, 63.0, 2003.9375)
+2012-02-21 18:33:27 [INFO] <Dietzer> Re
+2012-02-21 18:33:27 [INFO] <maatthieu> hi
+2012-02-21 18:34:34 [INFO] <Dietzer> Je vais te récupérer ton obsidian
+2012-02-21 18:36:32 [INFO] <maatthieu> cool
+2012-02-21 18:37:17 [INFO] <Dietzer> Ah ah, j'aurais du prévoir un seau d'eau
+2012-02-21 18:37:49 [INFO] <Dietzer> Dodo
+2012-02-21 18:38:02 [INFO] <maatthieu> c bio
+2012-02-21 18:38:20 [INFO] <Dietzer> Oui un lit en laine naturel c'est bio
+2012-02-21 18:38:30 [INFO] <maatthieu> ^^
+2012-02-21 18:47:45 [INFO] <Dietzer> Cool j'ai une tour à mobs naturelle
+2012-02-21 18:47:49 [INFO] <maatthieu> cool
+2012-02-21 18:48:17 [INFO] <Dietzer> Et voilà, 18 obsidian, 14 pour toi et 4 pour ma table
+2012-02-21 18:48:29 [INFO] <maatthieu> y a pas d'escalier en pierre lisse?
+2012-02-21 18:48:45 [INFO] <Dietzer> Hélas non, j'avais prévu de les faire en bois dans le Nether
+2012-02-21 18:49:09 [INFO] <Dietzer> Mais tu viens chez moi là ?!
+2012-02-21 18:49:20 [INFO] <maatthieu> comme tu veux
+2012-02-21 18:49:30 [INFO] <maatthieu> dodo
+2012-02-21 18:49:38 [INFO] <maatthieu> mais je pense venir ouais je verrais
+2012-02-21 18:49:40 [INFO] <maatthieu> ton oeuvre
+2012-02-21 18:49:46 [INFO] <Dietzer> Ben oui, comme ça tu verras mon royaume, par contre j'ai pas eu le temps de faire un gateau
+2012-02-21 18:49:52 [INFO] <maatthieu> ^^
+2012-02-21 18:51:37 [INFO] <maatthieu> j'arrive
+2012-02-21 18:51:40 [INFO] <Dietzer> Ok
+2012-02-21 18:55:11 [INFO] <Dietzer> T'es bientot là ?!
+2012-02-21 18:55:16 [INFO] <maatthieu> bientot nether
+2012-02-21 18:55:21 [INFO] <Dietzer> Ok
+2012-02-21 18:55:47 [INFO] <maatthieu> nether
+2012-02-21 18:55:57 [INFO] <Dietzer> Bon t'es bientôt là alors
+2012-02-21 18:56:35 [INFO] <maatthieu> c par ou dans le nether?
+2012-02-21 18:56:43 [INFO] <Dietzer> Tu suis la route pavée
+2012-02-21 18:58:52 [INFO] <maatthieu> je suis la
+2012-02-21 18:59:03 [INFO] <maatthieu> pavé de fleurs
+2012-02-21 18:59:18 [INFO] <Dietzer> Oui j'ai voulu faire beau
+2012-02-21 18:59:19 [INFO] <maatthieu> mes premieres pasteques
+2012-02-21 18:59:27 [INFO] <maatthieu> tres chouette
+2012-02-21 18:59:29 [INFO] <Dietzer> ^^
+2012-02-21 18:59:46 [INFO] <maatthieu> merci
+2012-02-21 18:59:50 [INFO] <Dietzer> De rien
+2012-02-21 18:59:51 [INFO] <maatthieu> y a 2 lits?
+2012-02-21 18:59:56 [INFO] <Dietzer> Non
+2012-02-21 19:00:04 [INFO] <maatthieu> j'rias dans le nether
+2012-02-21 19:00:07 [INFO] <Dietzer> Ok
+2012-02-21 19:00:25 [INFO] <Dietzer> A gauche, c'est la reserve, a droite l'atelier et l'entree de la mine
+2012-02-21 19:00:26 [INFO] <maatthieu> tu fais que la mine pour le moment?
+2012-02-21 19:00:39 [INFO] <maatthieu> plein de cochon ^^
+2012-02-21 19:00:43 [INFO] <Dietzer> Ben j'ai pas mal vidée la mine abandonnée
+2012-02-21 19:00:51 [INFO] <Dietzer> Dodo
+2012-02-21 19:01:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:01:05 [INFO] <Dietzer> C'est bon
+2012-02-21 19:01:08 [INFO] <maatthieu> desolé pour les fleurs ^^
+2012-02-21 19:01:13 [INFO] <Dietzer> ...
+2012-02-21 19:01:37 [INFO] <maatthieu> t'en a des fence ta bien trouvé une mine ^^
+2012-02-21 19:01:40 [INFO] <Dietzer> Donc tu as pu admirer mon petit parc à cochon et la j'ai mon mini potager
+2012-02-21 19:01:53 [INFO] <Dietzer> Prends en si tu veux, ça ne me sert pas pour le moment
+2012-02-21 19:01:55 [INFO] <maatthieu> bon stock de pasteque
+2012-02-21 19:02:35 [INFO] <Dietzer> Et encore t'as pas vu ma réserve à minéraux
+2012-02-21 19:02:38 [INFO] <maatthieu> g pris de la pasteque un peu, des fences et du cobble stone
+2012-02-21 19:02:42 [INFO] <Dietzer> Ok
+2012-02-21 19:02:48 [INFO] <Dietzer> Nan ici
+2012-02-21 19:02:57 [INFO] <maatthieu> ca va^^
+2012-02-21 19:03:02 [INFO] <Dietzer> Derriere
+2012-02-21 19:03:09 [INFO] <maatthieu> wao
+2012-02-21 19:03:21 [INFO] <maatthieu> ca va c klr
+2012-02-21 19:03:25 [INFO] <Dietzer> ^^
+2012-02-21 19:03:29 [INFO] <maatthieu> je peux te prendre un peu de charbon ?
+2012-02-21 19:03:40 [INFO] <Dietzer> Oui vas y
+2012-02-21 19:03:49 [INFO] <maatthieu> ca fait peur la mine comme ca
+2012-02-21 19:04:02 [INFO] <Dietzer> Nan ça va, j'ai meme aménager tout en bas
+2012-02-21 19:04:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:04:19 [INFO] <maatthieu> voila
+2012-02-21 19:04:22 [INFO] <Dietzer> Double boulette
+2012-02-21 19:04:27 [INFO] maatthieu issued server command: tp maatthieu dietzer
+2012-02-21 19:04:27 [INFO] maatthieu: Teleporting maatthieu to dietzer.
+2012-02-21 19:05:03 [INFO] <maatthieu> tout ce que je voulais pas qui arrive ^^
+2012-02-21 19:05:53 [INFO] <maatthieu> manque les pasteques 10
+2012-02-21 19:05:54 [INFO] <Dietzer> C'est tout non ?!
+2012-02-21 19:06:01 [INFO] <Dietzer> Tu en avais vombien ?!
+2012-02-21 19:06:05 [INFO] <maatthieu> 10
+2012-02-21 19:06:19 [INFO] <maatthieu> vive l'inflation
+2012-02-21 19:06:22 [INFO] <Dietzer> ^^
+2012-02-21 19:06:33 [INFO] <Dietzer> Tu as tout là ?!
+2012-02-21 19:06:42 [INFO] <maatthieu> ouais car le charbon j'allais le prendre
+2012-02-21 19:06:46 [INFO] <Dietzer> Ok
+2012-02-21 19:06:53 [INFO] <Dietzer> J'ai perdu 5 niveaux
+2012-02-21 19:07:10 [INFO] <maatthieu> moi 6
+2012-02-21 19:07:34 [INFO] <maatthieu> ca donnera koi la?
+2012-02-21 19:07:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:08:07 [INFO] <Dietzer> Je ne sais pas, je me focus que sur une moitié, surement les champs et le parc a bestiole
+2012-02-21 19:09:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:09:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:09:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:10:16 [INFO] <maatthieu> oki
+2012-02-21 19:10:25 [INFO] <maatthieu> je sui a la base j'attend la nuit et go to the village
+2012-02-21 19:10:47 [INFO] <maatthieu> faudra me donner les coordonnées du tunnel
+2012-02-21 19:10:47 [INFO] <Dietzer> Oki, quand tu auras construit le portail, indique moi ses coordonnees dans le Nether
+2012-02-21 19:11:03 [INFO] <Dietzer> Tu n'as quasiment rien pris comme charbon
+2012-02-21 19:11:09 [INFO] <maatthieu> 64 c pas mal
+2012-02-21 19:11:26 [INFO] <Dietzer> Tu as vu tout ce que j'ai, je n'utilise que le charbon de bois moi ^^
+2012-02-21 19:11:38 [INFO] <maatthieu> apres avec un grand atelier on fera un fondu de sable en masse
+2012-02-21 19:11:45 [INFO] <Dietzer> ^^
+2012-02-21 19:11:48 [INFO] <maatthieu> ou de pierre pour faire des constructions importantes
+2012-02-21 19:11:54 [INFO] <maatthieu> la c les fioritures
+2012-02-21 19:11:58 [INFO] <Dietzer> Dodo
+2012-02-21 19:11:59 [INFO] <maatthieu> dodo
+2012-02-21 19:14:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:15:17 [INFO] <Dietzer> Bon je vais te laisser, les pizzas sont arrivées ++ et bon app
+2012-02-21 19:15:21 [INFO] <maatthieu> ++
+2012-02-21 19:15:24 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-21 19:18:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:19:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:21:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:23:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:24:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:28:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:29:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:30:16 [INFO] maatthieu lost connection: disconnect.endOfStream
+2012-02-21 19:30:49 [INFO] CONSOLE: Stopping the server..
+2012-02-21 19:30:49 [INFO] Stopping server
+2012-02-21 19:30:49 [INFO] Saving chunks
+2012-02-21 19:30:49 [INFO] Saving chunks
+2012-02-21 19:30:49 [INFO] Saving chunks
+2012-02-21 19:30:55 [INFO] Starting minecraft server version 12w07b
+2012-02-21 19:30:55 [INFO] Loading properties
+2012-02-21 19:30:55 [INFO] Starting Minecraft server on *:5050
+2012-02-21 19:30:56 [INFO] Preparing level "world"
+2012-02-21 19:30:56 [INFO] Default game type: 0
+2012-02-21 19:30:56 [INFO] Preparing start region for level 0
+2012-02-21 19:30:57 [INFO] Done (1166040000ns)! For help, type "help" or "?"
+2012-02-21 19:31:29 [INFO] maatthieu [/127.0.0.1:49573] logged in with entity id 123 at (-1.0625, 10.0, 6.375)
+2012-02-21 19:31:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 19:32:05 [INFO] maatthieu lost connection: disconnect.quitting
+2012-02-21 19:52:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 20:14:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 20:55:27 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-21 20:55:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-22 18:29:58 [INFO] Starting minecraft server version 12w07b
+2012-02-22 18:29:58 [INFO] Loading properties
+2012-02-22 18:29:58 [INFO] Starting Minecraft server on *:5050
+2012-02-22 18:29:58 [INFO] Preparing level "world"
+2012-02-22 18:29:58 [INFO] Default game type: 0
+2012-02-22 18:29:58 [INFO] Preparing start region for level 0
+2012-02-22 18:29:59 [INFO] Done (946295000ns)! For help, type "help" or "?"
+2012-02-22 18:38:46 [INFO] Dietzer [/86.73.174.110:50714] logged in with entity id 220 at (-14.09730871967467, 63.0, 1994.537855057162)
+2012-02-22 18:39:27 [INFO] maatthieu [/127.0.0.1:49384] logged in with entity id 724 at (-0.9039977170695777, 10.0, 5.575017018178762)
+2012-02-22 18:39:46 [INFO] <maatthieu> re
+2012-02-22 18:39:48 [INFO] <Dietzer> Re
+2012-02-22 18:39:51 [INFO] <maatthieu> fait jour ou nuit
+2012-02-22 18:40:01 [INFO] <Dietzer> Jour, je viens de passer la nuit
+2012-02-22 18:40:47 [INFO] <maatthieu> au village surement la pioche :p
+2012-02-22 18:41:01 [INFO] <maatthieu> j'y vai
+2012-02-22 18:41:07 [INFO] <Dietzer> Ok
+2012-02-22 18:42:45 [INFO] <Dietzer> Euh y a un probleme
+2012-02-22 18:42:48 [INFO] <maatthieu> koi
+2012-02-22 18:42:55 [INFO] <Dietzer> J'ai atterie en -16 64 16
+2012-02-22 18:43:05 [INFO] <maatthieu> de chez toi?
+2012-02-22 18:43:18 [INFO] <Dietzer> Nan à la sortie du Nether, dans le portail de la base
+2012-02-22 18:43:30 [INFO] <maatthieu> oui c le nouveau portail
+2012-02-22 18:43:52 [INFO] <Dietzer> Ok, Don je désactive celui là et je remet l'autre en marche
+2012-02-22 18:44:00 [INFO] <maatthieu> comment tu desactives?
+2012-02-22 18:44:06 [INFO] <Dietzer> Avec le briquet
+2012-02-22 18:44:13 [INFO] <maatthieu> ... j y est pas pesne
+2012-02-22 18:44:17 [INFO] <Dietzer> ...
+2012-02-22 18:44:55 [INFO] <Dietzer> Il va me falloir un seau de lave par contre, doit y en avoir en bas
+2012-02-22 18:45:03 [INFO] <maatthieu> non il est dans le coffre
+2012-02-22 18:45:27 [INFO] <maatthieu> comment on fait pour desactiver avec le briquet?
+2012-02-22 18:45:44 [INFO] <Dietzer> Arf merde, ça ne marche plus
+2012-02-22 18:45:53 [INFO] <maatthieu> g la pioche de diamant?
+2012-02-22 18:45:59 [INFO] <maatthieu> ca marche pas le briquet?
+2012-02-22 18:46:02 [INFO] <Dietzer> C'est une question ?!
+2012-02-22 18:46:05 [INFO] <maatthieu> oui
+2012-02-22 18:46:11 [INFO] <Dietzer> Pour la pioche de diamand
+2012-02-22 18:46:30 [INFO] <Dietzer> Ici elle n'y est pas en tout cas
+2012-02-22 18:46:31 [INFO] <maatthieu> g la pioche de diamant. c un affirmation
+2012-02-22 18:46:46 [INFO] <Dietzer> Pour le briquet normalement fallais faire clique droit sur le bas du portail
+2012-02-22 18:46:47 [INFO] <maatthieu> la question est comment on desactive le portail avec le briquet
+2012-02-22 18:47:28 [INFO] <maatthieu> bon la technique pioche de diamant marche bien
+2012-02-22 18:47:36 [INFO] <Dietzer> Va falloir que tu revienne avec la pioche, qu'on récupere l'obsidian
+2012-02-22 18:47:42 [INFO] <Dietzer> T'es loin ?!
+2012-02-22 18:47:43 [INFO] <maatthieu> oui
+2012-02-22 18:47:45 [INFO] <maatthieu> non
+2012-02-22 18:47:54 [INFO] <maatthieu> mais apres la nuit
+2012-02-22 18:48:08 [INFO] maatthieu issued server command: tp maatthieu dietzer
+2012-02-22 18:48:08 [INFO] maatthieu: Teleporting maatthieu to dietzer.
+2012-02-22 18:48:39 [INFO] <Dietzer> Je te vois traverser les bloc, t'es pas à la bonne hauteur
+2012-02-22 18:48:47 [INFO] <Dietzer> J'active l'autre
+2012-02-22 18:49:16 [WARNING] maatthieu moved wrongly!
+2012-02-22 18:49:20 [INFO] <Dietzer> Voilà c'est bon
+2012-02-22 18:49:34 [INFO] <Dietzer> Et pourquoi ça a merder finalement ?!
+2012-02-22 18:49:38 [INFO] <maatthieu> voila tu passes eje faid dodo je te donne la pioche
+2012-02-22 18:49:42 [INFO] <maatthieu> reviens
+2012-02-22 18:49:51 [INFO] <maatthieu> go nether
+2012-02-22 18:50:14 [INFO] <maatthieu> je me depeche
+2012-02-22 18:50:27 [INFO] <Dietzer> T'as trouver une sortie a la grotte dans le Nether ?!
+2012-02-22 18:50:33 [INFO] <maatthieu> nono
+2012-02-22 18:53:28 [INFO] <maatthieu> c presque bon
+2012-02-22 18:53:59 [INFO] <maatthieu> ta desactiver la porte cote nether?
+2012-02-22 18:54:43 [INFO] <Dietzer> Désolé petit soucis
+2012-02-22 18:54:48 [INFO] <maatthieu> no pb
+2012-02-22 18:55:06 [INFO] <Dietzer> Et non je ne l'ai pas encore désactiver, j'ai été taquiner les pigmen
+2012-02-22 18:55:14 [INFO] <maatthieu> ^^
+2012-02-22 18:55:47 [INFO] <Dietzer> J'ai une super technique pour les eliminer
+2012-02-22 18:55:58 [INFO] <maatthieu> coup de pioche
+2012-02-22 18:56:23 [INFO] <Dietzer> Euh non, je les bloque derriere un mur et je laisse un bloc de libre au niveau des yeaux
+2012-02-22 18:56:44 [INFO] <Dietzer> Bon t'es bon pour que je desactive la porte ?!
+2012-02-22 18:56:50 [INFO] <maatthieu> oui
+2012-02-22 18:57:09 [INFO] <Dietzer> Porte désactiver
+2012-02-22 18:57:19 [INFO] <maatthieu> ok
+2012-02-22 18:57:25 [INFO] <maatthieu> j'arrive
+2012-02-22 18:57:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-22 18:57:33 [INFO] <Dietzer> Pourtant le village est assez éloigné, ça ne devrait pas poser de problème
+2012-02-22 18:58:05 [INFO] <maatthieu> c bon
+2012-02-22 18:58:14 [INFO] <maatthieu> oui au moins 500 blocs
+2012-02-22 18:58:16 [INFO] <Dietzer> Empreinte le
+2012-02-22 18:58:24 [INFO] <maatthieu> bon g atteri en milieu hostile
+2012-02-22 18:58:32 [INFO] <Dietzer> Les coord ?!
+2012-02-22 18:58:34 [INFO] <maatthieu> tu peux raactiver l'autre
+2012-02-22 18:58:38 [INFO] <maatthieu> g pas pu trop cho
+2012-02-22 18:58:51 [INFO] <Dietzer> Ok, c'est bon je l'ai réactiver
+2012-02-22 18:59:10 [INFO] <Dietzer> Je récupère de la pierre chez moi et j'arrive
+2012-02-22 18:59:12 [INFO] <maatthieu> et tu rattéri a la base?
+2012-02-22 18:59:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-22 18:59:30 [INFO] <Dietzer> Oui c'est bon
+2012-02-22 18:59:42 [INFO] <maatthieu> il reste 10 blocs de l'autre porte a recuperer
+2012-02-22 18:59:52 [INFO] <Dietzer> Je m'en occupe
+2012-02-22 19:00:04 [INFO] <maatthieu> les 4 blocs ilssont au village
+2012-02-22 19:00:13 [INFO] <Dietzer> Ok
+2012-02-22 19:00:14 [INFO] <maatthieu> go nether pour recup les corrdonées
+2012-02-22 19:00:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-22 19:00:42 [INFO] <maatthieu> -13
+2012-02-22 19:00:46 [INFO] <maatthieu> 55 et 54
+2012-02-22 19:00:57 [INFO] <maatthieu> c
+2012-02-22 19:01:21 [INFO] <maatthieu> c x, y et z
+2012-02-22 19:01:30 [INFO] <maatthieu> il est juste au dessus de la porte le saligo
+2012-02-22 19:01:32 [INFO] <Dietzer> -13 55 54
+2012-02-22 19:01:36 [INFO] <maatthieu> oui
+2012-02-22 19:01:39 [INFO] <Dietzer> Ok
+2012-02-22 19:01:54 [INFO] <maatthieu> toi c koi?
+2012-02-22 19:02:05 [INFO] <Dietzer> Je fini de recuperer l'obsidian et je fais un chemin
+2012-02-22 19:02:32 [INFO] <Dietzer> Moi je ne sais pas, mais on va tout faire partir u portail de la base
+2012-02-22 19:02:45 [INFO] <maatthieu> koi?
+2012-02-22 19:03:03 [INFO] <Dietzer> Pour relier les portails du Nether, on par de la base
+2012-02-22 19:03:07 [INFO] <maatthieu> oui
+2012-02-22 19:05:16 [INFO] <maatthieu> je croi que je sios au dessus de ton chemin g commencé a faire un escalier
+2012-02-22 19:05:28 [INFO] <maatthieu> et je suis tombé sur le grand lac de lave
+2012-02-22 19:05:31 [INFO] <Dietzer> Moi je creuse vers le haut
+2012-02-22 19:06:22 [INFO] <Dietzer> En fait si tout se passe bien dans 20 cases j'y suis
+2012-02-22 19:06:38 [INFO] <maatthieu> -2 44 et 46 je suis
+2012-02-22 19:06:42 [INFO] <Dietzer> Oh la vache la super etendu de lave
+2012-02-22 19:06:44 [INFO] <maatthieu> mais je sais pas ou c raiment
+2012-02-22 19:06:56 [INFO] <maatthieu> ouais
+2012-02-22 19:07:14 [INFO] <Dietzer> Merde j'en ai casser ma pioche
+2012-02-22 19:07:23 [INFO] <maatthieu> je vois ton nom
+2012-02-22 19:07:27 [INFO] <maatthieu> vers le bas
+2012-02-22 19:07:44 [INFO] <maatthieu> bon je re dans le nether la plus de piochz
+2012-02-22 19:07:49 [INFO] <maatthieu> non
+2012-02-22 19:07:51 [INFO] <Dietzer> Ok
+2012-02-22 19:08:02 [INFO] <maatthieu> t vrailent pas loin
+2012-02-22 19:08:16 [INFO] <maatthieu> je t'entend miner
+2012-02-22 19:08:22 [INFO] <Dietzer> Je suis devant le portail
+2012-02-22 19:08:28 [INFO] <maatthieu> j'arrive
+2012-02-22 19:08:40 [INFO] <Dietzer> Cool on a aterri dans un endroit bien dégagé
+2012-02-22 19:08:48 [INFO] <maatthieu> oui un peu trop :p
+2012-02-22 19:09:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-22 19:09:21 [INFO] <maatthieu> je re avec des provisions
+2012-02-22 19:09:24 [INFO] <Dietzer> Ok
+2012-02-22 19:10:04 [INFO] <Dietzer> Voilà, le village semblera plus proche
+2012-02-22 19:10:22 [INFO] <maatthieu> oui
+2012-02-22 19:10:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-22 19:10:37 [INFO] <Dietzer> Bien où tu l'as mis le portail
+2012-02-22 19:10:52 [INFO] <Dietzer> C'est toi qui à mis des escalier partout ?!
+2012-02-22 19:11:01 [INFO] <maatthieu> devant les portes?
+2012-02-22 19:11:14 [INFO] <Dietzer> Oui et la razzia dans les plantations ^^
+2012-02-22 19:11:47 [INFO] <Dietzer> Il va faire nuit
+2012-02-22 19:11:55 [INFO] <maatthieu> je fais un autre lit
+2012-02-22 19:12:03 [INFO] <Dietzer> Ou va dans le Nether
+2012-02-22 19:12:07 [INFO] <maatthieu> non ^^
+2012-02-22 19:12:44 [INFO] <maatthieu> je dros en haut
+2012-02-22 19:12:50 [INFO] <Dietzer> Oki
+2012-02-22 19:13:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-22 19:13:50 [INFO] <Dietzer> Bon je retourne dans le Nether, je vais consolider la route entre les 3 portails
+2012-02-22 19:14:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-22 19:14:34 [INFO] <Dietzer> Génial, un ghast
+2012-02-22 19:15:00 [INFO] <maatthieu> oki bon courage ^^
+2012-02-22 19:15:05 [INFO] <maatthieu> je finis de securiser le village
+2012-02-22 19:15:08 [INFO] <Dietzer> Ok
+2012-02-22 19:15:17 [INFO] <maatthieu> dans le prochain snapshot les villageois seront se defendre
+2012-02-22 19:18:04 [INFO] <Dietzer> C'est parti pour faire chauffer 8x64 pierres
+2012-02-22 19:18:21 [INFO] <maatthieu> combien de fours?
+2012-02-22 19:18:56 [INFO] <Dietzer> T'as le choix ou je fais chauffer 64 pierres dans 8 fours ou 8 pierre dans 64 fours
+2012-02-22 19:19:09 [INFO] <maatthieu> 64 fours?
+2012-02-22 19:19:34 [INFO] <Dietzer> Si je te dis que je fais chauffer 8x64 pierres ça te parait pas logique le nombre de fours
+2012-02-22 19:19:46 [INFO] <maatthieu> ouais mais pas tous en mm temps peut etre
+2012-02-22 19:19:58 [INFO] <Dietzer> Dans ce cas là j'aurais dit un autre chiffre
+2012-02-22 19:22:44 [INFO] <maatthieu> y a un piti villageoi
+2012-02-22 19:22:49 [INFO] <Dietzer> Tue le
+2012-02-22 19:22:58 [INFO] <maatthieu> mais non!
+2012-02-22 19:30:31 [INFO] <Dietzer> T'es pas dans le Nether ?!
+2012-02-22 19:30:34 [INFO] <maatthieu> non
+2012-02-22 19:30:41 [INFO] <maatthieu> tu veux que j y aille
+2012-02-22 19:30:48 [INFO] <Dietzer> Putain l'arnaque y a que 8x8 pierres qui ont cuit
+2012-02-22 19:33:02 [INFO] <Dietzer> Voilà y a un escalier qui mène de chez moi à la base maintenant
+2012-02-22 19:33:17 [INFO] <maatthieu> oki
+2012-02-22 19:33:24 [INFO] <maatthieu> et l'autre chemin est long?
+2012-02-22 19:33:29 [INFO] <Dietzer> Nan pas trop
+2012-02-22 19:34:46 [INFO] <Dietzer> Ca lagge à mort chez moi
+2012-02-22 19:35:01 [INFO] <Dietzer> Je déco et reco
+2012-02-22 19:35:02 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-22 19:35:20 [INFO] Dietzer [/86.73.174.110:50742] logged in with entity id 61663 at (-3.71875, 33.0, 202.4375)
+2012-02-22 19:35:37 [INFO] <Dietzer> Merde, je ne suis pas au bon Y dans le Nether
+2012-02-22 19:35:43 [INFO] <maatthieu> ouf
+2012-02-22 19:36:01 [INFO] <maatthieu> ut veux que j'aille dans le nether et tu te tp?
+2012-02-22 19:36:12 [INFO] <Dietzer> Atta, j'explore un peu
+2012-02-22 19:36:44 [INFO] <maatthieu> les zombies traversent les barrieres?
+2012-02-22 19:36:45 [INFO] <Dietzer> En fait non, viens dans le Nether STP
+2012-02-22 19:36:49 [INFO] <Dietzer> Merde
+2012-02-22 19:36:54 [INFO] <maatthieu> j'arrive
+2012-02-22 19:37:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-22 19:37:35 [INFO] maatthieu lost connection: disconnect.genericReason
+2012-02-22 19:37:37 [INFO] <Dietzer> Grouille Ghast et je suis bloque
+2012-02-22 19:37:44 [INFO] <Dietzer> ...
+2012-02-22 19:37:46 [INFO] maatthieu [/127.0.0.1:49551] logged in with entity id 62659 at (-28.0, 50.5, 66.5)
+2012-02-22 19:37:58 [INFO] <maatthieu> c obn
+2012-02-22 19:38:04 [INFO] <Dietzer> Ne refais pas ça j'ai un ghast au cul et je suis bloqué
+2012-02-22 19:38:17 [INFO] maatthieu issued server command: tp dietzer maatthieu
+2012-02-22 19:38:17 [INFO] maatthieu: Teleporting dietzer to maatthieu.
+2012-02-22 19:38:22 [INFO] <Dietzer> Ouf, merci
+2012-02-22 19:38:31 [INFO] <maatthieu> y a eu un bug pour arriver dans le nether
+2012-02-22 19:38:38 [INFO] <Dietzer> Arf
+2012-02-22 19:39:21 [INFO] <Dietzer> C'est con en plus j'étais en train d'éclairer les escaliers
+2012-02-22 19:39:31 [INFO] <maatthieu> ca lag maintenant chez moi ^^
+2012-02-22 19:39:39 [INFO] <Dietzer> Arf
+2012-02-22 19:40:08 [INFO] <maatthieu> le village est quasi safe
+2012-02-22 19:40:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2012-02-22 19:41:26 [INFO] <Dietzer> Bon je déco pour de bon, @+
+2012-02-22 19:41:29 [INFO] Dietzer lost connection: disconnect.quitting
+2012-02-22 19:41:30 [INFO] <maatthieu> ++
+2012-02-22 20:00:30 [INFO] maatthieu lost connection: disconnect.quitting
+2012-02-22 21:32:08 [INFO] CONSOLE: Stopping the server..
+2012-02-22 21:32:08 [INFO] Stopping server
+2012-02-22 21:32:08 [INFO] Saving chunks
+2012-02-22 21:32:08 [INFO] Saving chunks
+2012-02-22 21:32:08 [INFO] Saving chunks
