@@ -27280,3 +27280,33 @@ java.lang.OutOfMemoryError: Java heap space
 2012-02-29 21:11:13 [INFO] Saving chunks
 2012-02-29 21:11:18 [INFO] Saving chunks
 2012-02-29 21:11:18 [INFO] Saving chunks
+2012-03-02 23:28:31 [INFO] Starting minecraft server version 1.2
+2012-03-02 23:28:31 [INFO] Loading properties
+2012-03-02 23:28:31 [INFO] Starting Minecraft server on *:5050
+2012-03-02 23:28:31 [INFO] Preparing level "world"
+2012-03-02 23:28:31 [INFO] Default game type: 0
+2012-03-02 23:28:31 [INFO] Preparing start region for level 0
+2012-03-02 23:28:32 [INFO] Done (775269000ns)! For help, type "help" or "?"
+2012-03-02 23:29:02 [INFO] maatthieu [/127.0.0.1:60049] logged in with entity id 164 at (-241.75, 76.0, 537.4375)
+2012-03-02 23:29:57 [INFO] maatthieu lost connection: disconnect.quitting
+2012-03-02 23:30:50 [INFO] CONSOLE: Stopping the server..
+2012-03-02 23:30:50 [INFO] Stopping server
+2012-03-02 23:30:50 [INFO] Saving chunks
+2012-03-02 23:30:51 [INFO] Saving chunks
+2012-03-02 23:30:51 [INFO] Saving chunks
+2012-03-02 23:32:06 [INFO] Starting minecraft server version 1.2
+2012-03-02 23:32:06 [INFO] Loading properties
+2012-03-02 23:32:06 [INFO] Starting Minecraft server on *:5050
+2012-03-02 23:32:06 [INFO] Preparing level "world"
+2012-03-02 23:32:06 [INFO] Default game type: 0
+2012-03-02 23:32:06 [INFO] Preparing start region for level 0
+2012-03-02 23:32:06 [INFO] Done (746207000ns)! For help, type "help" or "?"
+2012-03-02 23:32:13 [INFO] maatthieu [/127.0.0.1:60112] logged in with entity id 158 at (-241.75, 76.0, 537.4375)
+2012-03-03 00:37:22 [INFO] maatthieu lost connection: disconnect.genericReason
+2012-03-03 00:37:55 [INFO] maatthieu [/127.0.0.1:60362] logged in with entity id 45742 at (-195.3125, 65.0, 565.0)
+2012-03-03 01:11:29 [INFO] maatthieu lost connection: disconnect.quitting
+2012-03-03 01:11:37 [INFO] CONSOLE: Stopping the server..
+2012-03-03 01:11:37 [INFO] Stopping server
+2012-03-03 01:11:37 [INFO] Saving chunks
+2012-03-03 01:11:38 [INFO] Saving chunks
+2012-03-03 01:11:38 [INFO] Saving chunks
